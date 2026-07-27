@@ -157,6 +157,7 @@
 - 来源：[B站专栏：流放之路〈机制之美〉vol.1 三奉献及裂风雷球图腾介绍](https://www.bilibili.com/opus/1188489760874692609)
 - 作者：理性吃水蜜桃；专栏最后编辑于 2026-04-08。
 - 基础 PoB：[10D／3.28 版本](https://pobb.in/x0eJRLDoGLDY)；作者提供的高投入 PoB：[30D 版本](https://pobb.in/uOWeR64h65hK)。
+- 本地独立整理：[3.28_三奉献风爆图腾圣宗_BD整理.md](./3.28_三奉献风爆图腾圣宗_BD整理.md)
 - 记录日期：2026-07-27。
 - 版本状态：原文和 PoB 均为 3.28；3.29 对风爆（Storm Burst）本体有所加强，但法术图腾辅助（Spell Totem Support）、秘能披风（Arcane Cloak）和圣宗的升华仪式（Ritual of Awakening）均被削弱，不能直接沿用原 PoB 数值。
 - 名称说明：原文称主技能为“裂风雷球”，PoEDB／当前资料名称为风爆（Storm Burst）；本记录统一使用风爆（Storm Burst）。
