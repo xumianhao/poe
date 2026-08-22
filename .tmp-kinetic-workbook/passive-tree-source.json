@@ -1,0 +1,3868 @@
+{
+  "treeVersion": "3.29",
+  "pobTreeVersion": "3_28",
+  "pobUrl": "https://pobb.in/VYkCtsG0KTaF",
+  "methodology": "PoB仅保存阶段节点集合；逐点顺序必须按相邻Spec差异与连接关系推导，不能视为作者原始点击记录。",
+  "countReconciliation": {
+    "pobbinLabel": 111,
+    "xmlFinalOrdinaryAllocated": 118,
+    "mainOrder": "1..111",
+    "pobAdditionalPoints": "112..118",
+    "finalStartNodes": [
+      "30940",
+      "61525",
+      "542"
+    ],
+    "finalPaidAscendancyAndBloodline": [
+      "16350",
+      "26714",
+      "43376",
+      "1105",
+      "10696",
+      "25651",
+      "34434",
+      "22637",
+      "14870"
+    ],
+    "note": "pobb.in页面标签与XML/PoB CountAllocNodes口径不一致；后续数据必须保留完整118个普通投入。"
+  },
+  "nodes": {
+    "542": {
+      "cn": "奥尔血脉起点",
+      "en": "Aul Bloodline",
+      "type": "ascendancyStart",
+      "connections": [
+        "16350"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "奥尔血脉起点（Aul Bloodline）",
+      "category": "血脉",
+      "purpose": "作为奥尔血脉天赋树的连接起点"
+    },
+    "885": {
+      "cn": "火焰伤害",
+      "en": "Fire Damage",
+      "type": "small",
+      "connections": [
+        "37163",
+        "40366"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "火焰伤害（Fire Damage）",
+      "category": "伤害",
+      "purpose": "提高火焰伤害"
+    },
+    "1031": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "19635",
+        "7938",
+        "33755",
+        "60388"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "1105": {
+      "cn": "信念之诉",
+      "en": "Pursuit of Faith",
+      "type": "ascendancy",
+      "connections": [
+        "14870",
+        "26714"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "信念之诉（Pursuit of Faith）",
+      "category": "图腾",
+      "purpose": "增加1个图腾上限，并提高图腾持续时间与放置速度"
+    },
+    "1203": {
+      "cn": "生命",
+      "en": "Life",
+      "type": "small",
+      "connections": [
+        "41472",
+        "49254"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "生命（Life）",
+      "category": "防御",
+      "purpose": "提高最大生命"
+    },
+    "4300": {
+      "cn": "图腾伤害与图腾放置速度",
+      "en": "Totem Damage and Placement Speed",
+      "type": "small",
+      "connections": [
+        "65159",
+        "11190",
+        "64210"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "图腾伤害与图腾放置速度（Totem Damage and Placement Speed）",
+      "category": "图腾",
+      "purpose": "提高图腾伤害与图腾放置速度"
+    },
+    "4367": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "19501",
+        "44184",
+        "56158",
+        "15117"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "4397": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "11420",
+        "7938",
+        "31875"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "5296": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "33310",
+        "19501",
+        "49651"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "5456": {
+      "cn": "坚强力量",
+      "en": "Might",
+      "type": "notable",
+      "connections": [
+        "42760"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "坚强力量（Might）",
+      "category": "属性",
+      "purpose": "提供30点力量"
+    },
+    "5726": {
+      "cn": "元素专精",
+      "en": "Elemental Mastery",
+      "type": "mastery",
+      "connections": [
+        "32455"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "元素专精（Elemental Mastery）",
+      "category": "伤害/机制",
+      "purpose": "解锁元素专精的可选效果"
+    },
+    "5743": {
+      "cn": "生命与能量护盾",
+      "en": "Life and Energy Shield",
+      "type": "small",
+      "connections": [
+        "64210",
+        "58218",
+        "9386"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "生命与能量护盾（Life and Energy Shield）",
+      "category": "防御",
+      "purpose": "提高最大生命与最大能量护盾"
+    },
+    "5935": {
+      "cn": "光环范围",
+      "en": "Aura Area of Effect",
+      "type": "small",
+      "connections": [
+        "64210",
+        "25831"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "光环范围（Aura Area of Effect）",
+      "category": "光环保留",
+      "purpose": "扩大光环技能的作用范围"
+    },
+    "6237": {
+      "cn": "精准",
+      "en": "Precision",
+      "type": "notable",
+      "connections": [
+        "15599",
+        "44529"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "精准（Precision）",
+      "category": "伤害/属性",
+      "purpose": "提高攻击与施法速度、命中值，并提供敏捷"
+    },
+    "6712": {
+      "cn": "生命",
+      "en": "Life",
+      "type": "small",
+      "connections": [
+        "36949",
+        "23027"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "生命（Life）",
+      "category": "防御",
+      "purpose": "提高最大生命"
+    },
+    "6764": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "40366",
+        "14057",
+        "19919",
+        "58402",
+        "24824"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "6770": {
+      "cn": "奥术护卫",
+      "en": "Arcane Guarding",
+      "type": "notable",
+      "connections": [
+        "45558",
+        "27323"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "奥术护卫（Arcane Guarding）",
+      "category": "防御",
+      "purpose": "提高持盾时的法术格挡几率与盾牌能量护盾"
+    },
+    "6967": {
+      "cn": "护卫",
+      "en": "Safeguard",
+      "type": "notable",
+      "connections": [
+        "38921",
+        "63138",
+        "55743"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "护卫（Safeguard）",
+      "category": "防御",
+      "purpose": "提高法术格挡上限与几率，并在法术格挡时回复能量护盾"
+    },
+    "7153": {
+      "cn": "闪电伤害",
+      "en": "Lightning Damage",
+      "type": "small",
+      "connections": [
+        "58763",
+        "32455"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "闪电伤害（Lightning Damage）",
+      "category": "伤害",
+      "purpose": "提高闪电伤害"
+    },
+    "7444": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "64210",
+        "36678"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "7938": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "1031",
+        "33779",
+        "34157",
+        "14021",
+        "4397"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "7960": {
+      "cn": "珠宝插槽",
+      "en": "Large Jewel Socket",
+      "type": "jewelSocket",
+      "connections": [
+        "52502",
+        "65568"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "珠宝插槽（Large Jewel Socket）",
+      "category": "珠宝",
+      "purpose": "解锁一个大型珠宝插槽"
+    },
+    "8135": {
+      "cn": "化虚为实",
+      "en": "Practical Application",
+      "type": "notable",
+      "connections": [
+        "11128"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "化虚为实（Practical Application）",
+      "category": "属性/防御",
+      "purpose": "提供力量、敏捷与全部元素抗性，并降低施法被晕眩风险"
+    },
+    "9261": {
+      "cn": "禁礼门徒",
+      "en": "Disciple of the Forbidden",
+      "type": "notable",
+      "connections": [
+        "34723",
+        "12783"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "禁礼门徒（Disciple of the Forbidden）",
+      "category": "资源/伤害",
+      "purpose": "提供最低暴击球，按暴击球提高伤害并支持击杀得球"
+    },
+    "9386": {
+      "cn": "生命与能量护盾",
+      "en": "Life and Energy Shield",
+      "type": "small",
+      "connections": [
+        "5743",
+        "14057"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "生命与能量护盾（Life and Energy Shield）",
+      "category": "防御",
+      "purpose": "提高最大生命与最大能量护盾"
+    },
+    "9408": {
+      "cn": "珠宝插槽",
+      "en": "Medium Jewel Socket",
+      "type": "jewelSocket",
+      "connections": [
+        "65555",
+        "65561"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "珠宝插槽（Medium Jewel Socket）",
+      "category": "珠宝",
+      "purpose": "解锁一个中型珠宝插槽"
+    },
+    "9432": {
+      "cn": "精神迅捷",
+      "en": "Mental Rapidity",
+      "type": "notable",
+      "connections": [
+        "54657"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "精神迅捷（Mental Rapidity）",
+      "category": "资源",
+      "purpose": "提高施法速度与魔力回复速度"
+    },
+    "10031": {
+      "cn": "生命",
+      "en": "Life",
+      "type": "small",
+      "connections": [
+        "15064",
+        "36949"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "生命（Life）",
+      "category": "防御",
+      "purpose": "提高最大生命"
+    },
+    "10115": {
+      "cn": "完美无缺",
+      "en": "Prodigal Perfection",
+      "type": "notable",
+      "connections": [
+        "13862",
+        "43000"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "完美无缺（Prodigal Perfection）",
+      "category": "资源/伤害",
+      "purpose": "提高最大魔力，并按最大魔力提高法术伤害"
+    },
+    "10696": {
+      "cn": "王者传承",
+      "en": "Legacy of the King",
+      "type": "bloodline",
+      "connections": [
+        "43376",
+        "16350"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "王者传承（Legacy of the King）",
+      "category": "资源/机制",
+      "purpose": "连接王者传承血脉分支"
+    },
+    "10893": {
+      "cn": "火焰伤害",
+      "en": "Fire Damage",
+      "type": "small",
+      "connections": [
+        "18715",
+        "60501"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "火焰伤害（Fire Damage）",
+      "category": "伤害",
+      "purpose": "提高火焰伤害"
+    },
+    "11128": {
+      "cn": "施法抗打断与元素抗性",
+      "en": "Avoid Interruption while Casting and Elemental Resistances",
+      "type": "small",
+      "connections": [
+        "11420",
+        "8135"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "施法抗打断与元素抗性（Avoid Interruption while Casting and Elemental Resistances）",
+      "category": "防御",
+      "purpose": "降低施法被打断的风险并提高元素抗性"
+    },
+    "11190": {
+      "cn": "图腾生命与元素抗性",
+      "en": "Totem Life and Elemental Resistances",
+      "type": "small",
+      "connections": [
+        "4300",
+        "35910"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "图腾生命与元素抗性（Totem Life and Elemental Resistances）",
+      "category": "图腾/防御",
+      "purpose": "提高图腾生命与图腾元素抗性"
+    },
+    "11420": {
+      "cn": "奥术师的统御",
+      "en": "Arcanist's Dominion",
+      "type": "notable",
+      "connections": [
+        "48362",
+        "4397",
+        "11128"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "奥术师的统御（Arcanist's Dominion）",
+      "category": "伤害/属性",
+      "purpose": "提高法术伤害与施法速度，并提供智慧"
+    },
+    "11551": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "43000",
+        "19635",
+        "50472",
+        "38176"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "11689": {
+      "cn": "持盾法术伤害与法术格挡",
+      "en": "Shield Spell Damage and Spell Block",
+      "type": "small",
+      "connections": [
+        "46904",
+        "19008"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "持盾法术伤害与法术格挡（Shield Spell Damage and Spell Block）",
+      "category": "防御",
+      "purpose": "提高持盾法术伤害与法术格挡"
+    },
+    "11730": {
+      "cn": "耐力",
+      "en": "Endurance",
+      "type": "notable",
+      "connections": [
+        "34171"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "耐力（Endurance）",
+      "category": "资源",
+      "purpose": "增加1个耐力球上限"
+    },
+    "12125": {
+      "cn": "生命专精",
+      "en": "Life Mastery",
+      "type": "mastery",
+      "connections": [
+        "21958"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "生命专精（Life Mastery）",
+      "category": "防御",
+      "purpose": "解锁生命专精的可选效果"
+    },
+    "12246": {
+      "cn": "能量护盾",
+      "en": "Energy Shield",
+      "type": "small",
+      "connections": [
+        "43061",
+        "36678"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "能量护盾（Energy Shield）",
+      "category": "防御",
+      "purpose": "提高最大能量护盾"
+    },
+    "12536": {
+      "cn": "元素伤害",
+      "en": "Elemental Damage",
+      "type": "small",
+      "connections": [
+        "15064",
+        "33435"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "元素伤害（Elemental Damage）",
+      "category": "伤害",
+      "purpose": "提高元素伤害"
+    },
+    "12613": {
+      "cn": "珠宝插槽",
+      "en": "Small Jewel Socket",
+      "type": "jewelSocket",
+      "connections": [
+        "65570"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "珠宝插槽（Small Jewel Socket）",
+      "category": "珠宝",
+      "purpose": "解锁一个小型珠宝插槽"
+    },
+    "12783": {
+      "cn": "每个暴击球提供暴击伤害",
+      "en": "Critical Strike Multiplier per Power Charge",
+      "type": "small",
+      "connections": [
+        "9261",
+        "16954"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "每个暴击球提供暴击伤害（Critical Strike Multiplier per Power Charge）",
+      "category": "资源/伤害",
+      "purpose": "按暴击球数量提高暴击伤害"
+    },
+    "12888": {
+      "cn": "每个暴击球提供魔力回复",
+      "en": "Mana Regeneration per Power Charge",
+      "type": "small",
+      "connections": [
+        "16954",
+        "63447"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "每个暴击球提供魔力回复（Mana Regeneration per Power Charge）",
+      "category": "资源",
+      "purpose": "按暴击球数量提高魔力回复"
+    },
+    "13009": {
+      "cn": "敏捷",
+      "en": "Dexterity",
+      "type": "small",
+      "connections": [
+        "60398",
+        "17735"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "敏捷（Dexterity）",
+      "category": "属性",
+      "purpose": "提供敏捷属性"
+    },
+    "13164": {
+      "cn": "神圣审判",
+      "en": "Divine Judgement",
+      "type": "notable",
+      "connections": [
+        "44298",
+        "41251"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "神圣审判（Divine Judgement）",
+      "category": "伤害",
+      "purpose": "大幅提高元素伤害"
+    },
+    "13862": {
+      "cn": "魔力专精",
+      "en": "Mana Mastery",
+      "type": "mastery",
+      "connections": [
+        "10115"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "魔力专精（Mana Mastery）",
+      "category": "资源",
+      "purpose": "解锁魔力专精的可选效果"
+    },
+    "14021": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "7938",
+        "55332"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "14040": {
+      "cn": "火焰伤害",
+      "en": "Fire Damage",
+      "type": "small",
+      "connections": [
+        "18715",
+        "61804"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "火焰伤害（Fire Damage）",
+      "category": "伤害",
+      "purpose": "提高火焰伤害"
+    },
+    "14057": {
+      "cn": "生命与能量护盾",
+      "en": "Life and Energy Shield",
+      "type": "small",
+      "connections": [
+        "9386",
+        "6764"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "生命与能量护盾（Life and Energy Shield）",
+      "category": "防御",
+      "purpose": "提高最大生命与最大能量护盾"
+    },
+    "14151": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "27564",
+        "63965"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "14870": {
+      "cn": "魔力再生, 图腾放置速度",
+      "en": "Mana Regeneration, Totem Placement Speed",
+      "type": "ascendancy",
+      "connections": [
+        "34434",
+        "1105"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "魔力再生, 图腾放置速度（Mana Regeneration, Totem Placement Speed）",
+      "category": "图腾/资源",
+      "purpose": "提高魔力回复速度与图腾放置速度"
+    },
+    "14936": {
+      "cn": "生命",
+      "en": "Life",
+      "type": "small",
+      "connections": [
+        "44184",
+        "21958"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "生命（Life）",
+      "category": "防御",
+      "purpose": "提高最大生命"
+    },
+    "15064": {
+      "cn": "力量",
+      "en": "Strength",
+      "type": "small",
+      "connections": [
+        "10031",
+        "31931",
+        "12536"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "力量（Strength）",
+      "category": "属性",
+      "purpose": "提供力量属性"
+    },
+    "15117": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "4367",
+        "61419"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "15599": {
+      "cn": "攻击与施法速度、命中值",
+      "en": "Attack and Cast Speed, Accuracy",
+      "type": "small",
+      "connections": [
+        "6237",
+        "26866"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "攻击与施法速度、命中值（Attack and Cast Speed, Accuracy）",
+      "category": "伤害",
+      "purpose": "提高攻击与施法速度、命中值"
+    },
+    "15631": {
+      "cn": "力量",
+      "en": "Strength",
+      "type": "small",
+      "connections": [
+        "39713",
+        "31931"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "力量（Strength）",
+      "category": "属性",
+      "purpose": "提供力量属性"
+    },
+    "16243": {
+      "cn": "聚灵之杖",
+      "en": "Fusillade",
+      "type": "notable",
+      "connections": [
+        "48878",
+        "27879"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "聚灵之杖（Fusillade）",
+      "category": "伤害",
+      "purpose": "提高法杖攻击速度与命中值"
+    },
+    "16350": {
+      "cn": "充能时间",
+      "en": "Charge Duration",
+      "type": "bloodline",
+      "connections": [
+        "10696",
+        "542"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "充能时间（Charge Duration）",
+      "category": "资源",
+      "purpose": "延长耐力球、狂怒球与暴击球持续时间"
+    },
+    "16954": {
+      "cn": "每个暴击球提供暴击率",
+      "en": "Critical Strike Chance per Power Charge",
+      "type": "small",
+      "connections": [
+        "12783",
+        "12888"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "每个暴击球提供暴击率（Critical Strike Chance per Power Charge）",
+      "category": "资源/伤害",
+      "purpose": "按暴击球数量提高暴击率"
+    },
+    "17735": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "13009",
+        "58402",
+        "49254",
+        "27564"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "18715": {
+      "cn": "火焰伤害",
+      "en": "Fire Damage",
+      "type": "small",
+      "connections": [
+        "10893",
+        "14040"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "火焰伤害（Fire Damage）",
+      "category": "伤害",
+      "purpose": "提高火焰伤害"
+    },
+    "19008": {
+      "cn": "持盾法术伤害与法术格挡",
+      "en": "Shield Spell Damage and Spell Block",
+      "type": "small",
+      "connections": [
+        "11689",
+        "58210"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "持盾法术伤害与法术格挡（Shield Spell Damage and Spell Block）",
+      "category": "防御",
+      "purpose": "提高持盾法术伤害与法术格挡"
+    },
+    "19501": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "4367",
+        "5296"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "19635": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "11551",
+        "1031"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "19919": {
+      "cn": "法术格挡",
+      "en": "Spell Block",
+      "type": "small",
+      "connections": [
+        "55743",
+        "62767",
+        "6764"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "法术格挡（Spell Block）",
+      "category": "防御",
+      "purpose": "提高法术格挡"
+    },
+    "20142": {
+      "cn": "图腾暴击伤害",
+      "en": "Totem Critical Strike Multiplier",
+      "type": "small",
+      "connections": [
+        "33779",
+        "45366"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "图腾暴击伤害（Totem Critical Strike Multiplier）",
+      "category": "图腾/暴击",
+      "purpose": "提高图腾暴击伤害"
+    },
+    "20228": {
+      "cn": "魔力回复与生命",
+      "en": "Mana Regeneration and Life",
+      "type": "small",
+      "connections": [
+        "61525",
+        "39916"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔力回复与生命（Mana Regeneration and Life）",
+      "category": "防御/资源",
+      "purpose": "提高魔力回复速度并增加生命"
+    },
+    "20528": {
+      "cn": "聚能之界",
+      "en": "Instability",
+      "type": "notable",
+      "connections": [
+        "56158"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "聚能之界（Instability）",
+      "category": "资源",
+      "purpose": "增加1个暴击球上限"
+    },
+    "20844": {
+      "cn": "魔杖攻击速度与命中",
+      "en": "Wand Attack Speed and Accuracy",
+      "type": "small",
+      "connections": [
+        "63944",
+        "62217"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖攻击速度与命中（Wand Attack Speed and Accuracy）",
+      "category": "伤害",
+      "purpose": "提高魔杖攻击速度与命中"
+    },
+    "20987": {
+      "cn": "元素伤害",
+      "en": "Elemental Damage",
+      "type": "small",
+      "connections": [
+        "52502",
+        "36678"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "元素伤害（Elemental Damage）",
+      "category": "伤害",
+      "purpose": "提高元素伤害"
+    },
+    "21929": {
+      "cn": "护甲与能量护盾",
+      "en": "Armour and Energy Shield",
+      "type": "small",
+      "connections": [
+        "38836",
+        "44202"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "护甲与能量护盾（Armour and Energy Shield）",
+      "category": "防御",
+      "purpose": "提高护甲与最大能量护盾"
+    },
+    "21958": {
+      "cn": "残忍准备",
+      "en": "Cruel Preparation",
+      "type": "notable",
+      "connections": [
+        "14936",
+        "12125",
+        "33755"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "残忍准备（Cruel Preparation）",
+      "category": "防御",
+      "purpose": "提高最大生命与全部元素抗性"
+    },
+    "21974": {
+      "cn": "保留效能",
+      "en": "Reservation Efficiency",
+      "type": "small",
+      "connections": [
+        "25831",
+        "32932"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "保留效能（Reservation Efficiency）",
+      "category": "光环保留",
+      "purpose": "提高技能的魔力保留效能"
+    },
+    "22088": {
+      "cn": "元素超载",
+      "en": "Elemental Overload",
+      "type": "keystone",
+      "connections": [
+        "55332"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "元素超载（Elemental Overload）",
+      "category": "伤害/机制",
+      "purpose": "近期暴击后使击中与异常状态造成更多元素伤害，但暴击不再造成额外伤害"
+    },
+    "22637": {
+      "cn": "魔力再生, 魔力",
+      "en": "Mana Regeneration, Mana",
+      "type": "ascendancy",
+      "connections": [
+        "25651",
+        "30940"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "魔力再生, 魔力（Mana Regeneration, Mana）",
+      "category": "资源",
+      "purpose": "提高最大魔力与魔力回复速度"
+    },
+    "22972": {
+      "cn": "斗杖者之力",
+      "en": "Wandslinger",
+      "type": "notable",
+      "connections": [
+        "56128",
+        "63067"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "斗杖者之力（Wandslinger）",
+      "category": "伤害",
+      "purpose": "提高持法杖时的伤害与法杖攻击速度"
+    },
+    "23027": {
+      "cn": "力量",
+      "en": "Strength",
+      "type": "small",
+      "connections": [
+        "60472",
+        "44202",
+        "6712"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "力量（Strength）",
+      "category": "属性",
+      "purpose": "提供力量属性"
+    },
+    "24324": {
+      "cn": "暴烈冲击",
+      "en": "Explosive Impact",
+      "type": "notable",
+      "connections": [
+        "63268",
+        "37163"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "暴烈冲击（Explosive Impact）",
+      "category": "伤害",
+      "purpose": "提高火焰伤害与范围效果"
+    },
+    "24362": {
+      "cn": "沉静思维",
+      "en": "Deep Thoughts",
+      "type": "notable",
+      "connections": [
+        "60388",
+        "53188"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "沉静思维（Deep Thoughts）",
+      "category": "资源/属性",
+      "purpose": "提高最大魔力与魔力回复速度，并提供智慧"
+    },
+    "24824": {
+      "cn": "召唤生物攻击与施法速度",
+      "en": "Minion Attack and Cast Speed",
+      "type": "small",
+      "connections": [
+        "6764",
+        "42668"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "召唤生物攻击与施法速度（Minion Attack and Cast Speed）",
+      "category": "伤害/机制",
+      "purpose": "提高召唤生物攻击与施法速度"
+    },
+    "25651": {
+      "cn": "力量定罪",
+      "en": "Conviction of Power",
+      "type": "ascendancy",
+      "connections": [
+        "22637"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "力量定罪（Conviction of Power）",
+      "category": "资源/机制",
+      "purpose": "提供最低耐力球与暴击球，并提高两者上限"
+    },
+    "25831": {
+      "cn": "保留效能",
+      "en": "Reservation Efficiency",
+      "type": "small",
+      "connections": [
+        "5935",
+        "21974"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "保留效能（Reservation Efficiency）",
+      "category": "光环保留",
+      "purpose": "提高技能的魔力保留效能"
+    },
+    "26196": {
+      "cn": "珠宝插槽",
+      "en": "Basic Jewel Socket",
+      "type": "jewelSocket",
+      "connections": [
+        "34171"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "珠宝插槽（Basic Jewel Socket）",
+      "category": "珠宝",
+      "purpose": "解锁一个基础珠宝插槽"
+    },
+    "26270": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "60472",
+        "46897",
+        "64210"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "26714": {
+      "cn": "魔力再生, 图腾放置速度",
+      "en": "Mana Regeneration, Totem Placement Speed",
+      "type": "ascendancy",
+      "connections": [
+        "1105",
+        "30940"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "魔力再生, 图腾放置速度（Mana Regeneration, Totem Placement Speed）",
+      "category": "图腾/资源",
+      "purpose": "提高魔力回复速度与图腾放置速度"
+    },
+    "26866": {
+      "cn": "圣洁之力",
+      "en": "Sanctity",
+      "type": "notable",
+      "connections": [
+        "44908",
+        "15599",
+        "61471"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "圣洁之力（Sanctity）",
+      "category": "防御/属性",
+      "purpose": "提高护甲与最大能量护盾，提供生命回复及力量与智慧"
+    },
+    "27137": {
+      "cn": "思维圣殿",
+      "en": "Sanctum of Thought",
+      "type": "notable",
+      "connections": [
+        "38836"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "思维圣殿（Sanctum of Thought）",
+      "category": "防御",
+      "purpose": "降低所受暴击额外伤害，并提高护甲与最大能量护盾"
+    },
+    "27203": {
+      "cn": "心与灵",
+      "en": "Heart and Soul",
+      "type": "notable",
+      "connections": [
+        "48362"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "心与灵（Heart and Soul）",
+      "category": "防御/资源",
+      "purpose": "提高最大生命与最大魔力"
+    },
+    "27323": {
+      "cn": "持盾法术格挡",
+      "en": "Shield Spell Block",
+      "type": "small",
+      "connections": [
+        "6770",
+        "43061"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "持盾法术格挡（Shield Spell Block）",
+      "category": "防御",
+      "purpose": "提高持盾法术格挡"
+    },
+    "27564": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "17735",
+        "14151"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "27879": {
+      "cn": "魔杖暴击率与暴击伤害",
+      "en": "Wand Critical Strike Chance and Multiplier",
+      "type": "small",
+      "connections": [
+        "52031",
+        "16243"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖暴击率与暴击伤害（Wand Critical Strike Chance and Multiplier）",
+      "category": "伤害",
+      "purpose": "提高魔杖暴击率与暴击伤害"
+    },
+    "29061": {
+      "cn": "元素伤害",
+      "en": "Elemental Damage",
+      "type": "small",
+      "connections": [
+        "55993",
+        "60472"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "元素伤害（Elemental Damage）",
+      "category": "伤害",
+      "purpose": "提高元素伤害"
+    },
+    "29552": {
+      "cn": "魔杖伤害",
+      "en": "Wand Damage",
+      "type": "small",
+      "connections": [
+        "40840",
+        "49779"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖伤害（Wand Damage）",
+      "category": "伤害",
+      "purpose": "提高魔杖伤害"
+    },
+    "29712": {
+      "cn": "珠宝插槽",
+      "en": "Medium Jewel Socket",
+      "type": "jewelSocket",
+      "connections": [
+        "65552",
+        "65578"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "珠宝插槽（Medium Jewel Socket）",
+      "category": "珠宝",
+      "purpose": "解锁一个中型珠宝插槽"
+    },
+    "30926": {
+      "cn": "魔杖元素伤害与穿透",
+      "en": "Wand Elemental Damage and Penetration",
+      "type": "small",
+      "connections": [
+        "56066",
+        "54043"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖元素伤害与穿透（Wand Elemental Damage and Penetration）",
+      "category": "伤害",
+      "purpose": "提高魔杖元素伤害与穿透"
+    },
+    "30940": {
+      "cn": "圣宗",
+      "en": "Hierophant",
+      "type": "ascendancyStart",
+      "connections": [
+        "22637",
+        "26714",
+        "61525"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "圣宗（Hierophant）",
+      "category": "升华",
+      "purpose": "作为圣宗升华天赋树的连接起点"
+    },
+    "31520": {
+      "cn": "图腾攻击与施法速度",
+      "en": "Totem Attack and Cast Speed",
+      "type": "small",
+      "connections": [
+        "63635",
+        "65159"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "图腾攻击与施法速度（Totem Attack and Cast Speed）",
+      "category": "图腾",
+      "purpose": "提高图腾攻击与施法速度"
+    },
+    "31875": {
+      "cn": "力量",
+      "en": "Strength",
+      "type": "small",
+      "connections": [
+        "4397",
+        "60398"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "力量（Strength）",
+      "category": "属性",
+      "purpose": "提供力量属性"
+    },
+    "31931": {
+      "cn": "力量",
+      "en": "Strength",
+      "type": "small",
+      "connections": [
+        "15064",
+        "15631",
+        "44908"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "力量（Strength）",
+      "category": "属性",
+      "purpose": "提供力量属性"
+    },
+    "32455": {
+      "cn": "风暴织者",
+      "en": "Storm Weaver",
+      "type": "notable",
+      "connections": [
+        "5726",
+        "7153"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "风暴织者（Storm Weaver）",
+      "category": "伤害",
+      "purpose": "提高冰冷与闪电伤害，并使被你感电或冰冻的敌人承受更多元素伤害"
+    },
+    "32932": {
+      "cn": "主权",
+      "en": "Sovereignty",
+      "type": "notable",
+      "connections": [
+        "21974",
+        "47197"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "主权（Sovereignty）",
+      "category": "光环保留",
+      "purpose": "提高技能魔力保留效能与非诅咒光环效果"
+    },
+    "33310": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "5296",
+        "39521"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "33435": {
+      "cn": "神圣统御",
+      "en": "Holy Dominion",
+      "type": "notable",
+      "connections": [
+        "12536",
+        "44799"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "神圣统御（Holy Dominion）",
+      "category": "伤害/防御",
+      "purpose": "提高元素伤害与全部元素抗性，并获得冰冻、感电和点燃几率"
+    },
+    "33755": {
+      "cn": "生命",
+      "en": "Life",
+      "type": "small",
+      "connections": [
+        "1031",
+        "21958"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "生命（Life）",
+      "category": "防御",
+      "purpose": "提高最大生命"
+    },
+    "33779": {
+      "cn": "图腾暴击率",
+      "en": "Totem Critical Strike Chance",
+      "type": "small",
+      "connections": [
+        "7938",
+        "20142"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "图腾暴击率（Totem Critical Strike Chance）",
+      "category": "图腾/暴击",
+      "purpose": "提高图腾暴击率"
+    },
+    "33923": {
+      "cn": "元素伤害",
+      "en": "Elemental Damage",
+      "type": "small",
+      "connections": [
+        "59005",
+        "35724"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "元素伤害（Elemental Damage）",
+      "category": "伤害",
+      "purpose": "提高元素伤害"
+    },
+    "34157": {
+      "cn": "施法速度",
+      "en": "Cast Speed",
+      "type": "small",
+      "connections": [
+        "7938",
+        "54657"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "施法速度（Cast Speed）",
+      "category": "伤害",
+      "purpose": "提高施法速度"
+    },
+    "34171": {
+      "cn": "力量",
+      "en": "Strength",
+      "type": "small",
+      "connections": [
+        "11730",
+        "60472",
+        "26196"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "力量（Strength）",
+      "category": "属性",
+      "purpose": "提供力量属性"
+    },
+    "34434": {
+      "cn": "升华仪式",
+      "en": "Ritual of Awakening",
+      "type": "ascendancy",
+      "connections": [
+        "14870"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "升华仪式（Ritual of Awakening）",
+      "category": "图腾/资源",
+      "purpose": "每个已召唤图腾提供更多伤害，并回复生命与魔力"
+    },
+    "34723": {
+      "cn": "充能专精",
+      "en": "Charge Mastery",
+      "type": "mastery",
+      "connections": [
+        "9261"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "充能专精（Charge Mastery）",
+      "category": "伤害/机制",
+      "purpose": "解锁充能专精的可选效果"
+    },
+    "34927": {
+      "cn": "火焰专精",
+      "en": "Fire Mastery",
+      "type": "mastery",
+      "connections": [
+        "60501"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "火焰专精（Fire Mastery）",
+      "category": "伤害/机制",
+      "purpose": "解锁火焰专精的可选效果"
+    },
+    "35038": {
+      "cn": "法杖专精",
+      "en": "Wand Mastery",
+      "type": "mastery",
+      "connections": [
+        "63944"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "法杖专精（Wand Mastery）",
+      "category": "伤害/机制",
+      "purpose": "解锁法杖专精的可选效果"
+    },
+    "35556": {
+      "cn": "力量",
+      "en": "Strength",
+      "type": "small",
+      "connections": [
+        "44908",
+        "39916"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "力量（Strength）",
+      "category": "属性",
+      "purpose": "提供力量属性"
+    },
+    "35724": {
+      "cn": "伤害与魔力",
+      "en": "Damage and Mana",
+      "type": "small",
+      "connections": [
+        "63965",
+        "33923"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "伤害与魔力（Damage and Mana）",
+      "category": "资源/伤害",
+      "purpose": "同时提高伤害与最大魔力"
+    },
+    "35910": {
+      "cn": "图腾生命与元素抗性",
+      "en": "Totem Life and Elemental Resistances",
+      "type": "small",
+      "connections": [
+        "11190",
+        "63635"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "图腾生命与元素抗性（Totem Life and Elemental Resistances）",
+      "category": "图腾/防御",
+      "purpose": "提高图腾生命与图腾元素抗性"
+    },
+    "35958": {
+      "cn": "钢之信仰",
+      "en": "Faith and Steel",
+      "type": "notable",
+      "connections": [
+        "46897"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "钢之信仰（Faith and Steel）",
+      "category": "防御",
+      "purpose": "提高护甲、最大能量护盾和全部元素抗性"
+    },
+    "36678": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "42760",
+        "7444",
+        "20987",
+        "12246",
+        "39841"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "36949": {
+      "cn": "奉献",
+      "en": "Devotion",
+      "type": "notable",
+      "connections": [
+        "10031",
+        "6712"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "奉献（Devotion）",
+      "category": "防御",
+      "purpose": "提高最大生命，并增强你创造的奉献地面效果"
+    },
+    "37163": {
+      "cn": "火焰伤害与施法速度",
+      "en": "Fire Damage and Cast Speed",
+      "type": "small",
+      "connections": [
+        "24324",
+        "885"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "火焰伤害与施法速度（Fire Damage and Cast Speed）",
+      "category": "伤害",
+      "purpose": "提高火焰伤害与施法速度"
+    },
+    "38176": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "11551",
+        "49651"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "38836": {
+      "cn": "护甲与能量护盾",
+      "en": "Armour and Energy Shield",
+      "type": "small",
+      "connections": [
+        "27137",
+        "21929"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "护甲与能量护盾（Armour and Energy Shield）",
+      "category": "防御",
+      "purpose": "提高护甲与最大能量护盾"
+    },
+    "38921": {
+      "cn": "格挡专精",
+      "en": "Block Mastery",
+      "type": "mastery",
+      "connections": [
+        "6967"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "格挡专精（Block Mastery）",
+      "category": "防御",
+      "purpose": "解锁格挡专精的可选效果"
+    },
+    "39521": {
+      "cn": "魔杖伤害",
+      "en": "Wand Damage",
+      "type": "small",
+      "connections": [
+        "49779",
+        "33310",
+        "51146"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖伤害（Wand Damage）",
+      "category": "伤害",
+      "purpose": "提高魔杖伤害"
+    },
+    "39713": {
+      "cn": "斗转星移",
+      "en": "Glancing Blows",
+      "type": "keystone",
+      "connections": [
+        "15631"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "斗转星移（Glancing Blows）",
+      "category": "防御/机制",
+      "purpose": "使攻击与法术格挡几率翻倍，但被格挡的击中仍造成部分伤害"
+    },
+    "39841": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "63447",
+        "36678"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "39916": {
+      "cn": "力量",
+      "en": "Strength",
+      "type": "small",
+      "connections": [
+        "35556",
+        "20228"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "力量（Strength）",
+      "category": "属性",
+      "purpose": "提供力量属性"
+    },
+    "40366": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "42760",
+        "885",
+        "58763",
+        "6764"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "40840": {
+      "cn": "魔杖伤害",
+      "en": "Wand Damage",
+      "type": "small",
+      "connections": [
+        "41476",
+        "29552"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖伤害（Wand Damage）",
+      "category": "伤害",
+      "purpose": "提高魔杖伤害"
+    },
+    "41251": {
+      "cn": "异常状态效果",
+      "en": "Ailment Effect",
+      "type": "small",
+      "connections": [
+        "13164",
+        "55993"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "异常状态效果（Ailment Effect）",
+      "category": "伤害",
+      "purpose": "提高异常状态效果"
+    },
+    "41472": {
+      "cn": "严峻训练",
+      "en": "Discipline and Training",
+      "type": "notable",
+      "connections": [
+        "61471",
+        "44799",
+        "1203"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "严峻训练（Discipline and Training）",
+      "category": "防御",
+      "purpose": "提供固定生命并提高最大生命"
+    },
+    "41476": {
+      "cn": "智慧之力",
+      "en": "Elder Power",
+      "type": "notable",
+      "connections": [
+        "52848",
+        "40840"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "智慧之力（Elder Power）",
+      "category": "伤害",
+      "purpose": "每个暴击球提高法杖伤害，击杀时有几率获得暴击球"
+    },
+    "41970": {
+      "cn": "先祖魂约",
+      "en": "Ancestral Bond",
+      "type": "keystone",
+      "connections": [
+        "64210"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "先祖魂约（Ancestral Bond）",
+      "category": "图腾",
+      "purpose": "增加1个图腾上限，但角色无法亲自用技能造成伤害"
+    },
+    "42668": {
+      "cn": "召唤生物攻击与施法速度",
+      "en": "Minion Attack and Cast Speed",
+      "type": "small",
+      "connections": [
+        "24824",
+        "43689"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "召唤生物攻击与施法速度（Minion Attack and Cast Speed）",
+      "category": "伤害/机制",
+      "purpose": "提高召唤生物攻击与施法速度"
+    },
+    "42760": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "5456",
+        "55332",
+        "40366",
+        "36678",
+        "56029"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "43000": {
+      "cn": "魔力与法术伤害",
+      "en": "Mana and Spell Damage",
+      "type": "small",
+      "connections": [
+        "10115",
+        "11551"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔力与法术伤害（Mana and Spell Damage）",
+      "category": "资源/伤害",
+      "purpose": "提高魔力与法术伤害"
+    },
+    "43061": {
+      "cn": "持盾法术格挡",
+      "en": "Shield Spell Block",
+      "type": "small",
+      "connections": [
+        "27323",
+        "12246"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "持盾法术格挡（Shield Spell Block）",
+      "category": "防御",
+      "purpose": "提高持盾法术格挡"
+    },
+    "43376": {
+      "cn": "王之遗赠",
+      "en": "The King's Heritage",
+      "type": "bloodline",
+      "connections": [
+        "10696"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "王之遗赠（The King's Heritage）",
+      "category": "光环/机制",
+      "purpose": "耐力球处于最低或上限时分别强化坚定与愤怒光环效果"
+    },
+    "43689": {
+      "cn": "灵魂之令",
+      "en": "Spiritual Command",
+      "type": "notable",
+      "connections": [
+        "42668"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "灵魂之令（Spiritual Command）",
+      "category": "伤害/机制",
+      "purpose": "提高召唤生物攻击与施法速度，并让召唤生物攻击速度增减也作用于你"
+    },
+    "44184": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "58210",
+        "63447",
+        "14936",
+        "61804",
+        "4367"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "44202": {
+      "cn": "力量",
+      "en": "Strength",
+      "type": "small",
+      "connections": [
+        "23027",
+        "21929"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "力量（Strength）",
+      "category": "属性",
+      "purpose": "提供力量属性"
+    },
+    "44298": {
+      "cn": "元素专精",
+      "en": "Elemental Mastery",
+      "type": "mastery",
+      "connections": [
+        "13164"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "元素专精（Elemental Mastery）",
+      "category": "伤害/机制",
+      "purpose": "解锁元素专精的可选效果"
+    },
+    "44529": {
+      "cn": "攻击与施法速度、命中值",
+      "en": "Attack and Cast Speed, Accuracy",
+      "type": "small",
+      "connections": [
+        "49254",
+        "6237"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "攻击与施法速度、命中值（Attack and Cast Speed, Accuracy）",
+      "category": "伤害",
+      "purpose": "提高攻击与施法速度、命中值"
+    },
+    "44562": {
+      "cn": "萨满圣域",
+      "en": "Shaman's Dominion",
+      "type": "notable",
+      "connections": [
+        "45366"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "萨满圣域（Shaman's Dominion）",
+      "category": "图腾/暴击",
+      "purpose": "提高图腾技能的暴击率与暴击伤害"
+    },
+    "44799": {
+      "cn": "元素伤害",
+      "en": "Elemental Damage",
+      "type": "small",
+      "connections": [
+        "54694",
+        "33435",
+        "41472"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "元素伤害（Elemental Damage）",
+      "category": "伤害",
+      "purpose": "提高元素伤害"
+    },
+    "44908": {
+      "cn": "力量",
+      "en": "Strength",
+      "type": "small",
+      "connections": [
+        "31931",
+        "26866",
+        "35556"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "力量（Strength）",
+      "category": "属性",
+      "purpose": "提供力量属性"
+    },
+    "45366": {
+      "cn": "图腾暴击伤害",
+      "en": "Totem Critical Strike Multiplier",
+      "type": "small",
+      "connections": [
+        "20142",
+        "44562"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "图腾暴击伤害（Totem Critical Strike Multiplier）",
+      "category": "图腾/暴击",
+      "purpose": "提高图腾暴击伤害"
+    },
+    "45558": {
+      "cn": "盾牌专精",
+      "en": "Shield Mastery",
+      "type": "mastery",
+      "connections": [
+        "6770"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "盾牌专精（Shield Mastery）",
+      "category": "防御",
+      "purpose": "解锁盾牌专精的可选效果"
+    },
+    "46897": {
+      "cn": "护甲与能量护盾",
+      "en": "Armour and Energy Shield",
+      "type": "small",
+      "connections": [
+        "26270",
+        "35958"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "护甲与能量护盾（Armour and Energy Shield）",
+      "category": "防御",
+      "purpose": "提高护甲与最大能量护盾"
+    },
+    "46904": {
+      "cn": "奥术圣所",
+      "en": "Arcane Sanctuary",
+      "type": "notable",
+      "connections": [
+        "11689"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "奥术圣所（Arcane Sanctuary）",
+      "category": "防御/伤害",
+      "purpose": "持盾时提高法术格挡与法术伤害，并缩短自身元素异常持续时间"
+    },
+    "47197": {
+      "cn": "保留专精",
+      "en": "Reservation Mastery",
+      "type": "mastery",
+      "connections": [
+        "32932"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "保留专精（Reservation Mastery）",
+      "category": "光环保留",
+      "purpose": "解锁保留专精的可选效果"
+    },
+    "48362": {
+      "cn": "魔力与生命",
+      "en": "Mana and Life",
+      "type": "small",
+      "connections": [
+        "27203",
+        "11420"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔力与生命（Mana and Life）",
+      "category": "防御/资源",
+      "purpose": "提高最大魔力与最大生命"
+    },
+    "48878": {
+      "cn": "魔杖攻击速度与命中",
+      "en": "Wand Attack Speed and Accuracy",
+      "type": "small",
+      "connections": [
+        "51524",
+        "16243"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖攻击速度与命中（Wand Attack Speed and Accuracy）",
+      "category": "伤害",
+      "purpose": "提高魔杖攻击速度与命中"
+    },
+    "49254": {
+      "cn": "制裁",
+      "en": "Retribution",
+      "type": "notable",
+      "connections": [
+        "17735",
+        "44529",
+        "1203",
+        "61217"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "制裁（Retribution）",
+      "category": "伤害/属性",
+      "purpose": "提高自身与召唤生物伤害、攻击与施法速度，并提供力量与智慧"
+    },
+    "49651": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "5296",
+        "38176"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "49779": {
+      "cn": "魔杖伤害",
+      "en": "Wand Damage",
+      "type": "small",
+      "connections": [
+        "29552",
+        "39521"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖伤害（Wand Damage）",
+      "category": "伤害",
+      "purpose": "提高魔杖伤害"
+    },
+    "50472": {
+      "cn": "魔杖伤害",
+      "en": "Wand Damage",
+      "type": "small",
+      "connections": [
+        "63067",
+        "11551"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖伤害（Wand Damage）",
+      "category": "伤害",
+      "purpose": "提高魔杖伤害"
+    },
+    "51146": {
+      "cn": "魔杖攻击速度与命中",
+      "en": "Wand Attack Speed and Accuracy",
+      "type": "small",
+      "connections": [
+        "39521",
+        "51524"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖攻击速度与命中（Wand Attack Speed and Accuracy）",
+      "category": "伤害",
+      "purpose": "提高魔杖攻击速度与命中"
+    },
+    "51524": {
+      "cn": "魔杖攻击速度与命中",
+      "en": "Wand Attack Speed and Accuracy",
+      "type": "small",
+      "connections": [
+        "51146",
+        "48878"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖攻击速度与命中（Wand Attack Speed and Accuracy）",
+      "category": "伤害",
+      "purpose": "提高魔杖攻击速度与命中"
+    },
+    "52031": {
+      "cn": "解离",
+      "en": "Disintegration",
+      "type": "notable",
+      "connections": [
+        "52848",
+        "27879"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "解离（Disintegration）",
+      "category": "伤害/属性",
+      "purpose": "提高法杖暴击率与暴击伤害，并提供智慧"
+    },
+    "52502": {
+      "cn": "元素伤害",
+      "en": "Elemental Damage",
+      "type": "small",
+      "connections": [
+        "7960",
+        "20987"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "元素伤害（Elemental Damage）",
+      "category": "伤害",
+      "purpose": "提高元素伤害"
+    },
+    "52848": {
+      "cn": "魔杖暴击率与暴击伤害",
+      "en": "Wand Critical Strike Chance and Multiplier",
+      "type": "small",
+      "connections": [
+        "52031",
+        "41476"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖暴击率与暴击伤害（Wand Critical Strike Chance and Multiplier）",
+      "category": "伤害",
+      "purpose": "提高魔杖暴击率与暴击伤害"
+    },
+    "53188": {
+      "cn": "魔力专精",
+      "en": "Mana Mastery",
+      "type": "mastery",
+      "connections": [
+        "24362"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "魔力专精（Mana Mastery）",
+      "category": "资源",
+      "purpose": "解锁魔力专精的可选效果"
+    },
+    "54043": {
+      "cn": "魔杖元素伤害与穿透",
+      "en": "Wand Elemental Damage and Penetration",
+      "type": "small",
+      "connections": [
+        "30926",
+        "63944"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖元素伤害与穿透（Wand Elemental Damage and Penetration）",
+      "category": "伤害",
+      "purpose": "提高魔杖元素伤害与穿透"
+    },
+    "54657": {
+      "cn": "施法速度",
+      "en": "Cast Speed",
+      "type": "small",
+      "connections": [
+        "34157",
+        "9432"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "施法速度（Cast Speed）",
+      "category": "伤害",
+      "purpose": "提高施法速度"
+    },
+    "54694": {
+      "cn": "神圣启蒙",
+      "en": "Light of Divinity",
+      "type": "notable",
+      "connections": [
+        "44799"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "神圣启蒙（Light of Divinity）",
+      "category": "伤害/属性",
+      "purpose": "提高法术伤害与法术暴击率，并提供力量与智慧"
+    },
+    "55332": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "14021",
+        "22088",
+        "42760"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "55743": {
+      "cn": "法术格挡",
+      "en": "Spell Block",
+      "type": "small",
+      "connections": [
+        "6967",
+        "19919"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "法术格挡（Spell Block）",
+      "category": "防御",
+      "purpose": "提高法术格挡"
+    },
+    "55993": {
+      "cn": "元素伤害",
+      "en": "Elemental Damage",
+      "type": "small",
+      "connections": [
+        "41251",
+        "29061"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "元素伤害（Elemental Damage）",
+      "category": "伤害",
+      "purpose": "提高元素伤害"
+    },
+    "56029": {
+      "cn": "灵敏",
+      "en": "Agility",
+      "type": "notable",
+      "connections": [
+        "42760"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "灵敏（Agility）",
+      "category": "属性",
+      "purpose": "提供30点敏捷"
+    },
+    "56066": {
+      "cn": "法杖元素伤害",
+      "en": "Wand Elemental Damage",
+      "type": "small",
+      "connections": [
+        "63447",
+        "62217",
+        "30926"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "法杖元素伤害（Wand Elemental Damage）",
+      "category": "伤害",
+      "purpose": "提高法杖元素伤害"
+    },
+    "56128": {
+      "cn": "法杖专精",
+      "en": "Wand Mastery",
+      "type": "mastery",
+      "connections": [
+        "22972"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "法杖专精（Wand Mastery）",
+      "category": "伤害/机制",
+      "purpose": "解锁法杖专精的可选效果"
+    },
+    "56158": {
+      "cn": "每个暴击球提供法术伤害",
+      "en": "Spell Damage per Power Charge",
+      "type": "small",
+      "connections": [
+        "20528",
+        "4367"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "每个暴击球提供法术伤害（Spell Damage per Power Charge）",
+      "category": "资源/伤害",
+      "purpose": "按暴击球数量提高法术伤害"
+    },
+    "58210": {
+      "cn": "持盾法术伤害",
+      "en": "Shield Spell Damage",
+      "type": "small",
+      "connections": [
+        "19008",
+        "44184"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "持盾法术伤害（Shield Spell Damage）",
+      "category": "伤害",
+      "purpose": "提高持盾法术伤害"
+    },
+    "58218": {
+      "cn": "肉体之纯净",
+      "en": "Purity of Flesh",
+      "type": "notable",
+      "connections": [
+        "5743"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "肉体之纯净（Purity of Flesh）",
+      "category": "防御",
+      "purpose": "提高最大生命、最大能量护盾和混沌抗性"
+    },
+    "58402": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "6764",
+        "17735"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "58763": {
+      "cn": "冰冷与闪电伤害",
+      "en": "Cold and Lightning Damage",
+      "type": "small",
+      "connections": [
+        "40366",
+        "7153"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "冰冷与闪电伤害（Cold and Lightning Damage）",
+      "category": "伤害",
+      "purpose": "提高冰冷与闪电伤害"
+    },
+    "59005": {
+      "cn": "元素伤害",
+      "en": "Elemental Damage",
+      "type": "small",
+      "connections": [
+        "61217",
+        "33923"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "元素伤害（Elemental Damage）",
+      "category": "伤害",
+      "purpose": "提高元素伤害"
+    },
+    "60388": {
+      "cn": "魔力",
+      "en": "Mana",
+      "type": "small",
+      "connections": [
+        "1031",
+        "24362"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔力（Mana）",
+      "category": "资源",
+      "purpose": "提高最大魔力"
+    },
+    "60398": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "13009",
+        "31875"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "60472": {
+      "cn": "力量",
+      "en": "Strength",
+      "type": "small",
+      "connections": [
+        "23027",
+        "26270",
+        "29061",
+        "34171"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "力量（Strength）",
+      "category": "属性",
+      "purpose": "提供力量属性"
+    },
+    "60501": {
+      "cn": "烈焰之心",
+      "en": "Heart of Flame",
+      "type": "notable",
+      "connections": [
+        "10893",
+        "34927"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "烈焰之心（Heart of Flame）",
+      "category": "伤害",
+      "purpose": "提高火焰伤害并穿透火焰抗性"
+    },
+    "61217": {
+      "cn": "元素伤害",
+      "en": "Elemental Damage",
+      "type": "small",
+      "connections": [
+        "49254",
+        "59005"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "元素伤害（Elemental Damage）",
+      "category": "伤害",
+      "purpose": "提高元素伤害"
+    },
+    "61419": {
+      "cn": "珠宝插槽",
+      "en": "Basic Jewel Socket",
+      "type": "jewelSocket",
+      "connections": [
+        "15117"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "珠宝插槽（Basic Jewel Socket）",
+      "category": "珠宝",
+      "purpose": "解锁一个基础珠宝插槽"
+    },
+    "61471": {
+      "cn": "生命",
+      "en": "Life",
+      "type": "small",
+      "connections": [
+        "26866",
+        "41472"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "生命（Life）",
+      "category": "防御",
+      "purpose": "提高最大生命"
+    },
+    "61525": {
+      "cn": "圣堂武僧起点",
+      "en": "TEMPLAR",
+      "type": "classStart",
+      "connections": [
+        "63965",
+        "30940",
+        "20228"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "圣堂武僧起点（TEMPLAR）",
+      "category": "职业起点",
+      "purpose": "作为圣堂武僧普通天赋树的连接起点"
+    },
+    "61804": {
+      "cn": "火焰伤害",
+      "en": "Fire Damage",
+      "type": "small",
+      "connections": [
+        "44184",
+        "14040"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "火焰伤害（Fire Damage）",
+      "category": "伤害",
+      "purpose": "提高火焰伤害"
+    },
+    "62217": {
+      "cn": "魔杖攻击速度与命中",
+      "en": "Wand Attack Speed and Accuracy",
+      "type": "small",
+      "connections": [
+        "20844",
+        "56066"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "魔杖攻击速度与命中（Wand Attack Speed and Accuracy）",
+      "category": "伤害",
+      "purpose": "提高魔杖攻击速度与命中"
+    },
+    "62767": {
+      "cn": "法术格挡与元素抗性",
+      "en": "Spell Block and Elemental Resistances",
+      "type": "small",
+      "connections": [
+        "63138",
+        "19919"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "法术格挡与元素抗性（Spell Block and Elemental Resistances）",
+      "category": "防御",
+      "purpose": "提高法术格挡与元素抗性"
+    },
+    "63067": {
+      "cn": "法杖伤害与攻击速度",
+      "en": "Wand Damage and Attack Speed",
+      "type": "small",
+      "connections": [
+        "22972",
+        "50472"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "法杖伤害与攻击速度（Wand Damage and Attack Speed）",
+      "category": "伤害",
+      "purpose": "提高法杖伤害与攻击速度"
+    },
+    "63138": {
+      "cn": "法术格挡与元素抗性",
+      "en": "Spell Block and Elemental Resistances",
+      "type": "small",
+      "connections": [
+        "6967",
+        "62767"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "法术格挡与元素抗性（Spell Block and Elemental Resistances）",
+      "category": "防御",
+      "purpose": "提高法术格挡与元素抗性"
+    },
+    "63268": {
+      "cn": "火焰专精",
+      "en": "Fire Mastery",
+      "type": "mastery",
+      "connections": [
+        "24324"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "火焰专精（Fire Mastery）",
+      "category": "伤害/机制",
+      "purpose": "解锁火焰专精的可选效果"
+    },
+    "63447": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "44184",
+        "56066",
+        "12888",
+        "39841"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "63635": {
+      "cn": "图腾专精",
+      "en": "Primal Manifestation",
+      "type": "notable",
+      "connections": [
+        "35910",
+        "31520"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "图腾专精（Primal Manifestation）",
+      "category": "图腾",
+      "purpose": "提高图腾伤害、生命与持续时间"
+    },
+    "63944": {
+      "cn": "绫彩交织",
+      "en": "Prism Weave",
+      "type": "notable",
+      "connections": [
+        "54043",
+        "35038",
+        "20844"
+      ],
+      "source": "GGG skilltree-export 3.29.0; Chinese name checked on poedb.tw/cn",
+      "displayName": "绫彩交织（Prism Weave）",
+      "category": "伤害",
+      "purpose": "提高法杖攻击速度与元素伤害，并穿透元素抗性"
+    },
+    "63965": {
+      "cn": "伤害与魔力",
+      "en": "Damage and Mana",
+      "type": "small",
+      "connections": [
+        "14151",
+        "35724",
+        "61525"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "伤害与魔力（Damage and Mana）",
+      "category": "资源/伤害",
+      "purpose": "同时提高伤害与最大魔力"
+    },
+    "64210": {
+      "cn": "智慧",
+      "en": "Intelligence",
+      "type": "small",
+      "connections": [
+        "26270",
+        "5935",
+        "41970",
+        "4300",
+        "5743",
+        "7444"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "智慧（Intelligence）",
+      "category": "属性",
+      "purpose": "提供智慧属性"
+    },
+    "65159": {
+      "cn": "图腾攻击与施法速度",
+      "en": "Totem Attack and Cast Speed",
+      "type": "small",
+      "connections": [
+        "31520",
+        "4300"
+      ],
+      "source": "GGG skilltree-export 3.29.0",
+      "displayName": "图腾攻击与施法速度（Totem Attack and Cast Speed）",
+      "category": "图腾",
+      "purpose": "提高图腾攻击与施法速度"
+    },
+    "65552": {
+      "cn": "图腾伤害",
+      "en": "Totem Damage",
+      "type": "clusterSmall",
+      "connections": [
+        "29712",
+        "65555",
+        "65561"
+      ],
+      "source": "PoB dynamic cluster patch",
+      "displayName": "图腾伤害（Totem Damage）",
+      "category": "图腾",
+      "purpose": "提高图腾伤害"
+    },
+    "65555": {
+      "cn": "先祖回音",
+      "en": "Ancestral Echo",
+      "type": "clusterNotable",
+      "connections": [
+        "65552",
+        "9408"
+      ],
+      "source": "PoB dynamic cluster patch",
+      "displayName": "先祖回音（Ancestral Echo）",
+      "category": "图腾",
+      "purpose": "提高图腾放置速度以及图腾攻击与施法速度"
+    },
+    "65561": {
+      "cn": "不眠哨卫",
+      "en": "Sleepless Sentries",
+      "type": "clusterNotable",
+      "connections": [
+        "65552",
+        "9408"
+      ],
+      "source": "PoB dynamic cluster patch",
+      "displayName": "不眠哨卫（Sleepless Sentries）",
+      "category": "图腾/增益",
+      "purpose": "放置图腾时获得猛攻，并提高图腾放置速度"
+    },
+    "65568": {
+      "cn": "魔杖伤害",
+      "en": "Wand Damage",
+      "type": "clusterSmall",
+      "connections": [
+        "7960",
+        "65570",
+        "65578"
+      ],
+      "source": "PoB dynamic cluster patch",
+      "displayName": "魔杖伤害（Wand Damage）",
+      "category": "伤害",
+      "purpose": "提高魔杖伤害"
+    },
+    "65570": {
+      "cn": "趁机发难",
+      "en": "Opportunistic Fusilade",
+      "type": "clusterNotable",
+      "connections": [
+        "65568",
+        "12613"
+      ],
+      "source": "PoB dynamic cluster patch",
+      "displayName": "趁机发难（Opportunistic Fusilade）",
+      "category": "伤害",
+      "purpose": "提高法杖伤害、攻击速度与命中值"
+    },
+    "65578": {
+      "cn": "武艺精湛",
+      "en": "Martial Prowess",
+      "type": "clusterNotable",
+      "connections": [
+        "65568",
+        "29712"
+      ],
+      "source": "PoB dynamic cluster patch",
+      "displayName": "武艺精湛（Martial Prowess）",
+      "category": "伤害",
+      "purpose": "提高攻击伤害、攻击速度与命中值"
+    }
+  },
+  "specs": {
+    "A1": [
+      "6237",
+      "26714",
+      "59005",
+      "35724",
+      "1105",
+      "30940",
+      "542",
+      "41472",
+      "54694",
+      "33435",
+      "17735",
+      "1203",
+      "61525",
+      "63965",
+      "61217",
+      "33923",
+      "44799",
+      "44529",
+      "49254"
+    ],
+    "A2": [
+      "6237",
+      "26714",
+      "59005",
+      "885",
+      "33923",
+      "1105",
+      "55332",
+      "30940",
+      "37163",
+      "40366",
+      "35724",
+      "1203",
+      "542",
+      "44799",
+      "41472",
+      "54694",
+      "33435",
+      "63268",
+      "17735",
+      "6764",
+      "42760",
+      "61525",
+      "63965",
+      "22088",
+      "61217",
+      "58402",
+      "24324",
+      "44529",
+      "49254"
+    ],
+    "A3": [
+      "7938",
+      "6237",
+      "24324",
+      "59005",
+      "1105",
+      "9432",
+      "37163",
+      "41472",
+      "33435",
+      "33755",
+      "6764",
+      "40366",
+      "61217",
+      "24362",
+      "49254",
+      "53188",
+      "14021",
+      "26714",
+      "33923",
+      "54657",
+      "60388",
+      "30940",
+      "55332",
+      "542",
+      "1031",
+      "21958",
+      "54694",
+      "61525",
+      "63268",
+      "17735",
+      "58402",
+      "1203",
+      "44799",
+      "63965",
+      "22088",
+      "885",
+      "34157",
+      "42760",
+      "44529",
+      "35724"
+    ],
+    "A3 (after Respec)": [
+      "14057",
+      "6237",
+      "59005",
+      "62217",
+      "56066",
+      "1105",
+      "55332",
+      "58402",
+      "20844",
+      "63944",
+      "41472",
+      "33435",
+      "6764",
+      "44799",
+      "63447",
+      "9386",
+      "61217",
+      "49254",
+      "36678",
+      "26714",
+      "64210",
+      "33923",
+      "30940",
+      "542",
+      "39841",
+      "56029",
+      "54694",
+      "42760",
+      "41970",
+      "17735",
+      "5743",
+      "1203",
+      "5456",
+      "63965",
+      "22088",
+      "35724",
+      "61525",
+      "40366",
+      "44529",
+      "35038"
+    ],
+    "A4": [
+      "39841",
+      "6237",
+      "59005",
+      "62217",
+      "56066",
+      "1105",
+      "55332",
+      "58402",
+      "20844",
+      "63944",
+      "41472",
+      "33435",
+      "1031",
+      "6764",
+      "61525",
+      "63447",
+      "9386",
+      "61217",
+      "50472",
+      "14870",
+      "49254",
+      "63067",
+      "56029",
+      "36678",
+      "14021",
+      "26714",
+      "64210",
+      "14057",
+      "35724",
+      "34434",
+      "54043",
+      "56128",
+      "30940",
+      "7938",
+      "5743",
+      "22972",
+      "542",
+      "40366",
+      "42760",
+      "54694",
+      "30926",
+      "41970",
+      "17735",
+      "33923",
+      "1203",
+      "44799",
+      "63965",
+      "22088",
+      "35038",
+      "11551",
+      "19635",
+      "44529",
+      "5456"
+    ],
+    "A5": [
+      "39841",
+      "56128",
+      "59005",
+      "62217",
+      "65159",
+      "1105",
+      "55332",
+      "6237",
+      "58402",
+      "56029",
+      "56066",
+      "20844",
+      "63944",
+      "14870",
+      "41472",
+      "32455",
+      "33435",
+      "61525",
+      "1031",
+      "58763",
+      "42760",
+      "44799",
+      "63447",
+      "9386",
+      "61217",
+      "50472",
+      "5456",
+      "31520",
+      "49254",
+      "63067",
+      "7153",
+      "36678",
+      "63635",
+      "26714",
+      "64210",
+      "35724",
+      "33923",
+      "34434",
+      "54043",
+      "5726",
+      "30940",
+      "14057",
+      "7938",
+      "22972",
+      "542",
+      "35038",
+      "40366",
+      "54694",
+      "30926",
+      "41970",
+      "17735",
+      "14021",
+      "1203",
+      "4300",
+      "63965",
+      "22088",
+      "6764",
+      "11551",
+      "19635",
+      "44529",
+      "5743"
+    ],
+    "A6": [
+      "39841",
+      "56128",
+      "35038",
+      "62217",
+      "65159",
+      "10115",
+      "41472",
+      "6764",
+      "61525",
+      "63447",
+      "61217",
+      "50472",
+      "49254",
+      "63067",
+      "63635",
+      "21958",
+      "33923",
+      "13862",
+      "30940",
+      "22972",
+      "542",
+      "54694",
+      "1203",
+      "4300",
+      "63965",
+      "22088",
+      "11551",
+      "19635",
+      "44529",
+      "7938",
+      "6237",
+      "59005",
+      "5456",
+      "14870",
+      "1105",
+      "55332",
+      "58402",
+      "20844",
+      "63944",
+      "33435",
+      "33755",
+      "44799",
+      "9386",
+      "58763",
+      "36678",
+      "26714",
+      "64210",
+      "35724",
+      "54043",
+      "56066",
+      "7153",
+      "14057",
+      "5726",
+      "30926",
+      "41970",
+      "17735",
+      "40366",
+      "5743",
+      "43000",
+      "34434",
+      "31520",
+      "14021",
+      "42760",
+      "1031",
+      "56029",
+      "32455"
+    ],
+    "A7": [
+      "56128",
+      "35038",
+      "62217",
+      "65159",
+      "10115",
+      "41472",
+      "42760",
+      "33310",
+      "63447",
+      "5935",
+      "61217",
+      "50472",
+      "49254",
+      "63067",
+      "32932",
+      "14021",
+      "21958",
+      "33923",
+      "13862",
+      "30940",
+      "38176",
+      "22972",
+      "542",
+      "54694",
+      "1203",
+      "4300",
+      "63965",
+      "22088",
+      "11551",
+      "19635",
+      "44529",
+      "5296",
+      "7938",
+      "6237",
+      "59005",
+      "5456",
+      "14870",
+      "1105",
+      "55332",
+      "58402",
+      "20844",
+      "32455",
+      "33435",
+      "14936",
+      "44799",
+      "9386",
+      "58763",
+      "51146",
+      "26714",
+      "64210",
+      "14057",
+      "35724",
+      "7153",
+      "54043",
+      "6764",
+      "63944",
+      "33755",
+      "25831",
+      "63635",
+      "34434",
+      "21974",
+      "31520",
+      "30926",
+      "5726",
+      "41970",
+      "17735",
+      "61525",
+      "40366",
+      "43000",
+      "39521",
+      "56066",
+      "49651",
+      "1031",
+      "44184",
+      "56029",
+      "5743"
+    ],
+    "A8": [
+      "56128",
+      "35038",
+      "5743",
+      "65159",
+      "10115",
+      "41472",
+      "48878",
+      "6764",
+      "61525",
+      "63447",
+      "5935",
+      "61217",
+      "50472",
+      "49254",
+      "63067",
+      "32932",
+      "63635",
+      "21958",
+      "33923",
+      "13862",
+      "30940",
+      "38176",
+      "22972",
+      "542",
+      "54694",
+      "43689",
+      "1203",
+      "4300",
+      "63965",
+      "22088",
+      "11551",
+      "19635",
+      "47197",
+      "5296",
+      "24824",
+      "7938",
+      "6237",
+      "59005",
+      "31520",
+      "14870",
+      "1105",
+      "55332",
+      "58402",
+      "44184",
+      "63944",
+      "33435",
+      "1031",
+      "40366",
+      "9386",
+      "58763",
+      "51146",
+      "39521",
+      "7153",
+      "32455",
+      "42668",
+      "64210",
+      "21974",
+      "58218",
+      "26714",
+      "35724",
+      "16243",
+      "54043",
+      "5456",
+      "44529",
+      "51524",
+      "25831",
+      "56066",
+      "33755",
+      "14936",
+      "44799",
+      "5726",
+      "30926",
+      "41970",
+      "17735",
+      "33310",
+      "14021",
+      "43000",
+      "34434",
+      "20844",
+      "49651",
+      "42760",
+      "14057",
+      "56029",
+      "62217"
+    ],
+    "A9": [
+      "56128",
+      "39521",
+      "62217",
+      "56066",
+      "19008",
+      "10115",
+      "48362",
+      "27203",
+      "41472",
+      "48878",
+      "42760",
+      "33310",
+      "63447",
+      "46904",
+      "61217",
+      "50472",
+      "49254",
+      "63067",
+      "32932",
+      "63635",
+      "21958",
+      "33923",
+      "11420",
+      "30940",
+      "38176",
+      "22972",
+      "542",
+      "54694",
+      "43689",
+      "1203",
+      "4300",
+      "63965",
+      "22088",
+      "11551",
+      "19635",
+      "47197",
+      "5296",
+      "24824",
+      "7938",
+      "6237",
+      "59005",
+      "5456",
+      "16243",
+      "1105",
+      "55332",
+      "58402",
+      "20844",
+      "63944",
+      "5743",
+      "33435",
+      "7153",
+      "33755",
+      "5935",
+      "13862",
+      "44799",
+      "40366",
+      "9386",
+      "11689",
+      "58763",
+      "51146",
+      "4397",
+      "32455",
+      "44529",
+      "6764",
+      "42668",
+      "58218",
+      "21974",
+      "64210",
+      "49779",
+      "35724",
+      "29552",
+      "54043",
+      "5726",
+      "34434",
+      "51524",
+      "25831",
+      "58210",
+      "44184",
+      "31520",
+      "14936",
+      "14021",
+      "30926",
+      "41970",
+      "17735",
+      "26714",
+      "61525",
+      "43000",
+      "14870",
+      "65159",
+      "49651",
+      "1031",
+      "35038",
+      "56029",
+      "14057"
+    ],
+    "A10": [
+      "56128",
+      "39521",
+      "62217",
+      "56066",
+      "40840",
+      "19008",
+      "10115",
+      "48362",
+      "27203",
+      "41472",
+      "48878",
+      "42760",
+      "61525",
+      "63447",
+      "46904",
+      "61217",
+      "50472",
+      "49254",
+      "63067",
+      "32932",
+      "14021",
+      "21958",
+      "33923",
+      "13862",
+      "30940",
+      "38176",
+      "22972",
+      "542",
+      "54694",
+      "43689",
+      "1203",
+      "4300",
+      "63965",
+      "22088",
+      "11551",
+      "19635",
+      "47197",
+      "5296",
+      "24824",
+      "14057",
+      "6237",
+      "59005",
+      "5456",
+      "14870",
+      "1105",
+      "55332",
+      "58402",
+      "35038",
+      "56029",
+      "20844",
+      "32455",
+      "33755",
+      "5743",
+      "63635",
+      "33435",
+      "5935",
+      "58210",
+      "63944",
+      "65159",
+      "40366",
+      "11689",
+      "9386",
+      "16243",
+      "58763",
+      "51146",
+      "4397",
+      "5726",
+      "41970",
+      "22637",
+      "42668",
+      "64210",
+      "26714",
+      "58218",
+      "14936",
+      "35724",
+      "29552",
+      "54043",
+      "31520",
+      "21974",
+      "51524",
+      "25831",
+      "44184",
+      "33310",
+      "44799",
+      "34434",
+      "6764",
+      "30926",
+      "49779",
+      "17735",
+      "44529",
+      "7938",
+      "43000",
+      "25651",
+      "11420",
+      "49651",
+      "1031",
+      "11190",
+      "7153",
+      "35910"
+    ],
+    "A10 (Crit Respec)": [
+      "56128",
+      "39521",
+      "62217",
+      "56066",
+      "19008",
+      "10115",
+      "48362",
+      "27203",
+      "41472",
+      "48878",
+      "6764",
+      "61525",
+      "63447",
+      "25651",
+      "61217",
+      "12888",
+      "52031",
+      "49254",
+      "63067",
+      "32932",
+      "45366",
+      "63635",
+      "21958",
+      "33923",
+      "11420",
+      "30940",
+      "38176",
+      "22972",
+      "542",
+      "20142",
+      "54694",
+      "43689",
+      "52848",
+      "1203",
+      "31875",
+      "63965",
+      "11551",
+      "19635",
+      "47197",
+      "5296",
+      "24824",
+      "7938",
+      "6237",
+      "16954",
+      "59005",
+      "31520",
+      "14870",
+      "1105",
+      "58402",
+      "20844",
+      "63944",
+      "5743",
+      "1031",
+      "50472",
+      "33435",
+      "33755",
+      "58210",
+      "46904",
+      "65159",
+      "44799",
+      "12783",
+      "9386",
+      "27879",
+      "35910",
+      "51146",
+      "4397",
+      "4300",
+      "13009",
+      "41476",
+      "42668",
+      "64210",
+      "26714",
+      "58218",
+      "33779",
+      "35724",
+      "33310",
+      "34434",
+      "44184",
+      "35038",
+      "51524",
+      "25831",
+      "44529",
+      "5935",
+      "21974",
+      "14936",
+      "34723",
+      "22637",
+      "41970",
+      "17735",
+      "9261",
+      "44562",
+      "43000",
+      "16243",
+      "11190",
+      "49651",
+      "14057",
+      "13862",
+      "60398",
+      "11689"
+    ],
+    "EarlyMaps": [
+      "60501",
+      "39841",
+      "56128",
+      "7444",
+      "39521",
+      "62217",
+      "11689",
+      "61804",
+      "19008",
+      "10115",
+      "48362",
+      "27203",
+      "41472",
+      "48878",
+      "6764",
+      "33310",
+      "63447",
+      "25651",
+      "50472",
+      "12125",
+      "49254",
+      "63067",
+      "32932",
+      "45366",
+      "63635",
+      "21958",
+      "19501",
+      "19919",
+      "12536",
+      "30940",
+      "35038",
+      "22972",
+      "542",
+      "11420",
+      "20142",
+      "54694",
+      "10893",
+      "43689",
+      "12888",
+      "52848",
+      "27564",
+      "4300",
+      "63965",
+      "52031",
+      "14040",
+      "11551",
+      "19635",
+      "44529",
+      "56158",
+      "5296",
+      "24824",
+      "11190",
+      "6237",
+      "16954",
+      "14057",
+      "62767",
+      "16243",
+      "1105",
+      "13862",
+      "27879",
+      "58402",
+      "1203",
+      "46904",
+      "20844",
+      "63944",
+      "47197",
+      "38921",
+      "6967",
+      "33435",
+      "44562",
+      "14936",
+      "44184",
+      "33779",
+      "44799",
+      "15064",
+      "9386",
+      "58210",
+      "35910",
+      "51146",
+      "4397",
+      "33755",
+      "42668",
+      "36949",
+      "36678",
+      "63138",
+      "26714",
+      "64210",
+      "34927",
+      "58218",
+      "21974",
+      "34434",
+      "20528",
+      "18715",
+      "51524",
+      "34723",
+      "10031",
+      "14870",
+      "1031",
+      "25831",
+      "12783",
+      "22637",
+      "41970",
+      "17735",
+      "9261",
+      "5743",
+      "43000",
+      "14151",
+      "5935",
+      "7938",
+      "4367",
+      "41476",
+      "61525",
+      "56066"
+    ],
+    "BeforeAegis": [
+      "60501",
+      "39841",
+      "56128",
+      "7444",
+      "39521",
+      "62217",
+      "11689",
+      "61804",
+      "19008",
+      "10115",
+      "7938",
+      "48362",
+      "27203",
+      "41472",
+      "33779",
+      "48878",
+      "46904",
+      "5935",
+      "14151",
+      "6764",
+      "61525",
+      "41476",
+      "25651",
+      "19919",
+      "12888",
+      "27879",
+      "52031",
+      "49254",
+      "63067",
+      "45558",
+      "45366",
+      "63635",
+      "21958",
+      "63447",
+      "50472",
+      "19501",
+      "13862",
+      "12536",
+      "6770",
+      "30940",
+      "33310",
+      "11420",
+      "22972",
+      "542",
+      "22637",
+      "20142",
+      "54694",
+      "19635",
+      "43689",
+      "47197",
+      "52848",
+      "1203",
+      "4300",
+      "63965",
+      "16243",
+      "14040",
+      "55743",
+      "44562",
+      "44529",
+      "56158",
+      "5296",
+      "24824",
+      "11190",
+      "6237",
+      "16954",
+      "14057",
+      "31520",
+      "14870",
+      "1105",
+      "20844",
+      "34723",
+      "58402",
+      "63944",
+      "58210",
+      "44184",
+      "43061",
+      "33755",
+      "34434",
+      "6712",
+      "33435",
+      "11128",
+      "14936",
+      "12783",
+      "36678",
+      "44799",
+      "38921",
+      "9386",
+      "20528",
+      "35910",
+      "51146",
+      "4397",
+      "64210",
+      "26714",
+      "36949",
+      "12246",
+      "42668",
+      "21974",
+      "58218",
+      "34927",
+      "15064",
+      "1031",
+      "54043",
+      "6967",
+      "18715",
+      "51524",
+      "25831",
+      "10031",
+      "27323",
+      "11551",
+      "65159",
+      "27564",
+      "30926",
+      "41970",
+      "17735",
+      "9261",
+      "8135",
+      "43000",
+      "35038",
+      "32932",
+      "12125",
+      "4367",
+      "56066",
+      "5743",
+      "10893"
+    ],
+    "AegisRespec": [
+      "39841",
+      "39713",
+      "33779",
+      "27879",
+      "11689",
+      "20987",
+      "23027",
+      "12613",
+      "48878",
+      "35556",
+      "34171",
+      "63447",
+      "46904",
+      "50472",
+      "52031",
+      "49254",
+      "63067",
+      "16350",
+      "26196",
+      "13862",
+      "44298",
+      "61419",
+      "20142",
+      "13164",
+      "1203",
+      "4300",
+      "44562",
+      "47197",
+      "56158",
+      "11190",
+      "16954",
+      "29712",
+      "20844",
+      "26270",
+      "11730",
+      "33435",
+      "58210",
+      "39916",
+      "12783",
+      "35910",
+      "65552",
+      "36949",
+      "20528",
+      "26714",
+      "58218",
+      "51524",
+      "65568",
+      "44908",
+      "44202",
+      "15117",
+      "43000",
+      "4367",
+      "43376",
+      "7444",
+      "39521",
+      "65561",
+      "20228",
+      "52502",
+      "27137",
+      "19008",
+      "10115",
+      "41472",
+      "31931",
+      "41476",
+      "5935",
+      "12888",
+      "12125",
+      "7960",
+      "45366",
+      "63635",
+      "21958",
+      "19501",
+      "30940",
+      "61471",
+      "22972",
+      "65570",
+      "29061",
+      "54694",
+      "55993",
+      "65578",
+      "35958",
+      "19635",
+      "5296",
+      "26866",
+      "15599",
+      "16243",
+      "1105",
+      "46897",
+      "44184",
+      "63944",
+      "38836",
+      "14936",
+      "44799",
+      "15064",
+      "9386",
+      "51146",
+      "9408",
+      "10696",
+      "65555",
+      "60472",
+      "61525",
+      "41251",
+      "21974",
+      "25651",
+      "7938",
+      "542",
+      "6712",
+      "34434",
+      "35038",
+      "64210",
+      "33755",
+      "25831",
+      "10031",
+      "36678",
+      "56066",
+      "1031",
+      "14057",
+      "22637",
+      "14870",
+      "6237",
+      "9261",
+      "11551",
+      "15631",
+      "33310",
+      "52848",
+      "32932",
+      "21929",
+      "62217",
+      "5743",
+      "34723"
+    ]
+  },
+  "sourceMetadata": {
+    "pob": {
+      "url": "https://pobb.in/VYkCtsG0KTaF",
+      "embeddedTreeVersion": "3_28",
+      "finalSpec": "AegisRespec",
+      "finalSpecNodeCount": 130,
+      "finalSpecNodeIdSha256": "709bb1bf9228d808bbcabf3e45582beb4c5db275c1663dcee9bcb88cd6803f0b"
+    },
+    "ggg": {
+      "repository": "grindinggear/skilltree-export",
+      "tag": "3.29.0",
+      "status": "Preview/Pre-release",
+      "url": "https://github.com/grindinggear/skilltree-export/releases/tag/3.29.0"
+    }
+  }
+}

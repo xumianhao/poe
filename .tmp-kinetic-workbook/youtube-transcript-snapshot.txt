@@ -1,0 +1,1775 @@
+- banner:
+  - button "导视":
+  - link "YouTube 首页":
+    - /url: /
+  - generic: SG
+  - button "跳过导航":
+    - generic: 跳过导航
+  - search:
+    - combobox "搜索" [expanded]
+    - button "Search":
+  - button "通过语音搜索内容":
+  - tooltip "tooltip"
+  - button "创建":
+    - generic: 创建
+  - button "通知":
+  - tooltip "tooltip"
+  - button "账号菜单":
+    - img "头像图片"
+- main:
+  - complementary:
+    - generic "YouTube 视频播放器":
+      - slider "播放滑块"
+      - button "暂停 (k)":
+      - button "静音 (m)":
+      - slider "音量"
+      - button "11 分钟 3 秒/23 分钟 12 秒": 11:03 / 23:12
+      - 'button "Progression: Campaign"':
+        - 'generic "Progression: Campaign"'
+      - button "自动播放模式已开启"
+      - button "无法显示字幕":
+      - button "设置":
+      - button "影院模式 (t)":
+      - button "全屏 (f)":
+  - heading "Kinetic Fusillade Ballista Hierophant | My Leaguestarter Build Guide for Patch 3.29" [level=1]
+  - link "Palsteron":
+    - /url: /@Palsteron
+    - img "Palsteron"
+  - generic "Palsteron":
+    - link "Palsteron":
+      - /url: /@Palsteron
+  - generic "11.1万位订阅者"
+  - button "当前设置为接收个性化通知。点按即可更改“Palsteron”频道的通知设置":
+  - button "与另外 704 人一起顶此视频":
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+  - button "不喜欢此视频":
+  - button "分享":
+    - generic: 分享
+  - button "提问":
+    - generic: 提问
+  - button "保存到播放列表":
+    - generic: 保存
+  - button "其他操作":
+  - generic "24,502次观看":
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: ","
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: "0"
+    - generic: "1"
+    - generic: "2"
+    - generic: "3"
+    - generic: "4"
+    - generic: "5"
+    - generic: "6"
+    - generic: "7"
+    - generic: "8"
+    - generic: "9"
+    - generic: 次观看
+  - text: 2026年7月23日
+  - link "#CurseoftheAllflame":
+    - /url: /hashtag/curseoftheallflame
+  - link "#PoE":
+    - /url: /hashtag/poe
+  - link "#PathofExile":
+    - /url: /hashtag/pathofexile
+  - text: Watch Me Live at ►
+  - 'link "Twitch Channel Link: palsteron"':
+    - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rU0pGM3RoUi1WN3FYeW55U0RPNmQyN3xBR3JiS2FtRUNlcndLZVNJWUhMRFRxUUhMSVFJWEFCenZDMWtxN21EbmtqWHdtOUtQN1hoUGlsc08yLW50ZE9mcVlWMnllaE1RTnhKc0E0LWdoQ1BWZnNla0NOdjc5MTZza3Y0&q=https%3A%2F%2Fwww.twitch.tv%2Fpalsteron&v=_oBZ-N5Fg9Y
+    - text: / palsteron
+  - link "#PathofExile":
+    - /url: /hashtag/pathofexile
+  - link "#PoE":
+    - /url: /hashtag/poe
+  - link "#CurseoftheAllflame":
+    - /url: /hashtag/curseoftheallflame
+  - text: "Path of Building:"
+  - link "https://pobb.in/VYkCtsG0KTaF":
+    - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUTBqU3pkSzBJeGphZUFJRE1qQnEzaHxBR3JiS2Fsb1pzNUFqMUtlcVRuWFBBZzFYbWtwaGZmZVNEVTZmdUVqTHl1VnlMd2xhaXdobkR5cW9GSmNOc3Zpd1ZqZHQ0UklYd183Mk1lTTA2bHhsUzZMbGY3cmtzc3VLSlNN&q=https%3A%2F%2Fpobb.in%2FVYkCtsG0KTaF&v=_oBZ-N5Fg9Y
+  - text: "Written Guide on Maxroll (Update Soon):"
+  - link "https://maxroll.gg/poe/build-guides/k...":
+    - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rU1RZU0FfYVU5SGpwdzg2ajh2NGV5UnxBR3JiS2Fsc1o3LUxkRm41aXNxc1VZLTl6WVJVS1hvcTJ1VXJaVmlINGxuTERZd3B0S0I1Q21xandaaU1JVUFZRTg1ZUExcGlWYjZpdEpVTjJnRUFSTFFmTjBZbGplMkRqODNB&q=https%3A%2F%2Fmaxroll.gg%2Fpoe%2Fbuild-guides%2Fkinetic-fusillade-ballista-hierophant-league-starter&v=_oBZ-N5Fg9Y
+  - text: "Kinetic Fusillade Change Overview:"
+  - 'link "YouTube Channel Link: What the Kinetic Fusillade Change ACTUALLY Means | Path of Exile Patch 3.29"':
+    - /url: /watch?v=7n0fMQ4NPlA
+    - text: • What the Kinetic Fusillade Change ACTUALLY...
+  - text: "Chapters:"
+  - link "0秒钟":
+    - /url: /watch?v=_oBZ-N5Fg9Y
+    - text: 00:00
+  - text: Kinetic Fusillade Still Strong
+  - link "1分钟11秒钟":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=71s
+    - text: 01:11
+  - text: Changes After this Patch
+  - link "3分钟50秒钟":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=230s
+    - text: 03:50
+  - text: Kinetic Fusillade Mechanics
+  - link "5分钟46秒钟":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=346s
+    - text: 05:46
+  - text: Why Totems?
+  - link "6分钟18秒钟":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=378s
+    - text: 06:18
+  - text: Damage Scaling
+  - link "7分钟7秒钟":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=427s
+    - text: 07:07
+  - text: Defenses
+  - link "7分钟39秒钟":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=459s
+    - text: 07:39
+  - text: Ascendancy
+  - link "9分钟17秒钟":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=557s
+    - text: 09:17
+  - text: "Progression: Campaign"
+  - link "12分钟26秒钟":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=746s
+    - text: 12:26
+  - text: "Progression: Maps"
+  - link "14分钟30秒钟":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=870s
+    - text: 14:30
+  - text: "Progression: Aegis Swap"
+  - link "19分钟47秒钟":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=1187s
+    - text: 19:47
+  - text: Mistakes to Avoid Business Email ►palsteron@mythictalent.com Maxroll Builds & Planners ►
+  - link "https://maxroll.gg/@palsteron":
+    - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVHFaT0g2TVZ3c1pVUFlMNlNCUFBkRHxBR3JiS2FuU1RmMUs1UUpjVHNWQ2xJQ2hER0RYb3RUbm15UUhJc3lJNDgwUnJQVEFUdlVEcWF6N1lGckhSR0FIbFl6QWl3ZXBFWE1rQzVrX0lWY1pFQVFTeGRwMkJkUFhfYld2&q=https%3A%2F%2Fmaxroll.gg%2F%40palsteron&v=_oBZ-N5Fg9Y
+  - text: Join my Discord ►
+  - 'link "Discord Channel Link: discord"':
+    - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUnZWNVVsTk5PazdHMmN4a1hQbFliZXxBR3JiS2FsdElLcGtacUpBbXI2NHlxaHBROWlKZHNxRlFJc0pkZ19zWkQ5Z1Z6SmJzS2RUNUx0cGhjZVBUbUc5d2NRRHpMRzBOMmhYRlpvZThwa292VFlkNUFVSGd5UlhFOTlQ&q=https%3A%2F%2Fdiscord.gg%2FCb2dB7majD&v=_oBZ-N5Fg9Y
+    - text: / discord
+  - text: Follow me on Twitter ►
+  - 'link "Twitter Channel Link: palsteron"':
+    - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUUMxSUpMZkU0VV96QmljY01zVWdvLXxBR3JiS2FrXzJGRm1sSzJtZ1BjSlktUF9Hcm45M0ItNTBzSzM4SVQ2allqcS1sVnJ2RHFwOUpxb1h4T3VWNnVQbDdfcEJ6SzVQVXMwZ1V5eVVtOV80bHgwMFE4VFp4cFV5QzNR&q=https%3A%2F%2Ftwitter.com%2Fpalsteron&v=_oBZ-N5Fg9Y
+    - text: / palsteron
+  - text: PoE Profile ►
+  - link "https://www.pathofexile.com/account/v...":
+    - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVG4xSXY5RFNxRjNYLWltXzBGdlJ4R3xBR3JiS2FrQW4xS0NINll4NHNIajZZdjlpTF9ySk5nbWduM3l2UnhOZE40b29XTVJvUnRaSFBOTm1HWTdMWTQ2TDhqNVgzOU5jUjhiOGVfaHhwTmNmM2tocENjbWY3S0toYzhX&q=https%3A%2F%2Fwww.pathofexile.com%2Faccount%2Fview-profile%2FPalsteron-4374&v=_oBZ-N5Fg9Y
+  - button "Palsteron explores the mechanics and progression of a Kinetic Fusillade Ballista build for the latest game update. The guide details how to optimize attack speed and duration, effectively utilize specific unique items, and manage skill synergies for early and late-game success."
+  - text: ·
+  - generic: 摘要
+  - button "更多":
+  - heading "提问" [level=2]
+  - generic: 获得解答、探索主题及更多内容
+  - button "提问":
+    - generic: 提问
+  - heading "章节 查看全部" [level=2]:
+    - generic: 章节
+    - button "查看全部":
+      - generic: 查看全部
+  - link "Kinetic Fusillade Still Strong 0:00":
+    - /url: /watch?v=_oBZ-N5Fg9Y
+    - heading "Kinetic Fusillade Still Strong" [level=3]
+    - generic: 0:00
+  - link "Changes After this Patch 1:11":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=71s
+    - heading "Changes After this Patch" [level=3]
+    - generic: 1:11
+  - link "Kinetic Fusillade Mechanics 3:50":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=230s&pp=0gcJCRkDDuyUWbzu
+    - heading "Kinetic Fusillade Mechanics" [level=3]
+    - generic: 3:50
+  - link "Why Totems? 5:46":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=346s
+    - heading "Why Totems?" [level=3]
+    - generic: 5:46
+  - link "Damage Scaling 6:18":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=378s
+    - heading "Damage Scaling" [level=3]
+    - generic: 6:18
+  - link "Defenses 7:07":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=427s
+    - heading "Defenses" [level=3]
+    - generic: 7:07
+  - link "Ascendancy 7:39":
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=459s
+    - heading "Ascendancy" [level=3]
+    - generic: 7:39
+  - 'link "Progression: Campaign 9:17"':
+    - /url: /watch?v=_oBZ-N5Fg9Y&t=557s
+    - 'heading "Progression: Campaign" [level=3]'
+    - generic: 9:17
+  - heading "游戏" [level=3]
+  - group "流放之路":
+    - link "流放之路 2013":
+      - heading "流放之路" [level=1]
+      - heading "2013" [level=4]
+  - link "游戏":
+    - /url: /gaming
+    - generic: 游戏
+  - generic: 转写文稿
+  - paragraph: 通过文字转写了解视频内容。
+  - button "内容转文字":
+    - generic: 内容转文字
+  - link "Palsteron 11.1万位订阅者":
+    - /url: /@Palsteron
+    - heading "Palsteron" [level=3]
+    - generic: 11.1万位订阅者
+  - link "视频":
+    - /url: /channel/UCXp5YOW329ysRDl_LK9P1_g/videos
+    - generic: 视频
+  - link "简介":
+    - /url: /channel/UCXp5YOW329ysRDl_LK9P1_g/about
+    - generic: 简介
+  - link:
+    - /url: /watch?v=7n0fMQ4NPlA
+    - generic: 10:23
+  - link "What the Kinetic Fusillade Change ACTUALLY Means | Path of Exile Patch 3.29 来自Palsteron":
+    - /url: /watch?v=7n0fMQ4NPlA
+    - generic: What the Kinetic Fusillade Change ACTUALLY Means | Path of Exile Patch 3.29
+    - generic: 来自Palsteron
+  - button "收起"
+  - text: • ·
+  - heading "129 条评论" [level=2]:
+    - generic: 129 条评论
+  - tooltip "tooltip"
+  - button "评论排序":
+    - generic: 排序方式
+  - img "aresxu"
+  - textbox
+  - button "@dreamcore_gg"
+  - heading "@dreamcore_gg" [level=3]:
+    - link "@dreamcore_gg":
+      - /url: /@dreamcore_gg
+  - link "20小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=UgwnIcfYHg8Tm2_3x2l4AaABAg
+  - generic: he can't keep getting away with it
+  - button "赞此评论，已有 114 人赞过":
+  - tooltip "tooltip"
+  - generic: "114"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "加红心" [disabled]:
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "2 条回复":
+    - generic: 2 条回复
+  - button "@jeanvaljean-gn5ej"
+  - heading "@jeanvaljean-gn5ej" [level=3]:
+    - link "@jeanvaljean-gn5ej":
+      - /url: /@jeanvaljean-gn5ej
+  - link "20小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=Ugzu6dwCDNVLyrIb4vd4AaABAg&pp=0gcJCSIANpG00pGi
+  - generic: "GGG: we buffed over 100 skills, Palsteron: fuck it i'm gonna do it again"
+  - button "赞此评论，已有 58 人赞过":
+  - tooltip "tooltip"
+  - generic: "58"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "1 条回复":
+    - generic: 1 条回复
+  - button "@theo008"
+  - heading "@theo008" [level=3]:
+    - link "@theo008":
+      - /url: /@theo008
+  - link "20小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=UgzaofUMbKul05sYvjp4AaABAg
+  - generic: When the world needed him most, he showed up. Thank you!
+  - button "赞此评论，已有 11 人赞过":
+  - tooltip "tooltip"
+  - generic: "11"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@MisterBisco"
+  - heading "@MisterBisco" [level=3]:
+    - link "@MisterBisco":
+      - /url: /@MisterBisco
+  - link "21小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=UgxSdwc6cEa8xmkCQcZ4AaABAg
+  - generic: Can't wait to blast this all the way to 40/40 again!
+  - button "赞此评论，已有 13 人赞过":
+  - tooltip "tooltip"
+  - generic: "13"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@andrefrauenknecht8190"
+  - heading "@andrefrauenknecht8190" [level=3]:
+    - link "@andrefrauenknecht8190":
+      - /url: /@andrefrauenknecht8190
+  - link "20小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=UgwdvkThk4riEnJOTAd4AaABAg
+  - generic: Been waiting - love your work Pal! This league looking fwd see what your second build is!
+  - button "赞此评论，已有 6 人赞过":
+  - tooltip "tooltip"
+  - generic: "6"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@SolarPatrol"
+  - heading "@SolarPatrol" [level=3]:
+    - link "@SolarPatrol":
+      - /url: /@SolarPatrol
+  - link "18小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=UgyKqP07pefDvKtvBRZ4AaABAg
+  - generic: Yes! So glad you made another kf totems guide! I wanted to play this again even with the nerfs glad you figured out all the details I'm definitely playing this again it was so much fun last league!
+  - button "赞此评论，已有 2 人赞过":
+  - tooltip "tooltip"
+  - generic: "2"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@erickjordan4812"
+  - heading "@erickjordan4812" [level=3]:
+    - link "@erickjordan4812":
+      - /url: /@erickjordan4812
+  - link "20小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=Ugy0KtvWD4mBhZ9g-Ud4AaABAg
+  - generic: "\"Ohhh sh*t, here we go again\" vibes"
+  - button "赞此评论，已有 3 人赞过":
+  - tooltip "tooltip"
+  - generic: "3"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@andiwolf3334"
+  - heading "@andiwolf3334" [level=3]:
+    - link "@andiwolf3334":
+      - /url: /@andiwolf3334
+  - link "19小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=UgyBUhKoFFQpBKBAIsZ4AaABAg&pp=0gcJCSIANpG00pGi
+  - generic: missed this gem of a build last league, gonna be my starter this time at least :)
+  - button "赞此评论，已有 2 人赞过":
+  - tooltip "tooltip"
+  - generic: "2"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@bartes671"
+  - heading "@bartes671" [level=3]:
+    - link "@bartes671":
+      - /url: /@bartes671
+  - link "20小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=Ugy6ltFTW1O4vZuQwtt4AaABAg
+  - generic: Great like usual pal1Hypers
+  - button "赞此评论，已有 3 人赞过":
+  - tooltip "tooltip"
+  - generic: "3"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@Oezeo"
+  - heading "@Oezeo" [level=3]:
+    - link "@Oezeo":
+      - /url: /@Oezeo
+  - link "14小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=Ugwyuw240hrAZACtlmN4AaABAg
+  - generic: I wasn't planning on going KF totems again but you're talking me into it
+  - button "赞此评论，已有 0 人赞过":
+  - tooltip "tooltip"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@Velarieth"
+  - heading "@Velarieth" [level=3]:
+    - link "@Velarieth":
+      - /url: /@Velarieth
+  - link "17小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=UgxNuR9I4nkOlA_a7mZ4AaABAg
+  - generic: This build was a blast (ha) last league. I'm so glad we can still play it.
+  - button "赞此评论，已有 0 人赞过":
+  - tooltip "tooltip"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@toyspeed9663"
+  - heading "@toyspeed9663" [level=3]:
+    - link "@toyspeed9663":
+      - /url: /@toyspeed9663
+  - link "21小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=UgxMwZH49XGt6SKqOz14AaABAg
+  - generic: Totem man start totem build pog
+  - button "赞此评论，已有 3 人赞过":
+  - tooltip "tooltip"
+  - generic: "3"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@martinglendrange996"
+  - heading "@martinglendrange996" [level=3]:
+    - link "@martinglendrange996":
+      - /url: /@martinglendrange996
+  - link "21小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=Ugw7SezkUsNyrcdbgpV4AaABAg
+  - generic: Banger
+  - button "赞此评论，已有 4 人赞过":
+  - tooltip "tooltip"
+  - generic: "4"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@shadow81_"
+  - heading "@shadow81_" [level=3]:
+    - link "@shadow81_":
+      - /url: /@shadow81_
+  - link "21小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=Ugz0Ue6QT8RFJcUsF994AaABAg
+  - generic: Pog totem build from totem man!!
+  - button "赞此评论，已有 0 人赞过":
+  - tooltip "tooltip"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@Finntroll1991"
+  - heading "@Finntroll1991" [level=3]:
+    - link "@Finntroll1991":
+      - /url: /@Finntroll1991
+  - link "12小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=Ugy_cRtpDAFiezmhraV4AaABAg&pp=0gcJCSIANpG00pGi
+  - generic: I played your build last league, was from far the easiest build to play league starter. Ty for the content
+  - button "赞此评论，已有 0 人赞过":
+  - tooltip "tooltip"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@fede081178"
+  - heading "@fede081178" [level=3]:
+    - link "@fede081178":
+      - /url: /@fede081178
+  - link "16小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=UgyhLZkxNjNHoDcF6a14AaABAg
+  - generic: I was skeptical because of the nerfs. Now i think i will league start this (again). Thanks Pal
+  - button "赞此评论，已有 0 人赞过":
+  - tooltip "tooltip"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@dudeglove"
+  - heading "@dudeglove" [level=3]:
+    - link "@dudeglove":
+      - /url: /@dudeglove
+  - link "20小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=Ugxp7DunwZTXxWrofZd4AaABAg
+  - generic: congrats on another totem build
+  - button "赞此评论，已有 24 人赞过":
+  - tooltip "tooltip"
+  - generic: "24"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@Geeezass"
+  - heading "@Geeezass" [level=3]:
+    - link "@Geeezass":
+      - /url: /@Geeezass
+  - link "19小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=UgwL6OppLAAaEcEofzJ4AaABAg
+  - generic: There is a new reservation cluster also it’s a mana efficiency cluster , check it out. Now you have 2 of those nearby
+  - button "赞此评论，已有 1 人赞过":
+  - tooltip "tooltip"
+  - generic: "1"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@Olsen5000"
+  - heading "@Olsen5000" [level=3]:
+    - link "@Olsen5000":
+      - /url: /@Olsen5000
+  - link "10小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=UgwpbOxtN2N0tsvwpg14AaABAg
+  - generic: uhh Houston, we have an 'increases and reductions to spell damage' problem
+  - button "赞此评论，已有 1 人赞过":
+  - tooltip "tooltip"
+  - generic: "1"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - button "@FlossedUp"
+  - heading "@FlossedUp" [level=3]:
+    - link "@FlossedUp":
+      - /url: /@FlossedUp
+  - link "13小时前":
+    - /url: /watch?v=_oBZ-N5Fg9Y&lc=UgzzLYPEteIZ3ouLQyl4AaABAg
+  - generic: It's so tempting to this again for League starter. 3.28 League start was a breeze with this. Idk what to do at this point lmao
+  - button "赞此评论，已有 0 人赞过":
+  - tooltip "tooltip"
+  - button "不喜欢此评论":
+  - tooltip "tooltip"
+  - button "回复":
+    - generic: 回复
+  - button "操作菜单":
+  - heading "在此视频中" [active] [level=2]:
+    - generic "在此视频中"
+  - button "关闭":
+  - tablist:
+    - tab "章节":
+      - generic: 章节
+    - tab "转写文稿" [selected]:
+      - generic: 转写文稿
+  - generic: 搜索转写内容
+  - textbox "搜索转写内容"
+  - button "第 1 章：Kinetic Fusillade Still Strong":
+    - heading "第 1 章：Kinetic Fusillade Still Strong" [level=3]
+  - button "2秒钟 Hey guys, Pron here and today let's talk about my update for the kinetic fuselot hero ballista. Now unfortunately I haven't really seen anything interesting":
+    - generic: 0:02
+    - generic: 2秒钟
+    - text: Hey guys, Pron here and today let's talk about my update for the kinetic fuselot hero ballista. Now unfortunately I haven't really seen anything interesting
+  - button "10秒钟 in the patch that catch my eye. So I'm going to play kinetic fuselot ballista again for early game. If you don't know this is an extremely strong early game":
+    - generic: 0:10
+    - generic: 10秒钟
+    - text: in the patch that catch my eye. So I'm going to play kinetic fuselot ballista again for early game. If you don't know this is an extremely strong early game
+  - button "17秒钟 build that can carry you to four stones on relatively low currency. It did get some changes this patch though but it is still quite strong. We use kinetic fuse":
+    - generic: 0:17
+    - generic: 17秒钟
+    - text: build that can carry you to four stones on relatively low currency. It did get some changes this patch though but it is still quite strong. We use kinetic fuse
+  - button "25秒钟 a lot which is a wand skill that fires projectiles that then explode on enemies and you kind of charge it up and it gets more and more projectiles and the more":
+    - generic: 0:25
+    - generic: 25秒钟
+    - text: a lot which is a wand skill that fires projectiles that then explode on enemies and you kind of charge it up and it gets more and more projectiles and the more
+  - button "33秒钟 projectiles are in the sequence the more damage you deal and on ballistas it's just an extremely comfy play style. In this video I'll outline everything that changed for the build for people already":
+    - generic: 0:33
+    - generic: 33秒钟
+    - text: projectiles are in the sequence the more damage you deal and on ballistas it's just an extremely comfy play style. In this video I'll outline everything that changed for the build for people already
+  - button "41秒钟 played the build and I will also explain how it works plus the progression. Do note though that you currently cannot do a run of this build with the current":
+    - generic: 0:41
+    - generic: 41秒钟
+    - text: played the build and I will also explain how it works plus the progression. Do note though that you currently cannot do a run of this build with the current
+  - button "48秒钟 setup that I'm planning because the skill will change fundamentally in terms of how its duration and how its attack speed works. Now, on to league start, I will be updating everything necessary":
+    - generic: 0:48
+    - generic: 48秒钟
+    - text: setup that I'm planning because the skill will change fundamentally in terms of how its duration and how its attack speed works. Now, on to league start, I will be updating everything necessary
+  - button "57秒钟 right here. The POB as always has loadouts right here if you'd like to work through PoB. Otherwise, I have the written max guide which will be updated and I will also have a build document":
+    - generic: 0:57
+    - generic: 57秒钟
+    - text: right here. The POB as always has loadouts right here if you'd like to work through PoB. Otherwise, I have the written max guide which will be updated and I will also have a build document
+  - button "1分钟5秒钟 where I just put in different snapshots of how I did uh throughout progression.":
+    - generic: 1:05
+    - generic: 1分钟5秒钟
+    - text: where I just put in different snapshots of how I did uh throughout progression.
+  - button "1分钟10秒钟 So, day one to day five. Let's talk about all the changes that happened this patch. We will deal approximately 20% less damage, sometimes a little bit less":
+    - generic: 1:10
+    - generic: 1分钟10秒钟
+    - text: So, day one to day five. Let's talk about all the changes that happened this patch. We will deal approximately 20% less damage, sometimes a little bit less
+  - button "第 2 章：Changes After this Patch":
+    - heading "第 2 章：Changes After this Patch" [level=3]
+  - button "1分钟18秒钟 during progression, but overall that is kind of where it's going to jive in. Uh the TLDDR of what happened if you haven't watched the video which I will":
+    - generic: 1:18
+    - generic: 1分钟18秒钟
+    - text: during progression, but overall that is kind of where it's going to jive in. Uh the TLDDR of what happened if you haven't watched the video which I will
+  - button "1分钟25秒钟 link down below in the description where I talk about it is we do not have to go to the middle of the tree anymore and grab these reduced duration notes which turns out is actually pretty huge":
+    - generic: 1:25
+    - generic: 1分钟25秒钟
+    - text: link down below in the description where I talk about it is we do not have to go to the middle of the tree anymore and grab these reduced duration notes which turns out is actually pretty huge
+  - button "1分钟33秒钟 because we save like 15 points but obviously there's also nerfs accompanying it. So all the nerfs and the buffs included come out to around":
+    - generic: 1:33
+    - generic: 1分钟33秒钟
+    - text: because we save like 15 points but obviously there's also nerfs accompanying it. So all the nerfs and the buffs included come out to around
+  - button "1分钟43秒钟 20% less damage. The build will also be a little bit squishier because we will be using Wilma's Reququid which is one of the items we couldn't really use":
+    - generic: 1:43
+    - generic: 1分钟43秒钟
+    - text: 20% less damage. The build will also be a little bit squishier because we will be using Wilma's Reququid which is one of the items we couldn't really use
+  - button "1分钟51秒钟 before. It gives us a ton of extra attack speed because Caspie gets converted and uh that wasn't really in the cards because then yeah, the build would be screwed. But now you can.":
+    - generic: 1:51
+    - generic: 1分钟51秒钟
+    - text: before. It gives us a ton of extra attack speed because Caspie gets converted and uh that wasn't really in the cards because then yeah, the build would be screwed. But now you can.
+  - button "2分钟 You're basically using it to counteract some of the nerfs and some of the slower projectiles. And on top of that, it will":
+    - generic: 2:00
+    - generic: 2分钟
+    - text: You're basically using it to counteract some of the nerfs and some of the slower projectiles. And on top of that, it will
+  - button "2分钟8秒钟 feel like the build will feel a little bit slower in terms of how its delay goes because it has less attack speed.":
+    - generic: 2:08
+    - generic: 2分钟8秒钟
+    - text: feel like the build will feel a little bit slower in terms of how its delay goes because it has less attack speed.
+  - button "2分钟13秒钟 So that's before you get Wilma's Reququid. This helmet is a tier three unique. So at most it can cost like a divine or so. The mana cost increases":
+    - generic: 2:13
+    - generic: 2分钟13秒钟
+    - text: So that's before you get Wilma's Reququid. This helmet is a tier three unique. So at most it can cost like a divine or so. The mana cost increases
+  - button "2分钟22秒钟 which doesn't really matter other than that you have to think about to leave a little bit more open because the hero recovery is just that crazy. So um it doesn't really make a dent there.":
+    - generic: 2:22
+    - generic: 2分钟22秒钟
+    - text: which doesn't really matter other than that you have to think about to leave a little bit more open because the hero recovery is just that crazy. So um it doesn't really make a dent there.
+  - button "2分钟32秒钟 Overall I do think that the character because of these changes has less late game potential talking about 100 plus div but is still a great starter for the":
+    - generic: 2:32
+    - generic: 2分钟32秒钟
+    - text: Overall I do think that the character because of these changes has less late game potential talking about 100 plus div but is still a great starter for the
+  - button "2分钟40秒钟 first few days. Now, I personally always use these as starters to kickstart my second build, but I'm just saying this for people who just want to play one":
+    - generic: 2:40
+    - generic: 2分钟40秒钟
+    - text: first few days. Now, I personally always use these as starters to kickstart my second build, but I'm just saying this for people who just want to play one
+  - button "2分钟48秒钟 build and one build only. This build will be very efficient up to a certain point and afterwards there is more currency efficient options. Also, what":
+    - generic: 2:48
+    - generic: 2分钟48秒钟
+    - text: build and one build only. This build will be very efficient up to a certain point and afterwards there is more currency efficient options. Also, what
+  - button "2分钟55秒钟 happens for everyone is we lost imbuss, which means that we don't get seven links anymore. So, 15 to 20% less damage, uh just a little bit less power":
+    - generic: 2:55
+    - generic: 2分钟55秒钟
+    - text: happens for everyone is we lost imbuss, which means that we don't get seven links anymore. So, 15 to 20% less damage, uh just a little bit less power
+  - button "3分钟3秒钟 creep. This happened to everybody. Now, there is some pluses to what happened right here. The build is a lot easier to play now, and that is because of how the":
+    - generic: 3:03
+    - generic: 3分钟3秒钟
+    - text: creep. This happened to everybody. Now, there is some pluses to what happened right here. The build is a lot easier to play now, and that is because of how the
+  - button "3分钟11秒钟 changes were made. It has less attack speed, but also less duration, which is actually an upside, which means that we do not have to use certain unique items":
+    - generic: 3:11
+    - generic: 3分钟11秒钟
+    - text: changes were made. It has less attack speed, but also less duration, which is actually an upside, which means that we do not have to use certain unique items
+  - button "3分钟19秒钟 anymore or have to craft expensive dust rings anymore. And I already talked about obviously the middle of the passive tree, which we can just leave":
+    - generic: 3:19
+    - generic: 3分钟19秒钟
+    - text: anymore or have to craft expensive dust rings anymore. And I already talked about obviously the middle of the passive tree, which we can just leave
+  - button "3分钟26秒钟 alone. And the build is therefore also a lot easier to play. You don't really even have to worry about attack speed until very late in the in the end game":
+    - generic: 3:26
+    - generic: 3分钟26秒钟
+    - text: alone. And the build is therefore also a lot easier to play. You don't really even have to worry about attack speed until very late in the in the end game
+  - button "3分钟34秒钟 anymore. and you don't have to import your character while leveling and think about that and sometimes your shotguning potential goes away. That doesn't really":
+    - generic: 3:34
+    - generic: 3分钟34秒钟
+    - text: anymore. and you don't have to import your character while leveling and think about that and sometimes your shotguning potential goes away. That doesn't really
+  - button "3分钟41秒钟 happen anymore. The ratio from attack speed to duration is now really really easy to handle. But the overall TLDDR is the build is less powerful but easier to":
+    - generic: 3:41
+    - generic: 3分钟41秒钟
+    - text: happen anymore. The ratio from attack speed to duration is now really really easy to handle. But the overall TLDDR is the build is less powerful but easier to
+  - button "第 3 章：Kinetic Fusillade Mechanics":
+    - heading "第 3 章：Kinetic Fusillade Mechanics" [level=3]
+  - button "3分钟50秒钟 play. Now first, how does the skill actually work? So whenever you right click kinetic fusilad, which is this gem right here, attack projectile duration":
+    - generic: 3:50
+    - generic: 3分钟50秒钟
+    - text: play. Now first, how does the skill actually work? So whenever you right click kinetic fusilad, which is this gem right here, attack projectile duration
+  - button "3分钟57秒钟 AOE, um you will collect these projectiles over you. it will kind of like go up to 12 and then at some point you can I don't know move away and it":
+    - generic: 3:57
+    - generic: 3分钟57秒钟
+    - text: AOE, um you will collect these projectiles over you. it will kind of like go up to 12 and then at some point you can I don't know move away and it
+  - button "4分钟6秒钟 releases. That's obviously not how you want to play this game. So uh what you can do is you can actually reduce the duration of the release to make it so":
+    - generic: 4:06
+    - generic: 4分钟6秒钟
+    - text: releases. That's obviously not how you want to play this game. So uh what you can do is you can actually reduce the duration of the release to make it so
+  - button "4分钟13秒钟 that the attack time is bigger than the duration of the skill. And in that case what you will have is a instant release":
+    - generic: 4:13
+    - generic: 4分钟13秒钟
+    - text: that the attack time is bigger than the duration of the skill. And in that case what you will have is a instant release
+  - button "4分钟21秒钟 which would look a little bit more like this. You right click and it just constantly releases it over and over.":
+    - generic: 4:21
+    - generic: 4分钟21秒钟
+    - text: which would look a little bit more like this. You right click and it just constantly releases it over and over.
+  - button "4分钟26秒钟 Now if you also put on ballista support the attack speed will be even lower. So you can plop down ballistas and they will constantly shoot just over and over":
+    - generic: 4:26
+    - generic: 4分钟26秒钟
+    - text: Now if you also put on ballista support the attack speed will be even lower. So you can plop down ballistas and they will constantly shoot just over and over
+  - button "4分钟35秒钟 and over. Now this used to be annoying and I'm still on the old patch so I still have to take these reduced duration nodes and whatnot. But on the new patch and the way kinetic fusel":
+    - generic: 4:35
+    - generic: 4分钟35秒钟
+    - text: and over. Now this used to be annoying and I'm still on the old patch so I still have to take these reduced duration nodes and whatnot. But on the new patch and the way kinetic fusel
+  - button "4分钟43秒钟 changed, you don't have to worry about that anymore. You will not path to the middle of the tree anymore. All you need to do is have less duration and you want to level this up as high as possible.":
+    - generic: 4:43
+    - generic: 4分钟43秒钟
+    - text: changed, you don't have to worry about that anymore. You will not path to the middle of the tree anymore. All you need to do is have less duration and you want to level this up as high as possible.
+  - button "4分钟51秒钟 And also important with these socket changes next patch, whatever you put into a socket of its color. So, for example, if you put less duration in a":
+    - generic: 4:51
+    - generic: 4分钟51秒钟
+    - text: And also important with these socket changes next patch, whatever you put into a socket of its color. So, for example, if you put less duration in a
+  - button "4分钟58秒钟 red color, you get 10% quality, which is even less duration, which is huge. It allows you to go for 3.7 attacks per":
+    - generic: 4:58
+    - generic: 4分钟58秒钟
+    - text: red color, you get 10% quality, which is even less duration, which is huge. It allows you to go for 3.7 attacks per
+  - button "5分钟5秒钟 second instead of 3.3. Big deal. That is all you have to think about in terms of duration. No more itemization, no more anything else. Also important to":
+    - generic: 5:05
+    - generic: 5分钟5秒钟
+    - text: second instead of 3.3. Big deal. That is all you have to think about in terms of duration. No more itemization, no more anything else. Also important to
+  - button "5分钟14秒钟 know about this skill is additional projectile shotgun. So, they will hit the same target and therefore be more damage multipliers. So stuff like reign":
+    - generic: 5:14
+    - generic: 5分钟14秒钟
+    - text: know about this skill is additional projectile shotgun. So, they will hit the same target and therefore be more damage multipliers. So stuff like reign
+  - button "5分钟22秒钟 of splinters and also the wand mastery right here that grants an additional projectiles are highly highly valuable.":
+    - generic: 5:22
+    - generic: 5分钟22秒钟
+    - text: of splinters and also the wand mastery right here that grants an additional projectiles are highly highly valuable.
+  - button "5分钟29秒钟 The only thing regarding projectiles is it increases your duration but it is still worthwhile and still easy to manage. So you have the 0.5 base":
+    - generic: 5:29
+    - generic: 5分钟29秒钟
+    - text: The only thing regarding projectiles is it increases your duration but it is still worthwhile and still easy to manage. So you have the 0.5 base
+  - button "5分钟37秒钟 duration which is the new base duration of kinetic fuselot plus 0.05 times the number of projectiles. So it makes the":
+    - generic: 5:37
+    - generic: 5分钟37秒钟
+    - text: duration which is the new base duration of kinetic fuselot plus 0.05 times the number of projectiles. So it makes the
+  - button "5分钟44秒钟 duration slightly longer just so you know. Next up, why totems? So on this build, we put ballista totem support on kinetic fuselot. So our ballistas fire":
+    - generic: 5:44
+    - generic: 5分钟44秒钟
+    - text: duration slightly longer just so you know. Next up, why totems? So on this build, we put ballista totem support on kinetic fuselot. So our ballistas fire
+  - button "第 4 章：Why Totems?":
+    - heading "第 4 章：Why Totems?" [level=3]
+  - button "5分钟53秒钟 the skill instead of us. And that is because the downside of ballista totem comes in the form of less attack speed, not less damage, which actually makes it":
+    - generic: 5:53
+    - generic: 5分钟53秒钟
+    - text: the skill instead of us. And that is because the downside of ballista totem comes in the form of less attack speed, not less damage, which actually makes it
+  - button "6分钟1秒钟 synergistic with kinetic fuse a lot and how it works. It's also easy to play on bosses and has a high damage uptime, meaning that you can do mechanics and get out of the way and your totems will":
+    - generic: 6:01
+    - generic: 6分钟1秒钟
+    - text: synergistic with kinetic fuse a lot and how it works. It's also easy to play on bosses and has a high damage uptime, meaning that you can do mechanics and get out of the way and your totems will
+  - button "6分钟9秒钟 still deal damage. Also, use the play style. Actually, don't like just shield charge into a pack without doing anything. uh plan ahead and use your":
+    - generic: 6:09
+    - generic: 6分钟9秒钟
+    - text: still deal damage. Also, use the play style. Actually, don't like just shield charge into a pack without doing anything. uh plan ahead and use your
+  - button "第 5 章：Damage Scaling":
+    - heading "第 5 章：Damage Scaling" [level=3]
+  - button "6分钟18秒钟 range. Next up, we have the damage scaling. How do you actually deal damage on this build? You want added damage everywhere. It's an attack so you can get it on jewelry. For example, this is":
+    - generic: 6:18
+    - generic: 6分钟18秒钟
+    - text: range. Next up, we have the damage scaling. How do you actually deal damage on this build? You want added damage everywhere. It's an attack so you can get it on jewelry. For example, this is
+  - button "6分钟26秒钟 my early progression act three. As soon as you get the craft, put it on as soon as possible. Obviously, if you find rings and jewelry in general that has":
+    - generic: 6:26
+    - generic: 6分钟26秒钟
+    - text: my early progression act three. As soon as you get the craft, put it on as soon as possible. Obviously, if you find rings and jewelry in general that has
+  - button "6分钟33秒钟 flat damage, even better. Stuff like prison weave is an absolute godsend early on. Anything that makes it less important to actually have a good wand":
+    - generic: 6:33
+    - generic: 6分钟33秒钟
+    - text: flat damage, even better. Stuff like prison weave is an absolute godsend early on. Anything that makes it less important to actually have a good wand
+  - button "6分钟42秒钟 cuz otherwise uh yeah, you can really brick on your wand early on. We also have auras for that. For example, we use anger. On top of that, we can also use":
+    - generic: 6:42
+    - generic: 6分钟42秒钟
+    - text: cuz otherwise uh yeah, you can really brick on your wand early on. We also have auras for that. For example, we use anger. On top of that, we can also use
+  - button "6分钟49秒钟 increased spell damage. It works on kinetic fuselot because it has a line right here where it converts spell damage to attack damage at 150% of its":
+    - generic: 6:49
+    - generic: 6分钟49秒钟
+    - text: increased spell damage. It works on kinetic fuselot because it has a line right here where it converts spell damage to attack damage at 150% of its
+  - button "6分钟58秒钟 value, which means that, for example, 10 spell damage equals 15 attack damage.":
+    - generic: 6:58
+    - generic: 6分钟58秒钟
+    - text: value, which means that, for example, 10 spell damage equals 15 attack damage.
+  - button "7分钟1秒钟 Otherwise, everything goes. All the usual crit, all the wand nodes, all the totem notes, they all work. As for defenses, this is not an especially tanky build. If you're used to stuff":
+    - generic: 7:01
+    - generic: 7分钟1秒钟
+    - text: Otherwise, everything goes. All the usual crit, all the wand nodes, all the totem notes, they all work. As for defenses, this is not an especially tanky build. If you're used to stuff
+  - button "第 6 章：Defenses":
+    - heading "第 6 章：Defenses" [level=3]
+  - button "7分钟10秒钟 like for example righteous fire, this build will be a lot higher damage but also squishier. So you need to also make use of your play style. Now in endgame":
+    - generic: 7:10
+    - generic: 7分钟10秒钟
+    - text: like for example righteous fire, this build will be a lot higher damage but also squishier. So you need to also make use of your play style. Now in endgame
+  - button "7分钟18秒钟 we do have a version where I go into agus aurora which gives you good recovery and in general just really good mapping":
+    - generic: 7:18
+    - generic: 7分钟18秒钟
+    - text: we do have a version where I go into agus aurora which gives you good recovery and in general just really good mapping
+  - button "7分钟26秒钟 defense. So in mapping you can get quite tanky. But for example on bosses you're not going to be tanking any slams anytime soon. So, if you're not really":
+    - generic: 7:26
+    - generic: 7分钟26秒钟
+    - text: defense. So in mapping you can get quite tanky. But for example on bosses you're not going to be tanking any slams anytime soon. So, if you're not really
+  - button "7分钟34秒钟 into that and you you're more accustomed to chieftains or juggernauts, then I would highly recommend not to go for this build. Then, let's talk about the ascendancy. We're going for Hero.":
+    - generic: 7:34
+    - generic: 7分钟34秒钟
+    - text: into that and you you're more accustomed to chieftains or juggernauts, then I would highly recommend not to go for this build. Then, let's talk about the ascendancy. We're going for Hero.
+  - button "第 7 章：Ascendancy":
+    - heading "第 7 章：Ascendancy" [level=3]
+  - button "7分钟42秒钟 There's a few viable options, but this is the one that carries the most in my opinion because it has a ton of intrinsic totem placement speed. If you don't know what that is, it determines":
+    - generic: 7:42
+    - generic: 7分钟42秒钟
+    - text: There's a few viable options, but this is the one that carries the most in my opinion because it has a ton of intrinsic totem placement speed. If you don't know what that is, it determines
+  - button "7分钟51秒钟 how long I pop it up. So, for example, right now I'm on a test character and I have no placement speed. And look how long it takes me to place it down and how long it takes for the totem to plop":
+    - generic: 7:51
+    - generic: 7分钟51秒钟
+    - text: how long I pop it up. So, for example, right now I'm on a test character and I have no placement speed. And look how long it takes me to place it down and how long it takes for the totem to plop
+  - button "8分钟 up. That is ridiculous. that will be like three times as fast on a hero and that is because you don't need to itemize into it. You just get it on the":
+    - generic: 8:00
+    - generic: 8分钟
+    - text: up. That is ridiculous. that will be like three times as fast on a hero and that is because you don't need to itemize into it. You just get it on the
+  - button "8分钟7秒钟 ascendancy also plus one. Totem duration is pretty much negligible. So these two nodes also have 20 placement speed for a total of 140. This node right here is":
+    - generic: 8:07
+    - generic: 8分钟7秒钟
+    - text: ascendancy also plus one. Totem duration is pretty much negligible. So these two nodes also have 20 placement speed for a total of 140. This node right here is
+  - button "8分钟15秒钟 one of the nerfs this patch. The 5% more damage goes down to 3% more damage, but we don't really spam crazy amounts. Like for example, siege ballista. So for us,":
+    - generic: 8:15
+    - generic: 8分钟15秒钟
+    - text: one of the nerfs this patch. The 5% more damage goes down to 3% more damage, but we don't really spam crazy amounts. Like for example, siege ballista. So for us,
+  - button "8分钟23秒钟 this results in like 9% less damage, which is already calced in uh what I said at the start about the changes. It still fixes our mana and it still fixes our recovery. So there you go. It's":
+    - generic: 8:23
+    - generic: 8分钟23秒钟
+    - text: this results in like 9% less damage, which is already calced in uh what I said at the start about the changes. It still fixes our mana and it still fixes our recovery. So there you go. It's
+  - button "8分钟32秒钟 still extremely strong. And then at the end we got conviction of power which gives us power and endurance charges.":
+    - generic: 8:32
+    - generic: 8分钟32秒钟
+    - text: still extremely strong. And then at the end we got conviction of power which gives us power and endurance charges.
+  - button "8分钟37秒钟 Huge because we can't really power charge on hit because we are basically not hitting only our totems are. We still get frenzy generally from um":
+    - generic: 8:37
+    - generic: 8分钟37秒钟
+    - text: Huge because we can't really power charge on hit because we are basically not hitting only our totems are. We still get frenzy generally from um
+  - button "8分钟45秒钟 pressing frenzy. Now as for the last ascendy, this one's a little bit rougher. I'm actually going for a owl.":
+    - generic: 8:45
+    - generic: 8分钟45秒钟
+    - text: pressing frenzy. Now as for the last ascendy, this one's a little bit rougher. I'm actually going for a owl.
+  - button "8分钟50秒钟 Uh farming this one yourself is quite annoying. On trade you can buy a carry.":
+    - generic: 8:50
+    - generic: 8分钟50秒钟
+    - text: Uh farming this one yourself is quite annoying. On trade you can buy a carry.
+  - button "8分钟54秒钟 If you can do it yourself, that's totally fine. It's more about actually finding and all. Uh this one gives you anger and determination aura effect.":
+    - generic: 8:54
+    - generic: 8分钟54秒钟
+    - text: If you can do it yourself, that's totally fine. It's more about actually finding and all. Uh this one gives you anger and determination aura effect.
+  - button "9分钟2秒钟 There is some other options like for example you can go for synaptic rings and completely ignore lightning resistance whatsoever. In that case you":
+    - generic: 9:02
+    - generic: 9分钟2秒钟
+    - text: There is some other options like for example you can go for synaptic rings and completely ignore lightning resistance whatsoever. In that case you
+  - button "9分钟9秒钟 would remove the elemental weakness and I might end up doing that but then again you have to craft synaptic rings which is a little bit more annoying to do.":
+    - generic: 9:09
+    - generic: 9分钟9秒钟
+    - text: would remove the elemental weakness and I might end up doing that but then again you have to craft synaptic rings which is a little bit more annoying to do.
+  - 'button "第 8 章：Progression: Campaign"':
+    - 'heading "第 8 章：Progression: Campaign" [level=3]'
+  - button "9分钟17秒钟 Next up let's go through progression.":
+    - generic: 9:17
+    - generic: 9分钟17秒钟
+    - text: Next up let's go through progression.
+  - button "9分钟18秒钟 Uh, I will be talking about all the leveling in a separate video, but all you need to know is, uh, end of act three or start of act four, I will be transitioning into kinetic fuselot with":
+    - generic: 9:18
+    - generic: 9分钟18秒钟
+    - text: Uh, I will be talking about all the leveling in a separate video, but all you need to know is, uh, end of act three or start of act four, I will be transitioning into kinetic fuselot with
+  - button "9分钟27秒钟 ballista. What you need to transition is less duration, a fourlink as per usual.":
+    - generic: 9:27
+    - generic: 9分钟27秒钟
+    - text: ballista. What you need to transition is less duration, a fourlink as per usual.
+  - button "9分钟32秒钟 The colors are not as important anymore, so it should be rather easy. Uh, important to note is that you want less duration in a red socket. And if you":
+    - generic: 9:32
+    - generic: 9分钟32秒钟
+    - text: The colors are not as important anymore, so it should be rather easy. Uh, important to note is that you want less duration in a red socket. And if you
+  - button "9分钟39秒钟 can, can fuse a lot in a blue socket, but it has less priority early on. Like I said, you want a lot of flat damage.":
+    - generic: 9:39
+    - generic: 9分钟39秒钟
+    - text: can, can fuse a lot in a blue socket, but it has less priority early on. Like I said, you want a lot of flat damage.
+  - button "9分钟44秒钟 You want a good wand as much as possible. attack speed crit is also very very strong on a shield some spell damage. The two uniques that will":
+    - generic: 9:44
+    - generic: 9分钟44秒钟
+    - text: You want a good wand as much as possible. attack speed crit is also very very strong on a shield some spell damage. The two uniques that will
+  - button "9分钟53秒钟 catapult your damage is do tenure which is very cheap because gives you 100% spell damage which is 150% attack damage and prison wave is just a ton of extra":
+    - generic: 9:53
+    - generic: 9分钟53秒钟
+    - text: catapult your damage is do tenure which is very cheap because gives you 100% spell damage which is 150% attack damage and prison wave is just a ton of extra
+  - button "10分钟1秒钟 stats on the tree. You can see that early on we go elemental overload and it's very important that you unspec this node once you go crit which is down here":
+    - generic: 10:01
+    - generic: 10分钟1秒钟
+    - text: stats on the tree. You can see that early on we go elemental overload and it's very important that you unspec this node once you go crit which is down here
+  - button "10分钟8秒钟 at act 10 which is the crit respspec and then you can see we're taking all the critical strike nodes. EO literally makes it so you cannot deal extra damage":
+    - generic: 10:08
+    - generic: 10分钟8秒钟
+    - text: at act 10 which is the crit respspec and then you can see we're taking all the critical strike nodes. EO literally makes it so you cannot deal extra damage
+  - button "10分钟17秒钟 from crits. So that is very very important. That's a pretty important step in the progression. Other than that, if we look right here, early maps,":
+    - generic: 10:17
+    - generic: 10分钟17秒钟
+    - text: from crits. So that is very very important. That's a pretty important step in the progression. Other than that, if we look right here, early maps,
+  - button "10分钟25秒钟 the only thing that really changed is we're actually crafting a wand with essence. We're getting a little bit more spell damage. We're starting to get into":
+    - generic: 10:25
+    - generic: 10分钟25秒钟
+    - text: the only thing that really changed is we're actually crafting a wand with essence. We're getting a little bit more spell damage. We're starting to get into
+  - button "10分钟32秒钟 block just so we don't get uh we have some avoidance, right? Um we're getting resistances, especially chaos resistance is quite important. And yeah, movement":
+    - generic: 10:32
+    - generic: 10分钟32秒钟
+    - text: block just so we don't get uh we have some avoidance, right? Um we're getting resistances, especially chaos resistance is quite important. And yeah, movement
+  - button "10分钟41秒钟 speed a little bit. trying to get some crit multi on amulet. Otherwise, still there's still the crafted flat damage everywhere. Still have prison wave,":
+    - generic: 10:41
+    - generic: 10分钟41秒钟
+    - text: speed a little bit. trying to get some crit multi on amulet. Otherwise, still there's still the crafted flat damage everywhere. Still have prison wave,
+  - button "10分钟49秒钟 still have dodor tenure. In terms of skills, what happens early on is uh you will have less attack speed because of how the nerfs shaked out. So, as your":
+    - generic: 10:49
+    - generic: 10分钟49秒钟
+    - text: still have dodor tenure. In terms of skills, what happens early on is uh you will have less attack speed because of how the nerfs shaked out. So, as your
+  - button "10分钟57秒钟 fifth link, you actually want faster attacks support. You will most likely be getting your fifth five link from the beach in act six. So, that should be":
+    - generic: 10:57
+    - generic: 10分钟57秒钟
+    - text: fifth link, you actually want faster attacks support. You will most likely be getting your fifth five link from the beach in act six. So, that should be
+  - button "11分钟5秒钟 guaranteed. And with the socket changes, it is not a problem. So, that's why I put it in the early POB as well. You want the foster attacks instead of any damage early on just so the totem is feel a little bit better after that.":
+    - generic: 11:05
+    - generic: 11分钟5秒钟
+    - text: guaranteed. And with the socket changes, it is not a problem. So, that's why I put it in the early POB as well. You want the foster attacks instead of any damage early on just so the totem is feel a little bit better after that.
+  - button "11分钟17秒钟 Really important. We now do not need to scale reduced duration anymore which means that all our other skills are now way nicer to use. Your archinist brand":
+    - generic: 11:17
+    - generic: 11分钟17秒钟
+    - text: Really important. We now do not need to scale reduced duration anymore which means that all our other skills are now way nicer to use. Your archinist brand
+  - button "11分钟25秒钟 actually stays up for longer. So does your tornado flame wall elemental weakness. And it's actually the sole reason I reintroduced tornado into this setup. So Ellie weak flame wall tornado.":
+    - generic: 11:25
+    - generic: 11分钟25秒钟
+    - text: actually stays up for longer. So does your tornado flame wall elemental weakness. And it's actually the sole reason I reintroduced tornado into this setup. So Ellie weak flame wall tornado.
+  - button "11分钟35秒钟 This will more than double your damage on single target. So, whenever you fight like rough rares or um bosses, always put this down. It's super important.":
+    - generic: 11:35
+    - generic: 11分钟35秒钟
+    - text: This will more than double your damage on single target. So, whenever you fight like rough rares or um bosses, always put this down. It's super important.
+  - button "11分钟43秒钟 Shield charge, faster attacks, momentum.":
+    - generic: 11:43
+    - generic: 11分钟43秒钟
+    - text: Shield charge, faster attacks, momentum.
+  - button "11分钟45秒钟 Early on, you will want to go steel skin. I don't go armor anymore early. I actually think that purity of elements in Midame is better. That is something I":
+    - generic: 11:45
+    - generic: 11分钟45秒钟
+    - text: Early on, you will want to go steel skin. I don't go armor anymore early. I actually think that purity of elements in Midame is better. That is something I
+  - button "11分钟53秒钟 did change from the last progression, but if you want to, you still can. Just know that I go armor once I have Aegus Aurora and a light of meaning. We'll":
+    - generic: 11:53
+    - generic: 11分钟53秒钟
+    - text: did change from the last progression, but if you want to, you still can. Just know that I go armor once I have Aegus Aurora and a light of meaning. We'll
+  - button "12分钟1秒钟 discuss that in a second. Custom damage taken, steel skin, frenzy. Uh try to keep up your frenzy charges. quite nice. Um, anger.":
+    - generic: 12:01
+    - generic: 12分钟1秒钟
+    - text: discuss that in a second. Custom damage taken, steel skin, frenzy. Uh try to keep up your frenzy charges. quite nice. Um, anger.
+  - button "12分钟9秒钟 This is our flat damage. It's a big deal. Purity of elements you do during your progression once you get this cluster right here and the mana":
+    - generic: 12:09
+    - generic: 12分钟9秒钟
+    - text: This is our flat damage. It's a big deal. Purity of elements you do during your progression once you get this cluster right here and the mana
+  - button "12分钟17秒钟 reservation efficiency right here. So, that's pretty cool. After that, we have precision with arrogance and frostblink.":
+    - generic: 12:17
+    - generic: 12分钟17秒钟
+    - text: reservation efficiency right here. So, that's pretty cool. After that, we have precision with arrogance and frostblink.
+  - button "12分钟23秒钟 And this basically does not change up to early maps. Now, you will see in early maps I actually put in purity of elements and tempest shield because now I'm trying to get some spell block.":
+    - generic: 12:23
+    - generic: 12分钟23秒钟
+    - text: And this basically does not change up to early maps. Now, you will see in early maps I actually put in purity of elements and tempest shield because now I'm trying to get some spell block.
+  - 'button "第 9 章：Progression: Maps"':
+    - 'heading "第 9 章：Progression: Maps" [level=3]'
+  - button "12分钟32秒钟 We're not right side so we don't have access to spell suppression and it got nerfed. Anyways, so spell block is just extremely strong. So here you can see I'm already investing into some of them":
+    - generic: 12:32
+    - generic: 12分钟32秒钟
+    - text: We're not right side so we don't have access to spell suppression and it got nerfed. Anyways, so spell block is just extremely strong. So here you can see I'm already investing into some of them
+  - button "12分钟40秒钟 on the passive tree right here. I haven't quite grabbed this one yet, but I'm starting at this point and tempest shield. Um, yeah, just very, very nice.":
+    - generic: 12:40
+    - generic: 12分钟40秒钟
+    - text: on the passive tree right here. I haven't quite grabbed this one yet, but I'm starting at this point and tempest shield. Um, yeah, just very, very nice.
+  - button "12分钟48秒钟 Now, purity of elements, tempest shield already makes you shock immune, but I just like it really for the freeze immunity. If you don't know, usually the":
+    - generic: 12:48
+    - generic: 12分钟48秒钟
+    - text: Now, purity of elements, tempest shield already makes you shock immune, but I just like it really for the freeze immunity. If you don't know, usually the
+  - button "12分钟56秒钟 freeze immunity comes from soul of the brine king, which we don't know where it is on the Atlas this patch. you get the 100 chance to avoid being frozen. But":
+    - generic: 12:56
+    - generic: 12分钟56秒钟
+    - text: freeze immunity comes from soul of the brine king, which we don't know where it is on the Atlas this patch. you get the 100 chance to avoid being frozen. But
+  - button "13分钟3秒钟 until you get there, you don't just want to get frozen and die. At least I personally don't. So that's what I do.":
+    - generic: 13:03
+    - generic: 13分钟3秒钟
+    - text: until you get there, you don't just want to get frozen and die. At least I personally don't. So that's what I do.
+  - button "13分钟9秒钟 Otherwise, not really much changed. I'm still using steel skin. And there it goes. Now, after we got to red maps and got a little bit of currency, the first chase item you have is Wilma's Rquid.":
+    - generic: 13:09
+    - generic: 13分钟9秒钟
+    - text: Otherwise, not really much changed. I'm still using steel skin. And there it goes. Now, after we got to red maps and got a little bit of currency, the first chase item you have is Wilma's Rquid.
+  - button "13分钟20秒钟 This item makes it so increases and reductions to cast speed applied to attack speed. Now, this is an interesting ability because it actually double dips with a few things. For example, haste, which we're going to try":
+    - generic: 13:20
+    - generic: 13分钟20秒钟
+    - text: This item makes it so increases and reductions to cast speed applied to attack speed. Now, this is an interesting ability because it actually double dips with a few things. For example, haste, which we're going to try
+  - button "13分钟29秒钟 to fit in in endgame. Gives you both attack speed and cast speed, but it doubles. So, your cost speed gets converted to attack speed, so you actually get 48% attack speed in total.":
+    - generic: 13:29
+    - generic: 13分钟29秒钟
+    - text: to fit in in endgame. Gives you both attack speed and cast speed, but it doubles. So, your cost speed gets converted to attack speed, so you actually get 48% attack speed in total.
+  - button "13分钟37秒钟 In endgame, I'm also getting a medium cluster jewel with sleepless entries, which grants onslaught, 20% attack, and cost speed, equals 40% attack speed, and":
+    - generic: 13:37
+    - generic: 13分钟37秒钟
+    - text: In endgame, I'm also getting a medium cluster jewel with sleepless entries, which grants onslaught, 20% attack, and cost speed, equals 40% attack speed, and
+  - button "13分钟44秒钟 also frenzy charges give four each, so now eight each. So, at the point where you get Wilma, you really want to make sure that your frenzy stays up as much as possible. If you look at the items":
+    - generic: 13:44
+    - generic: 13分钟44秒钟
+    - text: also frenzy charges give four each, so now eight each. So, at the point where you get Wilma, you really want to make sure that your frenzy stays up as much as possible. If you look at the items
+  - button "13分钟52秒钟 here, we will see that the only thing that changed is just that they got better. they have a little bit more resistances and whatnot. Don't mind the armor here. I still have to update this":
+    - generic: 13:52
+    - generic: 13分钟52秒钟
+    - text: here, we will see that the only thing that changed is just that they got better. they have a little bit more resistances and whatnot. Don't mind the armor here. I still have to update this
+  - button "13分钟59秒钟 into the steel skin version, but needless to say, armor doesn't really matter before you get to Aegis. Uh, but":
+    - generic: 13:59
+    - generic: 13分钟59秒钟
+    - text: into the steel skin version, but needless to say, armor doesn't really matter before you get to Aegis. Uh, but
+  - button "14分钟6秒钟 before that, quickly for flasks, you want a diamond flask, just more damage.":
+    - generic: 14:06
+    - generic: 14分钟6秒钟
+    - text: before that, quickly for flasks, you want a diamond flask, just more damage.
+  - button "14分钟11秒钟 Quicksilver flask with movement speed just makes you faster. Quartz flask is super important for totem builds because you never want to stand in front of a":
+    - generic: 14:11
+    - generic: 14分钟11秒钟
+    - text: Quicksilver flask with movement speed just makes you faster. Quartz flask is super important for totem builds because you never want to stand in front of a
+  - button "14分钟18秒钟 pack. Your totems are still hitting. And reduced effect of curses is really, really nice. uh even early on when you don't go armor, you still want the":
+    - generic: 14:18
+    - generic: 14分钟18秒钟
+    - text: pack. Your totems are still hitting. And reduced effect of curses is really, really nice. uh even early on when you don't go armor, you still want the
+  - button "14分钟25秒钟 granite flask for small hits. Highly recommend that. And then you want obviously a life flask with corrupted blood immunity. And then going into endgame, you will see some more drastic":
+    - generic: 14:25
+    - generic: 14分钟25秒钟
+    - text: granite flask for small hits. Highly recommend that. And then you want obviously a life flask with corrupted blood immunity. And then going into endgame, you will see some more drastic
+  - 'button "第 10 章：Progression: Aegis Swap"':
+    - 'heading "第 10 章：Progression: Aegis Swap" [level=3]'
+  - button "14分钟32秒钟 changes right here. So the AUS respect makes it so we use Aegus Aurora, which is one of our most important defensive":
+    - generic: 14:32
+    - generic: 14分钟32秒钟
+    - text: changes right here. So the AUS respect makes it so we use Aegus Aurora, which is one of our most important defensive
+  - button "14分钟40秒钟 tools. Uh recover energy shield equal to 2% of your armor when you block. And as you can see right here with quite a bit of armor, 61k with granite flask up, 43k":
+    - generic: 14:40
+    - generic: 14分钟40秒钟
+    - text: tools. Uh recover energy shield equal to 2% of your armor when you block. And as you can see right here with quite a bit of armor, 61k with granite flask up, 43k
+  - button "14分钟48秒钟 without. On top of that, scaling armor also enables molten shell, which I've disabled here because it's not up all the time. But if you see right here,":
+    - generic: 14:48
+    - generic: 14分钟48秒钟
+    - text: without. On top of that, scaling armor also enables molten shell, which I've disabled here because it's not up all the time. But if you see right here,
+  - button "14分钟56秒钟 it's up like more than half of the time and you're not dying while it's up. Do note though, this is a lot of avoidance, but in terms of one shots, we're still not as strong. So, for example, like I":
+    - generic: 14:56
+    - generic: 14分钟56秒钟
+    - text: it's up like more than half of the time and you're not dying while it's up. Do note though, this is a lot of avoidance, but in terms of one shots, we're still not as strong. So, for example, like I
+  - button "15分钟4秒钟 said, on bosses, it is not the best form of defense possible, but Aegis wants you to have a lot of percentage armor, and that is not really possible on our":
+    - generic: 15:04
+    - generic: 15分钟4秒钟
+    - text: said, on bosses, it is not the best form of defense possible, but Aegis wants you to have a lot of percentage armor, and that is not really possible on our
+  - button "15分钟13秒钟 pathing. So, the easy way out is light of meaning. Now, just to give you an idea, I will not be going Agis before I":
+    - generic: 15:13
+    - generic: 15分钟13秒钟
+    - text: pathing. So, the easy way out is light of meaning. Now, just to give you an idea, I will not be going Agis before I
+  - button "15分钟20秒钟 have this jewel. I just do not think it is really all that great. This jewel is completely ridiculous. You get 7% increased armor per. I'll just unequip":
+    - generic: 15:20
+    - generic: 15分钟20秒钟
+    - text: have this jewel. I just do not think it is really all that great. This jewel is completely ridiculous. You get 7% increased armor per. I'll just unequip
+  - button "15分钟28秒钟 it to show you. You go from 61k down to 38k. And then if you didn't have your granite flask up, you would actually go down to 24K. So, you can see why this":
+    - generic: 15:28
+    - generic: 15分钟28秒钟
+    - text: it to show you. You go from 61k down to 38k. And then if you didn't have your granite flask up, you would actually go down to 24K. So, you can see why this
+  - button "15分钟36秒钟 item is so important. So, these are the two items that I will need for my defensive setup. We still have a Wilma. I wanted to put a corruption here.":
+    - generic: 15:36
+    - generic: 15分钟36秒钟
+    - text: item is so important. So, these are the two items that I will need for my defensive setup. We still have a Wilma. I wanted to put a corruption here.
+  - button "15分钟43秒钟 There's also the new legion mechanic which can maybe cheat some stuff. It might get ridiculous. It might be insane for Wilmer's Recquiddle if you don't":
+    - generic: 15:43
+    - generic: 15分钟43秒钟
+    - text: There's also the new legion mechanic which can maybe cheat some stuff. It might get ridiculous. It might be insane for Wilmer's Recquiddle if you don't
+  - button "15分钟51秒钟 know. You can carry over a implicit which is like a mod from a different unique helmet onto a new unique helmet.":
+    - generic: 15:51
+    - generic: 15分钟51秒钟
+    - text: know. You can carry over a implicit which is like a mod from a different unique helmet onto a new unique helmet.
+  - button "15分钟57秒钟 We'll see how that goes. Could be absurd. More on that and like further aspirational stuff I will obviously update on league start. Other than that, our gear just got better. More stats.":
+    - generic: 15:57
+    - generic: 15分钟57秒钟
+    - text: We'll see how that goes. Could be absurd. More on that and like further aspirational stuff I will obviously update on league start. Other than that, our gear just got better. More stats.
+  - button "16分钟8秒钟 We're fixing all the attributes. were actually getting capped on chaos resistance which is pretty hard early on. You really want to utilize the":
+    - generic: 16:08
+    - generic: 16分钟8秒钟
+    - text: We're fixing all the attributes. were actually getting capped on chaos resistance which is pretty hard early on. You really want to utilize the
+  - button "16分钟15秒钟 hybrid cold and chaos fire and chaos lightning and chaos res because chaos r gear is just very expensive and also amethyst rings obviously as always very":
+    - generic: 16:15
+    - generic: 16分钟15秒钟
+    - text: hybrid cold and chaos fire and chaos lightning and chaos res because chaos r gear is just very expensive and also amethyst rings obviously as always very
+  - button "16分钟24秒钟 desired. Once you have aurora, you want to really go into hybrid armor energy shield gear on your body armor. Make":
+    - generic: 16:24
+    - generic: 16分钟24秒钟
+    - text: desired. Once you have aurora, you want to really go into hybrid armor energy shield gear on your body armor. Make
+  - button "16分钟31秒钟 sure you have no life roles so you can actually use the life mastery as always.":
+    - generic: 16:31
+    - generic: 16分钟31秒钟
+    - text: sure you have no life roles so you can actually use the life mastery as always.
+  - button "16分钟35秒钟 Also to remind you foul surrender exists. It gives you energy shield when you block and you don't need any armor.":
+    - generic: 16:35
+    - generic: 16分钟35秒钟
+    - text: Also to remind you foul surrender exists. It gives you energy shield when you block and you don't need any armor.
+  - button "16分钟41秒钟 It's weaker than Aegis, but it is a nice early alternative until you have all the other items. But last time I put it in a POB, it uh got inflated to be more than Aegis for some reason, which is insane.":
+    - generic: 16:41
+    - generic: 16分钟41秒钟
+    - text: It's weaker than Aegis, but it is a nice early alternative until you have all the other items. But last time I put it in a POB, it uh got inflated to be more than Aegis for some reason, which is insane.
+  - button "16分钟51秒钟 So, I'll just mention it here. Just know it exists and you can use it as a progression item. Another upgrade we got here was Stigian Vice, which is just a":
+    - generic: 16:51
+    - generic: 16分钟51秒钟
+    - text: So, I'll just mention it here. Just know it exists and you can use it as a progression item. Another upgrade we got here was Stigian Vice, which is just a
+  - button "16分钟59秒钟 better belt. You get an abyssal socket, which gives you more flat life, multi, all the good stuff. And then we have the large and medium cluster right here. For":
+    - generic: 16:59
+    - generic: 16分钟59秒钟
+    - text: better belt. You get an abyssal socket, which gives you more flat life, multi, all the good stuff. And then we have the large and medium cluster right here. For
+  - button "17分钟8秒钟 the large cluster, we're looking for opportunistic fuselot and marshall prowess. Although it is not that important. Anything that gives you damage here will be nice. It's just":
+    - generic: 17:08
+    - generic: 17分钟8秒钟
+    - text: the large cluster, we're looking for opportunistic fuselot and marshall prowess. Although it is not that important. Anything that gives you damage here will be nice. It's just
+  - button "17分钟15秒钟 there to carry the two jewels, which you want like stuff like attack speed, crit multi, spell damage, life is very strong. And then you want the medium":
+    - generic: 17:15
+    - generic: 17分钟15秒钟
+    - text: there to carry the two jewels, which you want like stuff like attack speed, crit multi, spell damage, life is very strong. And then you want the medium
+  - button "17分钟24秒钟 cluster, which is actually the important one because this is where you get your onslaught. This is 40% attack speed for you with Wilmas. Super super important":
+    - generic: 17:24
+    - generic: 17分钟24秒钟
+    - text: cluster, which is actually the important one because this is where you get your onslaught. This is 40% attack speed for you with Wilmas. Super super important
+  - button "17分钟32秒钟 high priority target. The second notable is less important. Now, other than the light of meaning right here, which is in this radius, we also have another radius jewel, which is the lethal pride. And":
+    - generic: 17:32
+    - generic: 17分钟32秒钟
+    - text: high priority target. The second notable is less important. Now, other than the light of meaning right here, which is in this radius, we also have another radius jewel, which is the lethal pride. And
+  - button "17分钟41秒钟 lethal pride gives random stats to notables all around. So, for example, you want to look for stuff like double damage. Incredibly, incredibly strong.":
+    - generic: 17:41
+    - generic: 17分钟41秒钟
+    - text: lethal pride gives random stats to notables all around. So, for example, you want to look for stuff like double damage. Incredibly, incredibly strong.
+  - button "17分钟49秒钟 Um, now fire res and armor and whatnot is all good. Uh, but you're looking for one in particular here, which is chance to intimidate. Now, if you already have":
+    - generic: 17:49
+    - generic: 17分钟49秒钟
+    - text: Um, now fire res and armor and whatnot is all good. Uh, but you're looking for one in particular here, which is chance to intimidate. Now, if you already have
+  - button "17分钟58秒钟 this on your gloves, obviously you don't need that. It just depends on what you get. If you don't know, you can find timeless jewels down here. Important to note with Aegus is also glancing blows.":
+    - generic: 17:58
+    - generic: 17分钟58秒钟
+    - text: this on your gloves, obviously you don't need that. It just depends on what you get. If you don't know, you can find timeless jewels down here. Important to note with Aegus is also glancing blows.
+  - button "18分钟7秒钟 This has chance to block attacks is doubled and chance to block spell damage is doubled, but it has a huge downside in that you take 65 of damage from":
+    - generic: 18:07
+    - generic: 18分钟7秒钟
+    - text: This has chance to block attacks is doubled and chance to block spell damage is doubled, but it has a huge downside in that you take 65 of damage from
+  - button "18分钟15秒钟 blocked hits. However, this doesn't really matter as much if you have Aegus because it recovers so much. So, you basically get that for free. It's just":
+    - generic: 18:15
+    - generic: 18分钟15秒钟
+    - text: blocked hits. However, this doesn't really matter as much if you have Aegus because it recovers so much. So, you basically get that for free. It's just
+  - button "18分钟23秒钟 very synergistic. You can technically cap block without glancing blows, but it will more than half your damage. So, uh,":
+    - generic: 18:23
+    - generic: 18分钟23秒钟
+    - text: very synergistic. You can technically cap block without glancing blows, but it will more than half your damage. So, uh,
+  - button "18分钟30秒钟 you never want to use glancing blows, to be clear, before you have either Aegus Aurora or Foulorn surrender. It is actually a big big downside. Another":
+    - generic: 18:30
+    - generic: 18分钟30秒钟
+    - text: you never want to use glancing blows, to be clear, before you have either Aegus Aurora or Foulorn surrender. It is actually a big big downside. Another
+  - button "18分钟39秒钟 really nice change in endgame here is that you want to replace your elemental weakness with a sniper mark. Uh, the reason being that on your main links,":
+    - generic: 18:39
+    - generic: 18分钟39秒钟
+    - text: really nice change in endgame here is that you want to replace your elemental weakness with a sniper mark. Uh, the reason being that on your main links,
+  - button "18分钟47秒钟 you want invert the rules. This one can get a little bit expensive, so yeah, if that doesn't happen, then don't do it until then. But, uh, this gem gives you":
+    - generic: 18:47
+    - generic: 18分钟47秒钟
+    - text: you want invert the rules. This one can get a little bit expensive, so yeah, if that doesn't happen, then don't do it until then. But, uh, this gem gives you
+  - button "18分钟56秒钟 treat enemies monster resistances as inverted. So, for example, if they have 50 resistance, they actually go to minus 50 resistance. Uh, this one was released":
+    - generic: 18:56
+    - generic: 18分钟56秒钟
+    - text: treat enemies monster resistances as inverted. So, for example, if they have 50 resistance, they actually go to minus 50 resistance. Uh, this one was released
+  - button "19分钟4秒钟 last patch and it actually turns out it's very, very strong. And the reason you want snipers mark then is because if you had elemental weakness and you reduced enemy resistances, that's":
+    - generic: 19:04
+    - generic: 19分钟4秒钟
+    - text: last patch and it actually turns out it's very, very strong. And the reason you want snipers mark then is because if you had elemental weakness and you reduced enemy resistances, that's
+  - button "19分钟12秒钟 actually downside. So, just make sure that you only replace this with snipers mark once you get this gem before you're actually scuffing your build. Another huge item to get is reign of splinters.":
+    - generic: 19:12
+    - generic: 19分钟12秒钟
+    - text: actually downside. So, just make sure that you only replace this with snipers mark once you get this gem before you're actually scuffing your build. Another huge item to get is reign of splinters.
+  - button "19分钟23秒钟 Do note that the strong boxes that drop corrupted jewels will not be in the game anymore. So there's no more 10 chaos rain splinters. These are going to be":
+    - generic: 19:23
+    - generic: 19分钟23秒钟
+    - text: Do note that the strong boxes that drop corrupted jewels will not be in the game anymore. So there's no more 10 chaos rain splinters. These are going to be
+  - button "19分钟31秒钟 multiple divines and should be prioritized, but it's going to be expensive, right? So just know that plus two additional projectiles is ridiculous":
+    - generic: 19:31
+    - generic: 19分钟31秒钟
+    - text: multiple divines and should be prioritized, but it's going to be expensive, right? So just know that plus two additional projectiles is ridiculous
+  - button "19分钟38秒钟 on this build, of course. Um it gives you better clear speed, better single target damage. Completely insane. You can make these by corrupting crimson jewels, but it's extremely rare. Now,":
+    - generic: 19:38
+    - generic: 19分钟38秒钟
+    - text: on this build, of course. Um it gives you better clear speed, better single target damage. Completely insane. You can make these by corrupting crimson jewels, but it's extremely rare. Now,
+  - button "第 11 章：Mistakes to Avoid":
+    - heading "第 11 章：Mistakes to Avoid" [level=3]
+  - button "19分钟47秒钟 rounding all of this up, a quicky mistakes to avoid list here, which is a greatest hits from last league. Uh not getting a ton of added damage on jewelry. Once again, this is especially":
+    - generic: 19:47
+    - generic: 19分钟47秒钟
+    - text: rounding all of this up, a quicky mistakes to avoid list here, which is a greatest hits from last league. Uh not getting a ton of added damage on jewelry. Once again, this is especially
+  - button "19分钟56秒钟 important early on while you're progressing. Otherwise, you're going to do literally no damage. This is like all of your damage. Uh then not leveling and getting quality on less duration.":
+    - generic: 19:56
+    - generic: 19分钟56秒钟
+    - text: important early on while you're progressing. Otherwise, you're going to do literally no damage. This is like all of your damage. Uh then not leveling and getting quality on less duration.
+  - button "20分钟6秒钟 Unfortunately, that is now like the cornerstone of the build is just less duration. You need as much quality as possible. You'll get it up to 30% quality if you have it in a red socket.":
+    - generic: 20:06
+    - generic: 20分钟6秒钟
+    - text: Unfortunately, that is now like the cornerstone of the build is just less duration. You need as much quality as possible. You'll get it up to 30% quality if you have it in a red socket.
+  - button "20分钟16秒钟 So, make sure you do that. Uh this should also be the first thing that you quality in general. Uh then using glancing blows before you have Aegus.":
+    - generic: 20:16
+    - generic: 20分钟16秒钟
+    - text: So, make sure you do that. Uh this should also be the first thing that you quality in general. Uh then using glancing blows before you have Aegus.
+  - button "20分钟24秒钟 I've seen this a lot. Glancing blows is completely and utterly worthless until you have Aegus Aurora or possibly":
+    - generic: 20:24
+    - generic: 20分钟24秒钟
+    - text: I've seen this a lot. Glancing blows is completely and utterly worthless until you have Aegus Aurora or possibly
+  - button "20分钟31秒钟 Foulborn Surrender. Up to you. It's not just bad. It is actually like it makes your build worse. You should never take":
+    - generic: 20:31
+    - generic: 20分钟31秒钟
+    - text: Foulborn Surrender. Up to you. It's not just bad. It is actually like it makes your build worse. You should never take
+  - button "20分钟38秒钟 Glancing Blows before you have that item. Uh then other than that, using Aegis Aurora before you have good armor.":
+    - generic: 20:38
+    - generic: 20分钟38秒钟
+    - text: Glancing Blows before you have that item. Uh then other than that, using Aegis Aurora before you have good armor.
+  - button "20分钟44秒钟 This is another one where people just throw a Aurora into their build and they have like 10k armor. Guess what? That's not a lot of recovery. That's like 200":
+    - generic: 20:44
+    - generic: 20分钟44秒钟
+    - text: This is another one where people just throw a Aurora into their build and they have like 10k armor. Guess what? That's not a lot of recovery. That's like 200
+  - button "20分钟52秒钟 recovered energy shield. You're barely going to feel it and then your glancing blows is just going to scuff you. So, what you want is good energy shield, armor, gear. And I mean prefixes, right?":
+    - generic: 20:52
+    - generic: 20分钟52秒钟
+    - text: recovered energy shield. You're barely going to feel it and then your glancing blows is just going to scuff you. So, what you want is good energy shield, armor, gear. And I mean prefixes, right?
+  - button "21分钟3秒钟 Plus to energy shield, plus to armor and percentage armor. Have it qualied up, all the good stuff on every single gear piece. If you're still running dores at":
+    - generic: 21:03
+    - generic: 21分钟3秒钟
+    - text: Plus to energy shield, plus to armor and percentage armor. Have it qualied up, all the good stuff on every single gear piece. If you're still running dores at
+  - button "21分钟11秒钟 this point, you should already have thrown it out. That is the point. The only thing you cannot change, unfortunately, is Wilma's reququidd. So,":
+    - generic: 21:11
+    - generic: 21分钟11秒钟
+    - text: this point, you should already have thrown it out. That is the point. The only thing you cannot change, unfortunately, is Wilma's reququidd. So,
+  - button "21分钟18秒钟 there you go. And the most important piece of the puzzle here is the light of meaning. If you don't have this one, I":
+    - generic: 21:18
+    - generic: 21分钟18秒钟
+    - text: there you go. And the most important piece of the puzzle here is the light of meaning. If you don't have this one, I
+  - button "21分钟25秒钟 wouldn't swap to Agies at all. And then also a good granite flask with a percentage armor roll. Now then, not getting freeze immunity from your":
+    - generic: 21:25
+    - generic: 21分钟25秒钟
+    - text: wouldn't swap to Agies at all. And then also a good granite flask with a percentage armor roll. Now then, not getting freeze immunity from your
+  - button "21分钟33秒钟 Pantheon. If you don't know, you can get 100% chance to avoid being frozen right here. If you kill Merville, they returned with a divine vessel in the map":
+    - generic: 21:33
+    - generic: 21分钟33秒钟
+    - text: Pantheon. If you don't know, you can get 100% chance to avoid being frozen right here. If you kill Merville, they returned with a divine vessel in the map
+  - button "21分钟42秒钟 device. And you can just search for it right here once you have it revealed.":
+    - generic: 21:42
+    - generic: 21分钟42秒钟
+    - text: device. And you can just search for it right here once you have it revealed.
+  - button "21分钟45秒钟 And until then, I have Purity of Elements in the guide. So that's quite important. And last but not least, obviously keeping elemental weakness when swapping to invert the rules. You":
+    - generic: 21:45
+    - generic: 21分钟45秒钟
+    - text: And until then, I have Purity of Elements in the guide. So that's quite important. And last but not least, obviously keeping elemental weakness when swapping to invert the rules. You
+  - button "21分钟54秒钟 want to swap your curses from elemental weakness to sniper mark because reducing elemental resistances when you're":
+    - generic: 21:54
+    - generic: 21分钟54秒钟
+    - text: want to swap your curses from elemental weakness to sniper mark because reducing elemental resistances when you're
+  - button "22分钟1秒钟 inverting the resistances is actually a downside. And also make sure that you have no kind of exposure or anything":
+    - generic: 22:01
+    - generic: 22分钟1秒钟
+    - text: inverting the resistances is actually a downside. And also make sure that you have no kind of exposure or anything
+  - button "22分钟8秒钟 like that because that also reduces enemy resistances by minus 10%. But yeah, that's about all I got. If you have played the build before, I would highly recommend at least looking at":
+    - generic: 22:08
+    - generic: 22分钟8秒钟
+    - text: like that because that also reduces enemy resistances by minus 10%. But yeah, that's about all I got. If you have played the build before, I would highly recommend at least looking at
+  - button "22分钟16秒钟 what the changes are and maybe checking out the video that I link down below because the build in terms of how you build it has changed quite":
+    - generic: 22:16
+    - generic: 22分钟16秒钟
+    - text: what the changes are and maybe checking out the video that I link down below because the build in terms of how you build it has changed quite
+  - button "22分钟24秒钟 significantly, but it's still kinetic fusel ballista. Uh you're still going to have a good time. It just got a little bit less powerful. I will be leak starting this. I will obviously be":
+    - generic: 22:24
+    - generic: 22分钟24秒钟
+    - text: significantly, but it's still kinetic fusel ballista. Uh you're still going to have a good time. It just got a little bit less powerful. I will be leak starting this. I will obviously be
+  - button "22分钟32秒钟 updating in the first 5 days or so. And uh everything that is new, aspirational that we don't know about yet, I will be":
+    - generic: 22:32
+    - generic: 22分钟32秒钟
+    - text: updating in the first 5 days or so. And uh everything that is new, aspirational that we don't know about yet, I will be
+  - button "22分钟39秒钟 updating as well. So yeah, you can play along as always or join me over on twitch.tv/postron. I'll be streaming over there every day. Other than that, I":
+    - generic: 22:39
+    - generic: 22分钟39秒钟
+    - text: updating as well. So yeah, you can play along as always or join me over on twitch.tv/postron. I'll be streaming over there every day. Other than that, I
+  - button "22分钟47秒钟 will still release a leveling video. I'm still trying out early setups, but it might be rolling magma. Don't kill me.":
+    - generic: 22:47
+    - generic: 22分钟47秒钟
+    - text: will still release a leveling video. I'm still trying out early setups, but it might be rolling magma. Don't kill me.
+  - button "22分钟53秒钟 We'll have to see. I'll make an update video about that. Otherwise, yeah, wish everybody great league start. And uh since I still have a slogan, see you next time.":
+    - generic: 22:53
+    - generic: 22分钟53秒钟
+    - text: We'll have to see. I'll make an update video about that. Otherwise, yeah, wish everybody great league start. And uh since I still have a slogan, see you next time.
+  - tablist:
+    - tab "全部" [selected]:
+      - generic: 全部
+    - tab "来自Palsteron":
+      - generic: 来自Palsteron
+    - tab "流放之路":
+      - generic: 流放之路
+    - tab "相关内容":
+      - generic: 相关内容
+    - tab "为你推荐":
+      - generic: 为你推荐
+    - tab "最近上传":
+      - generic: 最近上传
+  - button "下一页":
+  - link "字节跳动Seedance 2.0上线":
+    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CFjeuGRViat3cD5mG3LUP_tPzwAX9gePLiAG8uPDKhBaeytHrrkgQASAAYL8FggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcTZhL89qAMEyAMKqgTdA0_QxTFGVDhPDzDlGFsRzD4XzD0Fi7sdhBlkbOx99_LmVmMvmi_EnrsDN33C0DSGeWMFxGkWt7U1S4o9mphbZoH--fKBC3a23acR88bQJc8oz_SzUO10AregxttCE2lG1C0pYyr4y-o1KbTYbiSKQ_LliaWIIUz6Dpk6fNL6cuD9muVTvaNrQKEpnkSs94P5qRXOGscAsFSS8yT4MW2MHwA-GJQsw9UCzKdNHb93kCJ5vsOKLNhZaY6oLusy32jdbeEXXli9uVpOCdykiy0lwnT7tnQ1TpiPzE6CHW5K_JUQV1xPqAZw6FzLYqwD61WZxpY-zjE_0NLNr79vmlkjqehgELbDhjJ9abp4MSKNyiZuTG_WcBtMioWyz5_45PKSZENf47ZziBO7KaKR_bmxi6DvI_FxHkajMxrBZm4minJw-hAvSHN3y2tK0eqZtXhq_xZpbHDfsgDflLPI27LQ5RoV99JqAAM2UKV4Z6-83hDLU1fU91F4m_km7MTx8fr7hvhj7Rh6Z1FPMSeBNDB_vJCpQWYziqktk5UkEMo1N1VjDlVdXLSz-YVYs7zJUjJ81xYgIRyYoBqJU5ziOVwnvCyE86B6I4AUKiSzZA2sRFgJtmBJYfrkgnxtYeQY_ogFiPWK51iSBQoIE2gCeIaSjKUdoAakAYAHn9-6hR2IBwGQBwKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB4HDsQKoB_i_sQKoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB_SZsQKoB_i_sQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECsAgM0gg2CICAgIAEEAIYWjICgAQ6FI_QgICAgASAwICAgMCAgAKqgIAQSNmg0jVQFFjwsMLz8eiVA2AB8ggfY2EteXQtaG9zdC1wdWItMzU5NzcyNzk4MzM4MDcyNZoJMGh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMLEJmVhXTJ5QeMHICQCYCwGhC8byUl5mcL8mugtYCAEQBRgWIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEmChsgA9q4BBUyEzoRCg8oMEiOlur8swmYGQG4IAHQAQGoAgXAAgKoAQHYAQGAAgGIAga6AwJzadALEqIMMiABKgoKCI7fsQKV4rECSAFqGwoZY29tLmJ5dGVwbHVzLmJ5dGVwbHVzbGl2ZXgBiAEB0gwECAEQAdoMJgoLEPCSif6C26n8rgESAgEDGg0YiPWK51ggpYq6ouAFQAFKAhAfmg0BEqoNAlNHyA0B0g3PAmh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXB1cmNoYXNlX3NlZWRhbmNlX2VhX2NoaW5lc2VfMjAyNjA2MjJfbHJoJnV0bV90ZXJtPTIwMjYwNjIyX2FiaWxpdHlfc2VlZGFuY2UyLjAmdXRtX2NvbnRlbnQ9dGVjZG8mZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzODM4NTA1NjA4JndicmFpZD1Da1FLQ0FqdzFJSFRCaEIxRWpRQVE4Q2lhVDJxTEE4TkprNE9nMDlxN0FGV3hrRDV3TU5QZkxyRnF1azI5OFZmRExLXy04ZXVqTE56Y0NTQkoyRTI5bmJER2dMTWxRsA7NoaCGGbgT____________AbAUAcAVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdjh25UVA9wiroXChABKAAwATgBSAHQGAHwGAGAGQPCGQIIAQ&ase=2&gclid=Cj0KCQjw94bTBhDQARIsAN3vv0xQCrovUticYPCYM8NRTs14gGktRPbvZWV_doHyQOWklJdknwJTR8QaAu8bEALw_wcB&num=1&cid=CAESpQHg9j6Cb2mVGV1pKMKHNeSPKtZGhXMGHouql3CyTnmEdSF7-qAlVne9QI2toTc1qJB_UfetW5Xp1LiMhAfaoF1NOincQdguCtSrYA5-i8QMsM9g3VEY2iMjKnIYoj_CqbrYF_mlNGPtv5Gy5lgp6bR8iRNwwoU7ljkH6GA_Ngy78APOHBu2JL2Panb3kXmJsmOG_YDgnJ3brOliOgnURZraU0MWIk0&sig=AOD64_3Ov2QEYcWV-0rhjxtJ1yHiCiVC5Q&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+  - link "智能色彩优化提亮整体色调，呈现鲜活通透的光影画面。":
+    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CFjeuGRViat3cD5mG3LUP_tPzwAX9gePLiAG8uPDKhBaeytHrrkgQASAAYL8FggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcTZhL89qAMEyAMKqgTdA0_QxTFGVDhPDzDlGFsRzD4XzD0Fi7sdhBlkbOx99_LmVmMvmi_EnrsDN33C0DSGeWMFxGkWt7U1S4o9mphbZoH--fKBC3a23acR88bQJc8oz_SzUO10AregxttCE2lG1C0pYyr4y-o1KbTYbiSKQ_LliaWIIUz6Dpk6fNL6cuD9muVTvaNrQKEpnkSs94P5qRXOGscAsFSS8yT4MW2MHwA-GJQsw9UCzKdNHb93kCJ5vsOKLNhZaY6oLusy32jdbeEXXli9uVpOCdykiy0lwnT7tnQ1TpiPzE6CHW5K_JUQV1xPqAZw6FzLYqwD61WZxpY-zjE_0NLNr79vmlkjqehgELbDhjJ9abp4MSKNyiZuTG_WcBtMioWyz5_45PKSZENf47ZziBO7KaKR_bmxi6DvI_FxHkajMxrBZm4minJw-hAvSHN3y2tK0eqZtXhq_xZpbHDfsgDflLPI27LQ5RoV99JqAAM2UKV4Z6-83hDLU1fU91F4m_km7MTx8fr7hvhj7Rh6Z1FPMSeBNDB_vJCpQWYziqktk5UkEMo1N1VjDlVdXLSz-YVYs7zJUjJ81xYgIRyYoBqJU5ziOVwnvCyE86B6I4AUKiSzZA2sRFgJtmBJYfrkgnxtYeQY_ogFiPWK51iSBQoIE2gCeIaSjKUdoAakAYAHn9-6hR2IBwGQBwKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB4HDsQKoB_i_sQKoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB_SZsQKoB_i_sQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECsAgM0gg2CICAgIAEEAIYWjICgAQ6FI_QgICAgASAwICAgMCAgAKqgIAQSNmg0jVQFFjwsMLz8eiVA2AB8ggfY2EteXQtaG9zdC1wdWItMzU5NzcyNzk4MzM4MDcyNZoJMGh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMLEJmVhXTJ5QeMHICQCYCwGhC8byUl5mcL8mugtYCAEQBRgWIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEmChsgA9q4BBUyEzoRCg8oMEiOlur8swmYGQG4IAHQAQGoAgXAAgKoAQHYAQGAAgGIAga6AwJzadALEqIMMiABKgoKCI7fsQKV4rECSAFqGwoZY29tLmJ5dGVwbHVzLmJ5dGVwbHVzbGl2ZXgBiAEB0gwECAEQAdoMJgoLEPCSif6C26n8rgESAgEDGg0YiPWK51ggpYq6ouAFQAFKAhAfmg0BEqoNAlNHyA0B0g3PAmh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXB1cmNoYXNlX3NlZWRhbmNlX2VhX2NoaW5lc2VfMjAyNjA2MjJfbHJoJnV0bV90ZXJtPTIwMjYwNjIyX2FiaWxpdHlfc2VlZGFuY2UyLjAmdXRtX2NvbnRlbnQ9dGVjZG8mZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzODM4NTA1NjA4JndicmFpZD1Da1FLQ0FqdzFJSFRCaEIxRWpRQVE4Q2lhVDJxTEE4TkprNE9nMDlxN0FGV3hrRDV3TU5QZkxyRnF1azI5OFZmRExLXy04ZXVqTE56Y0NTQkoyRTI5bmJER2dMTWxRsA7NoaCGGbgT____________AbAUAcAVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdjh25UVA9wiroXChABKAAwATgBSAHQGAHwGAGAGQPCGQIIAQ&ase=2&gclid=Cj0KCQjw94bTBhDQARIsAN3vv0xQCrovUticYPCYM8NRTs14gGktRPbvZWV_doHyQOWklJdknwJTR8QaAu8bEALw_wcB&num=1&cid=CAESpQHg9j6Cb2mVGV1pKMKHNeSPKtZGhXMGHouql3CyTnmEdSF7-qAlVne9QI2toTc1qJB_UfetW5Xp1LiMhAfaoF1NOincQdguCtSrYA5-i8QMsM9g3VEY2iMjKnIYoj_CqbrYF_mlNGPtv5Gy5lgp6bR8iRNwwoU7ljkH6GA_Ngy78APOHBu2JL2Panb3kXmJsmOG_YDgnJ3brOliOgnURZraU0MWIk0&sig=AOD64_3Ov2QEYcWV-0rhjxtJ1yHiCiVC5Q&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+  - generic: 赞助商广告
+  - text: ·
+  - generic: BytePlus
+  - button "我的广告中心":
+  - link "订阅":
+    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CFjeuGRViat3cD5mG3LUP_tPzwAX9gePLiAG8uPDKhBaeytHrrkgQASAAYL8FggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcTZhL89qAMEyAMKqgTdA0_QxTFGVDhPDzDlGFsRzD4XzD0Fi7sdhBlkbOx99_LmVmMvmi_EnrsDN33C0DSGeWMFxGkWt7U1S4o9mphbZoH--fKBC3a23acR88bQJc8oz_SzUO10AregxttCE2lG1C0pYyr4y-o1KbTYbiSKQ_LliaWIIUz6Dpk6fNL6cuD9muVTvaNrQKEpnkSs94P5qRXOGscAsFSS8yT4MW2MHwA-GJQsw9UCzKdNHb93kCJ5vsOKLNhZaY6oLusy32jdbeEXXli9uVpOCdykiy0lwnT7tnQ1TpiPzE6CHW5K_JUQV1xPqAZw6FzLYqwD61WZxpY-zjE_0NLNr79vmlkjqehgELbDhjJ9abp4MSKNyiZuTG_WcBtMioWyz5_45PKSZENf47ZziBO7KaKR_bmxi6DvI_FxHkajMxrBZm4minJw-hAvSHN3y2tK0eqZtXhq_xZpbHDfsgDflLPI27LQ5RoV99JqAAM2UKV4Z6-83hDLU1fU91F4m_km7MTx8fr7hvhj7Rh6Z1FPMSeBNDB_vJCpQWYziqktk5UkEMo1N1VjDlVdXLSz-YVYs7zJUjJ81xYgIRyYoBqJU5ziOVwnvCyE86B6I4AUKiSzZA2sRFgJtmBJYfrkgnxtYeQY_ogFiPWK51iSBQoIE2gCeIaSjKUdoAakAYAHn9-6hR2IBwGQBwKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB4HDsQKoB_i_sQKoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB_SZsQKoB_i_sQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECsAgM0gg2CICAgIAEEAIYWjICgAQ6FI_QgICAgASAwICAgMCAgAKqgIAQSNmg0jVQFFjwsMLz8eiVA2AB8ggfY2EteXQtaG9zdC1wdWItMzU5NzcyNzk4MzM4MDcyNZoJMGh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMLEJmVhXTJ5QeMHICQCYCwGhC8byUl5mcL8mugtYCAEQBRgWIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEmChsgA9q4BBUyEzoRCg8oMEiOlur8swmYGQG4IAHQAQGoAgXAAgKoAQHYAQGAAgGIAga6AwJzadALEqIMMiABKgoKCI7fsQKV4rECSAFqGwoZY29tLmJ5dGVwbHVzLmJ5dGVwbHVzbGl2ZXgBiAEB0gwECAEQAdoMJgoLEPCSif6C26n8rgESAgEDGg0YiPWK51ggpYq6ouAFQAFKAhAfmg0BEqoNAlNHyA0B0g3PAmh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXB1cmNoYXNlX3NlZWRhbmNlX2VhX2NoaW5lc2VfMjAyNjA2MjJfbHJoJnV0bV90ZXJtPTIwMjYwNjIyX2FiaWxpdHlfc2VlZGFuY2UyLjAmdXRtX2NvbnRlbnQ9dGVjZG8mZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzODM4NTA1NjA4JndicmFpZD1Da1FLQ0FqdzFJSFRCaEIxRWpRQVE4Q2lhVDJxTEE4TkprNE9nMDlxN0FGV3hrRDV3TU5QZkxyRnF1azI5OFZmRExLXy04ZXVqTE56Y0NTQkoyRTI5bmJER2dMTWxRsA7NoaCGGbgT____________AbAUAcAVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdjh25UVA9wiroXChABKAAwATgBSAHQGAHwGAGAGQPCGQIIAQ&ase=2&gclid=Cj0KCQjw94bTBhDQARIsAN3vv0xQCrovUticYPCYM8NRTs14gGktRPbvZWV_doHyQOWklJdknwJTR8QaAu8bEALw_wcB&num=1&cid=CAESpQHg9j6Cb2mVGV1pKMKHNeSPKtZGhXMGHouql3CyTnmEdSF7-qAlVne9QI2toTc1qJB_UfetW5Xp1LiMhAfaoF1NOincQdguCtSrYA5-i8QMsM9g3VEY2iMjKnIYoj_CqbrYF_mlNGPtv5Gy5lgp6bR8iRNwwoU7ljkH6GA_Ngy78APOHBu2JL2Panb3kXmJsmOG_YDgnJ3brOliOgnURZraU0MWIk0&sig=AOD64_3Ov2QEYcWV-0rhjxtJ1yHiCiVC5Q&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+    - generic: 订阅
+  - link:
+    - /url: /watch?v=zCr08IRuL0A
+    - generic: 15:38
+  - heading "How I Will Level My Kinetic Fusillade Ballista in Patch 3.29 | Path of Exile" [level=3]:
+    - link "How I Will Level My Kinetic Fusillade Ballista in Patch 3.29 | Path of Exile 15分钟":
+      - /url: /watch?v=zCr08IRuL0A
+      - text: How I Will Level My Kinetic Fusillade Ballista in Patch 3.29 | Path of Exile
+  - generic: Palsteron
+  - generic: 299次观看
+  - generic: •
+  - generic "7分钟前"
+  - generic: 最新
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=RLhS_awyTvs&pp=ugUEEgJlbg%3D%3D
+    - generic: 1:34:26
+  - heading "AJ Styles On Retirement, Gunther, Hall Of Fame, John Cena, One More Match?" [level=3]:
+    - link "AJ Styles On Retirement, Gunther, Hall Of Fame, John Cena, One More Match? 1小时34分钟":
+      - /url: /watch?v=RLhS_awyTvs&pp=ugUEEgJlbg%3D%3D
+      - text: AJ Styles On Retirement, Gunther, Hall Of Fame, John Cena, One More Match?
+  - text: Chris Van Vliet
+  - generic: 29万次观看
+  - generic: •
+  - generic "2天前"
+  - generic: 最新
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=LuzPzFm2p_8
+    - generic: 3:00:07
+  - heading "Majestic Horse Oil Painting in 4K Ultra HD | Relaxing Frame TV Art for Samsung 4K" [level=3]:
+    - link "Majestic Horse Oil Painting in 4K Ultra HD | Relaxing Frame TV Art for Samsung 4K 3小时":
+      - /url: /watch?v=LuzPzFm2p_8
+      - text: Majestic Horse Oil Painting in 4K Ultra HD | Relaxing Frame TV Art for Samsung 4K
+  - generic: Frame TV Art Gallery Wallpapers
+  - generic: 93万次观看
+  - generic: •
+  - generic "1年前"
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=--XDhqSlwPA&pp=ugUHEgVlbi1VUw%3D%3D
+    - generic: 23:09
+  - heading "Winter Orb Elementalist Full Build Guide | My League Starter for 3.29 Curse of The Allflame" [level=3]:
+    - link "Winter Orb Elementalist Full Build Guide | My League Starter for 3.29 Curse of The Allflame 23分钟":
+      - /url: /watch?v=--XDhqSlwPA&pp=ugUHEgVlbi1VUw%3D%3D
+      - text: Winter Orb Elementalist Full Build Guide | My League Starter for 3.29 Curse of The Allflame
+  - generic: Fubgun
+  - generic: 6.5万次观看
+  - generic: •
+  - generic "21小时前"
+  - generic: 最新
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=MiLMOmhLNS0&pp=ugUEEgJlbg%3D%3D
+    - generic: 7:26
+  - heading "These NEW Patch Notes are looking JUICY!! [PoE1 3.29]" [level=3]:
+    - link "These NEW Patch Notes are looking JUICY!! [PoE1 3.29] 7分钟26秒钟":
+      - /url: /watch?v=MiLMOmhLNS0&pp=ugUEEgJlbg%3D%3D
+      - text: These NEW Patch Notes are looking JUICY!! [PoE1 3.29]
+  - text: Zizaran
+  - generic: 1万次观看
+  - generic: •
+  - generic "49分钟前"
+  - generic: 最新
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=JHQdVaF0T9Y
+    - generic: 48:28
+  - heading "10,000 HP RENYAN vs. 5 CS2 STREAMERS (1v5)" [level=3]:
+    - link "10,000 HP RENYAN vs. 5 CS2 STREAMERS (1v5) 48分钟":
+      - /url: /watch?v=JHQdVaF0T9Y
+      - text: 10,000 HP RENYAN vs. 5 CS2 STREAMERS (1v5)
+  - text: dima_aimbots
+  - generic: 20万次观看
+  - generic: •
+  - generic "2天前"
+  - generic: 最新
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=-m_a2CIAnk8
+    - generic: 30:42
+  - heading "32個不同開荒流派/全職業開荒推薦 這裡總有一個屬於你的菜 POE1 Path of Exile 亡焰咒海" [level=3]:
+    - link "32個不同開荒流派/全職業開荒推薦 這裡總有一個屬於你的菜 POE1 Path of Exile 亡焰咒海 30分钟":
+      - /url: /watch?v=-m_a2CIAnk8
+      - text: 32個不同開荒流派/全職業開荒推薦 這裡總有一個屬於你的菜 POE1 Path of Exile 亡焰咒海
+  - generic: 惡魔貓和幾吉和點點DevilCatwith2cats
+  - generic: 451次观看
+  - generic: •
+  - generic "10分钟前"
+  - generic: 最新
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=qaeprmKB2ZI
+    - generic: 3:00:01
+  - heading "3H Vibrant Orange & Purple Gradient – Sunset Hues – Relaxing Ambient Visuals for Mood Lighting" [level=3]:
+    - link "3H Vibrant Orange & Purple Gradient – Sunset Hues – Relaxing Ambient Visuals for Mood Lighting 3小时":
+      - /url: /watch?v=qaeprmKB2ZI
+      - text: 3H Vibrant Orange & Purple Gradient – Sunset Hues – Relaxing Ambient Visuals for Mood Lighting
+  - generic: Aelura Visuals
+  - generic: 31万次观看
+  - generic: •
+  - generic "8个月前"
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=ThANqlWYJ98&pp=ugUEEgJlbg%3D%3D
+    - generic: 9:51
+  - heading "One of the MOST EFFECTIVE Leaguestarters! - Boneshatter Juggernaut [PoE 3.29]" [level=3]:
+    - link "One of the MOST EFFECTIVE Leaguestarters! - Boneshatter Juggernaut [PoE 3.29] 9分钟51秒钟":
+      - /url: /watch?v=ThANqlWYJ98&pp=ugUEEgJlbg%3D%3D
+      - text: One of the MOST EFFECTIVE Leaguestarters! - Boneshatter Juggernaut [PoE 3.29]
+  - text: Zizaran
+  - generic: 8.2万次观看
+  - generic: •
+  - generic "2天前"
+  - generic: 最新
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=XstdJOSBNE8
+    - generic: 25:36
+  - heading "The Spellcaster Changes Are Kinda Weird | Path of Exile, Patch 3.29" [level=3]:
+    - link "The Spellcaster Changes Are Kinda Weird | Path of Exile, Patch 3.29 25分钟":
+      - /url: /watch?v=XstdJOSBNE8
+      - text: The Spellcaster Changes Are Kinda Weird | Path of Exile, Patch 3.29
+  - generic: Palsteron
+  - generic: 6.5万次观看
+  - generic: •
+  - generic "2天前"
+  - generic: 最新
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=wScEFaoqwPM
+    - generic: 2:55:11
+  - heading "D&D Ambience - Generic Dungeon" [level=3]:
+    - link "D&D Ambience - Generic Dungeon 2小时55分钟":
+      - /url: /watch?v=wScEFaoqwPM
+      - text: D&D Ambience - Generic Dungeon
+  - text: Sword Coast Soundscapes
+  - generic: 127万次观看
+  - generic: •
+  - generic "8年前"
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=eCHaiEjCDFM&pp=0gcJCaMLAYcqIYzv
+    - generic: 3:03:20
+  - heading "Abstract Black and White wave pattern| Height Map Footage| 3 hours Topographic 4k Background" [level=3]:
+    - link "Abstract Black and White wave pattern| Height Map Footage| 3 hours Topographic 4k Background 3小时3分钟":
+      - /url: /watch?v=eCHaiEjCDFM&pp=0gcJCaMLAYcqIYzv
+      - text: Abstract Black and White wave pattern| Height Map Footage| 3 hours Topographic 4k Background
+  - generic: HypnoRimaVisuals
+  - generic: 450万次观看
+  - generic: •
+  - generic "1年前"
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=lOnHH393bhQ&pp=ugUHEgVlbi1VUw%3D%3D
+    - generic: 15:16
+  - heading "The Best League Start Builds in 3.29 Curse of the Allflame - Path of Exile 1" [level=3]:
+    - link "The Best League Start Builds in 3.29 Curse of the Allflame - Path of Exile 1 15分钟":
+      - /url: /watch?v=lOnHH393bhQ&pp=ugUHEgVlbi1VUw%3D%3D
+      - text: The Best League Start Builds in 3.29 Curse of the Allflame - Path of Exile 1
+  - generic: Fubgun
+  - generic: 13万次观看
+  - generic: •
+  - generic "1天前"
+  - generic: 最新
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=YJcsEmIhYhE
+    - generic: 23:42
+  - heading "Fubgun槓上整個複製團隊和SR第一玩家Guythatdied 免費複製服務起了爭議 POE2 遠古回歸 Path of Exile2" [level=3]:
+    - link "Fubgun槓上整個複製團隊和SR第一玩家Guythatdied 免費複製服務起了爭議 POE2 遠古回歸 Path of Exile2 23分钟":
+      - /url: /watch?v=YJcsEmIhYhE
+      - text: Fubgun槓上整個複製團隊和SR第一玩家Guythatdied 免費複製服務起了爭議 POE2 遠古回歸 Path of Exile2
+  - generic: 惡魔貓和幾吉和點點DevilCatwith2cats
+  - generic: 3.9万次观看
+  - generic: •
+  - generic "3周前"
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=J8K3bb4eHvw
+    - generic: 3:44:24
+  - heading "Aesthetic Aura Background 3 hours" [level=3]:
+    - link "Aesthetic Aura Background 3 hours 3小时44分钟":
+      - /url: /watch?v=J8K3bb4eHvw
+      - text: Aesthetic Aura Background 3 hours
+  - generic: Aesthetically Ava
+  - generic: 236万次观看
+  - generic: •
+  - generic "2年前"
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=Gt4Tod3Qu5Y&pp=ugUEEgJlbg%3D%3D
+    - generic: 6:49
+  - heading "PoE 3.29 Atlas Progression Guide" [level=3]:
+    - link "PoE 3.29 Atlas Progression Guide 6分钟49秒钟":
+      - /url: /watch?v=Gt4Tod3Qu5Y&pp=ugUEEgJlbg%3D%3D
+      - text: PoE 3.29 Atlas Progression Guide
+  - generic: Tytykiller
+  - generic: 6297次观看
+  - generic: •
+  - generic "2小时前"
+  - generic: 最新
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=OZypCJ-5Bog&pp=ugUEEgJlbg%3D%3D
+    - generic: 9:14
+  - heading "This build will be the META! - Winter Orb Elementalist Build Guide [PoE 3.29]" [level=3]:
+    - link "This build will be the META! - Winter Orb Elementalist Build Guide [PoE 3.29] 9分钟14秒钟":
+      - /url: /watch?v=OZypCJ-5Bog&pp=ugUEEgJlbg%3D%3D
+      - text: This build will be the META! - Winter Orb Elementalist Build Guide [PoE 3.29]
+  - text: Zizaran
+  - generic: 11万次观看
+  - generic: •
+  - generic "1天前"
+  - generic: 最新
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=3VeQGUN72Yw
+    - generic: 3:00:00
+  - heading "Fall flowers | Thanksgiving pumpkins | art for Frame TV | paintings | screensaver | wallpaper TV art" [level=3]:
+    - link "Fall flowers | Thanksgiving pumpkins | art for Frame TV | paintings | screensaver | wallpaper TV art 3小时":
+      - /url: /watch?v=3VeQGUN72Yw
+      - text: Fall flowers | Thanksgiving pumpkins | art for Frame TV | paintings | screensaver | wallpaper TV art
+  - generic: Frame TV Art
+  - generic: 32万次观看
+  - generic: •
+  - generic "2年前"
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=zXG-SS-egeQ
+    - generic: 3:00:01
+  - heading "Light & Airy Oil Landscape Art for TV | Peaceful River Scene | 4K No Sound (3 Hours)" [level=3]:
+    - link "Light & Airy Oil Landscape Art for TV | Peaceful River Scene | 4K No Sound (3 Hours) 3小时":
+      - /url: /watch?v=zXG-SS-egeQ
+      - text: Light & Airy Oil Landscape Art for TV | Peaceful River Scene | 4K No Sound (3 Hours)
+  - generic: Canvas For Your TV
+  - generic: 8654次观看
+  - generic: •
+  - generic "6个月前"
+  - button "其他操作":
+  - link:
+    - /url: /watch?v=iU12pFckHtU&list=RDiU12pFckHtU&start_radio=1&pp=oAcB
+    - generic: 3:11:03
+  - heading "1940s noir jazz | rainy city nights | vintage jazz to relax" [level=3]:
+    - link "1940s noir jazz | rainy city nights | vintage jazz to relax 3小时11分钟":
+      - /url: /watch?v=iU12pFckHtU&list=RDiU12pFckHtU&start_radio=1&pp=oAcB
+      - text: 1940s noir jazz | rainy city nights | vintage jazz to relax
+  - text: Lepreezy
+  - generic: 3.3万次观看
+  - generic: •
+  - generic "2天前"
+  - generic: 最新
+  - button "其他操作":
+- generic "flow-ai-assistant"

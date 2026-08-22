@@ -1,0 +1,2360 @@
+{
+  "source": "C:/Users/ares/Desktop/poe2.xlsx",
+  "sheet": "锐眼开荒",
+  "range": "B1:Z369",
+  "rows": [
+    {
+      "sourceRow": 1,
+      "area": "",
+      "action": "-\\w-.-|(-\\w){4}|g-g-|-g-g|g-.-g|nne|rint|quiver",
+      "details": []
+    },
+    {
+      "sourceRow": 2,
+      "area": "绝望岩滩",
+      "action": "击杀希拉克",
+      "details": []
+    },
+    {
+      "sourceRow": 3,
+      "area": "",
+      "action": "捡绿色孔多的装备",
+      "details": []
+    },
+    {
+      "sourceRow": 4,
+      "area": "城镇",
+      "action": "武器NPC领取电光箭",
+      "details": [
+        "蜕变石"
+      ]
+    },
+    {
+      "sourceRow": 5,
+      "area": "",
+      "action": "蜕变石卖了换卷轴",
+      "details": []
+    },
+    {
+      "sourceRow": 6,
+      "area": "",
+      "action": "买两个铸铁戒指，一个素布腰带",
+      "details": []
+    },
+    {
+      "sourceRow": 7,
+      "area": "",
+      "action": "电光箭",
+      "details": [
+        "动量"
+      ]
+    },
+    {
+      "sourceRow": 8,
+      "area": "",
+      "action": "G",
+      "details": [
+        "G"
+      ]
+    },
+    {
+      "sourceRow": 9,
+      "area": "曙光海滩",
+      "action": "激活传送",
+      "details": []
+    },
+    {
+      "sourceRow": 10,
+      "area": "",
+      "action": "进入海潮孤岛",
+      "details": []
+    },
+    {
+      "sourceRow": 11,
+      "area": "海潮孤岛",
+      "action": "击杀BOSS，拿医药箱子",
+      "details": []
+    },
+    {
+      "sourceRow": 12,
+      "area": "",
+      "action": "下线回城",
+      "details": []
+    },
+    {
+      "sourceRow": 13,
+      "area": "城镇",
+      "action": "技能NPC领水银",
+      "details": []
+    },
+    {
+      "sourceRow": 14,
+      "area": "",
+      "action": "技能NPC领穿透",
+      "details": []
+    },
+    {
+      "sourceRow": 15,
+      "area": "炙热盐沼",
+      "action": "拿3个物品",
+      "details": []
+    },
+    {
+      "sourceRow": 16,
+      "area": "",
+      "action": "进入海潮地穴",
+      "details": []
+    },
+    {
+      "sourceRow": 17,
+      "area": "海潮地穴",
+      "action": "传送回去",
+      "details": []
+    },
+    {
+      "sourceRow": 18,
+      "area": "城镇",
+      "action": "武器NPC领散射",
+      "details": []
+    },
+    {
+      "sourceRow": 19,
+      "area": "",
+      "action": "武器NPC领冲刺",
+      "details": []
+    },
+    {
+      "sourceRow": 20,
+      "area": "",
+      "action": "散射炮台",
+      "details": [
+        "穿透",
+        "电光箭",
+        "动量",
+        "冲刺"
+      ]
+    },
+    {
+      "sourceRow": 21,
+      "area": "",
+      "action": "G",
+      "details": [
+        "G",
+        "G",
+        "G",
+        "G"
+      ]
+    },
+    {
+      "sourceRow": 22,
+      "area": "海潮地穴",
+      "action": "击杀水之深渊",
+      "details": []
+    },
+    {
+      "sourceRow": 23,
+      "area": "",
+      "action": "拿精华",
+      "details": []
+    },
+    {
+      "sourceRow": 24,
+      "area": "",
+      "action": "回城",
+      "details": []
+    },
+    {
+      "sourceRow": 25,
+      "area": "城镇",
+      "action": "技能NPC购买狙击",
+      "details": []
+    },
+    {
+      "sourceRow": 26,
+      "area": "海潮地穴",
+      "action": "进入海崖",
+      "details": []
+    },
+    {
+      "sourceRow": 27,
+      "area": "海崖",
+      "action": "进入山坡",
+      "details": []
+    },
+    {
+      "sourceRow": 28,
+      "area": "",
+      "action": "放炮台就走",
+      "details": []
+    },
+    {
+      "sourceRow": 29,
+      "area": "山坡",
+      "action": "进入禁灵 ",
+      "details": []
+    },
+    {
+      "sourceRow": 30,
+      "area": "",
+      "action": "回城",
+      "details": []
+    },
+    {
+      "sourceRow": 31,
+      "area": "城镇",
+      "action": "领取法铸",
+      "details": []
+    },
+    {
+      "sourceRow": 32,
+      "area": "",
+      "action": "找3连绿",
+      "details": []
+    },
+    {
+      "sourceRow": 33,
+      "area": "禁灵 ",
+      "action": "跑升华",
+      "details": []
+    },
+    {
+      "sourceRow": 34,
+      "area": "",
+      "action": "精华变稀有",
+      "details": []
+    },
+    {
+      "sourceRow": 35,
+      "area": "",
+      "action": "散射炮台",
+      "details": [
+        "穿透",
+        "电光箭",
+        "法铸",
+        "狙击",
+        "冲刺"
+      ]
+    },
+    {
+      "sourceRow": 36,
+      "area": "",
+      "action": "G",
+      "details": [
+        "G",
+        "G",
+        "G",
+        "G",
+        "G"
+      ]
+    },
+    {
+      "sourceRow": 37,
+      "area": "禁灵上层",
+      "action": "击杀典狱长",
+      "details": []
+    },
+    {
+      "sourceRow": 38,
+      "area": "",
+      "action": "进入监狱大门",
+      "details": []
+    },
+    {
+      "sourceRow": 39,
+      "area": "监狱大门",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 40,
+      "area": "城",
+      "action": "武器交易领取闪现射击",
+      "details": []
+    },
+    {
+      "sourceRow": 41,
+      "area": "",
+      "action": "技能NPC领鞋子",
+      "details": []
+    },
+    {
+      "sourceRow": 42,
+      "area": "",
+      "action": "散射炮台",
+      "details": [
+        "穿透",
+        "电光箭",
+        "法铸",
+        "狙击",
+        "冲刺",
+        "闪现射击"
+      ]
+    },
+    {
+      "sourceRow": 43,
+      "area": "",
+      "action": "G",
+      "details": [
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G"
+      ]
+    },
+    {
+      "sourceRow": 44,
+      "area": "魅影船墓",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 45,
+      "area": "",
+      "action": "放完炮台就跑",
+      "details": []
+    },
+    {
+      "sourceRow": 46,
+      "area": "",
+      "action": "进入怨忿之窟",
+      "details": []
+    },
+    {
+      "sourceRow": 47,
+      "area": "怨忿之窟",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 48,
+      "area": "",
+      "action": "回魅影船墓",
+      "details": []
+    },
+    {
+      "sourceRow": 49,
+      "area": "魅影船墓",
+      "action": "找洞",
+      "details": []
+    },
+    {
+      "sourceRow": 50,
+      "area": "洞",
+      "action": "做任务",
+      "details": []
+    },
+    {
+      "sourceRow": 51,
+      "area": "",
+      "action": "出洞",
+      "details": []
+    },
+    {
+      "sourceRow": 52,
+      "area": "魅影船墓",
+      "action": "击杀船长",
+      "details": []
+    },
+    {
+      "sourceRow": 53,
+      "area": "",
+      "action": "下线回城",
+      "details": []
+    },
+    {
+      "sourceRow": 54,
+      "area": "城镇",
+      "action": "比斯特完成任务",
+      "details": []
+    },
+    {
+      "sourceRow": 55,
+      "area": "",
+      "action": "技能NPC领取闪电箭",
+      "details": []
+    },
+    {
+      "sourceRow": 56,
+      "area": "",
+      "action": "购买冰霜射击",
+      "details": []
+    },
+    {
+      "sourceRow": 57,
+      "area": "",
+      "action": "散射炮台",
+      "details": [
+        "穿透",
+        "法铸",
+        "闪电箭",
+        "冰霜射击",
+        "狙击",
+        "冲刺",
+        "闪现射击",
+        "电光箭",
+        "动量"
+      ]
+    },
+    {
+      "sourceRow": 58,
+      "area": "",
+      "action": "G",
+      "details": [
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G"
+      ]
+    },
+    {
+      "sourceRow": 59,
+      "area": "怨忿之窟",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 60,
+      "area": "",
+      "action": "",
+      "details": []
+    },
+    {
+      "sourceRow": 61,
+      "area": "南部森林",
+      "action": "进城",
+      "details": []
+    },
+    {
+      "sourceRow": 62,
+      "area": "城镇",
+      "action": "右边进入前哨原野",
+      "details": []
+    },
+    {
+      "sourceRow": 63,
+      "area": "前哨原野",
+      "action": "进危机岔路",
+      "details": []
+    },
+    {
+      "sourceRow": 64,
+      "area": "危机岔路",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 65,
+      "area": "",
+      "action": "进右下角遗迹",
+      "details": []
+    },
+    {
+      "sourceRow": 66,
+      "area": "遗迹",
+      "action": "进皇陵",
+      "details": []
+    },
+    {
+      "sourceRow": 67,
+      "area": "",
+      "action": "做升华",
+      "details": []
+    },
+    {
+      "sourceRow": 68,
+      "area": "",
+      "action": "二楼做任务",
+      "details": []
+    },
+    {
+      "sourceRow": 69,
+      "area": "",
+      "action": "小退回城",
+      "details": []
+    },
+    {
+      "sourceRow": 70,
+      "area": "城镇",
+      "action": "进危机岔路",
+      "details": []
+    },
+    {
+      "sourceRow": 71,
+      "area": "",
+      "action": "笔直进断桥",
+      "details": []
+    },
+    {
+      "sourceRow": 72,
+      "area": "断桥",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 73,
+      "area": "",
+      "action": "小退回城",
+      "details": []
+    },
+    {
+      "sourceRow": 74,
+      "area": "城镇",
+      "action": "进危机岔路",
+      "details": []
+    },
+    {
+      "sourceRow": 75,
+      "area": "",
+      "action": "左边进 罪孽",
+      "details": []
+    },
+    {
+      "sourceRow": 76,
+      "area": "罪孽",
+      "action": "进二楼",
+      "details": []
+    },
+    {
+      "sourceRow": 77,
+      "area": "",
+      "action": "做升华",
+      "details": []
+    },
+    {
+      "sourceRow": 78,
+      "area": "",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 79,
+      "area": "",
+      "action": "小退回城",
+      "details": []
+    },
+    {
+      "sourceRow": 80,
+      "area": "城镇",
+      "action": "艾米尔领任务奖励",
+      "details": []
+    },
+    {
+      "sourceRow": 81,
+      "area": "",
+      "action": "武器NPC领灰烬之捷",
+      "details": []
+    },
+    {
+      "sourceRow": 82,
+      "area": "",
+      "action": "灰烬之捷",
+      "details": []
+    },
+    {
+      "sourceRow": 83,
+      "area": "",
+      "action": "G",
+      "details": []
+    },
+    {
+      "sourceRow": 84,
+      "area": "",
+      "action": "进河道",
+      "details": []
+    },
+    {
+      "sourceRow": 85,
+      "area": "河道",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 86,
+      "area": "",
+      "action": "进西部密林",
+      "details": []
+    },
+    {
+      "sourceRow": 87,
+      "area": "西部密林",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 88,
+      "area": "",
+      "action": "进蜘蛛洞",
+      "details": []
+    },
+    {
+      "sourceRow": 89,
+      "area": "蜘蛛洞",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 90,
+      "area": "",
+      "action": "小退回城",
+      "details": []
+    },
+    {
+      "sourceRow": 91,
+      "area": "城镇",
+      "action": "进西部密林",
+      "details": []
+    },
+    {
+      "sourceRow": 92,
+      "area": "西部密林",
+      "action": "击杀盗贼",
+      "details": []
+    },
+    {
+      "sourceRow": 93,
+      "area": "",
+      "action": "最下面击杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 94,
+      "area": "",
+      "action": "小退回城",
+      "details": []
+    },
+    {
+      "sourceRow": 95,
+      "area": "城镇",
+      "action": "进河道",
+      "details": []
+    },
+    {
+      "sourceRow": 96,
+      "area": "河道",
+      "action": "进湿地",
+      "details": []
+    },
+    {
+      "sourceRow": 97,
+      "area": "湿地",
+      "action": "击杀盗贼",
+      "details": []
+    },
+    {
+      "sourceRow": 98,
+      "area": "",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 99,
+      "area": "",
+      "action": "进瓦尔废墟",
+      "details": []
+    },
+    {
+      "sourceRow": 100,
+      "area": "瓦尔废墟",
+      "action": "进北部密林",
+      "details": []
+    },
+    {
+      "sourceRow": 101,
+      "area": "北部密林",
+      "action": "进洞穴",
+      "details": []
+    },
+    {
+      "sourceRow": 102,
+      "area": "洞穴",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 103,
+      "area": "",
+      "action": "回城",
+      "details": []
+    },
+    {
+      "sourceRow": 104,
+      "area": "城镇",
+      "action": "交任务",
+      "details": []
+    },
+    {
+      "sourceRow": 105,
+      "area": "",
+      "action": "进洞穴",
+      "details": []
+    },
+    {
+      "sourceRow": 106,
+      "area": "洞穴",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 107,
+      "area": "",
+      "action": "回城",
+      "details": []
+    },
+    {
+      "sourceRow": 108,
+      "area": "城镇",
+      "action": "进萨恩城废墟",
+      "details": []
+    },
+    {
+      "sourceRow": 109,
+      "area": "萨恩城废墟",
+      "action": "进城",
+      "details": []
+    },
+    {
+      "sourceRow": 110,
+      "area": "城镇",
+      "action": "进贫民窟",
+      "details": []
+    },
+    {
+      "sourceRow": 111,
+      "area": "贫民窟",
+      "action": "下水道放传送门",
+      "details": []
+    },
+    {
+      "sourceRow": 112,
+      "area": "",
+      "action": "进火葬场",
+      "details": []
+    },
+    {
+      "sourceRow": 113,
+      "area": "火葬场",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 114,
+      "area": "",
+      "action": "做升华",
+      "details": []
+    },
+    {
+      "sourceRow": 115,
+      "area": "",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 116,
+      "area": "",
+      "action": "死回城",
+      "details": []
+    },
+    {
+      "sourceRow": 117,
+      "area": "城镇",
+      "action": "拿钥匙",
+      "details": []
+    },
+    {
+      "sourceRow": 118,
+      "area": "",
+      "action": "进下水道",
+      "details": []
+    },
+    {
+      "sourceRow": 119,
+      "area": "下水道",
+      "action": "找3个雕塑",
+      "details": []
+    },
+    {
+      "sourceRow": 120,
+      "area": "",
+      "action": "进集市地带",
+      "details": []
+    },
+    {
+      "sourceRow": 121,
+      "area": "集市地带",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 122,
+      "area": "",
+      "action": "进黑石陵墓",
+      "details": []
+    },
+    {
+      "sourceRow": 123,
+      "area": "黑石陵墓",
+      "action": "做升华",
+      "details": []
+    },
+    {
+      "sourceRow": 124,
+      "area": "",
+      "action": "小退回城",
+      "details": []
+    },
+    {
+      "sourceRow": 125,
+      "area": "城镇",
+      "action": "进集市地带",
+      "details": []
+    },
+    {
+      "sourceRow": 126,
+      "area": "集市地带",
+      "action": "进激战广场",
+      "details": []
+    },
+    {
+      "sourceRow": 127,
+      "area": "激战广场",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 128,
+      "area": "",
+      "action": "拿任务物品",
+      "details": []
+    },
+    {
+      "sourceRow": 129,
+      "area": "",
+      "action": "进不朽海港",
+      "details": []
+    },
+    {
+      "sourceRow": 130,
+      "area": "不朽海港",
+      "action": "做任务",
+      "details": []
+    },
+    {
+      "sourceRow": 131,
+      "area": "",
+      "action": "小退回城",
+      "details": []
+    },
+    {
+      "sourceRow": 132,
+      "area": "城镇",
+      "action": "进激战广场",
+      "details": []
+    },
+    {
+      "sourceRow": 133,
+      "area": "激战广场",
+      "action": "进日耀神殿",
+      "details": []
+    },
+    {
+      "sourceRow": 134,
+      "area": "日耀神殿",
+      "action": "进二层，完成任务",
+      "details": []
+    },
+    {
+      "sourceRow": 135,
+      "area": "",
+      "action": "选智慧项链和物理伤害的箭袋",
+      "details": []
+    },
+    {
+      "sourceRow": 136,
+      "area": "",
+      "action": "小退回城",
+      "details": []
+    },
+    {
+      "sourceRow": 137,
+      "area": "城镇",
+      "action": "进下水道",
+      "details": []
+    },
+    {
+      "sourceRow": 138,
+      "area": "下水道",
+      "action": "走左边",
+      "details": []
+    },
+    {
+      "sourceRow": 139,
+      "area": "",
+      "action": "进卫兵营",
+      "details": []
+    },
+    {
+      "sourceRow": 140,
+      "area": "卫兵营",
+      "action": "杀中间BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 141,
+      "area": "",
+      "action": "进月影神殿",
+      "details": []
+    },
+    {
+      "sourceRow": 142,
+      "area": "月影神殿",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 143,
+      "area": "",
+      "action": "小退回城",
+      "details": []
+    },
+    {
+      "sourceRow": 144,
+      "area": "城镇",
+      "action": "领取憎恨",
+      "details": []
+    },
+    {
+      "sourceRow": 145,
+      "area": "",
+      "action": "领取火力弩炮",
+      "details": []
+    },
+    {
+      "sourceRow": 146,
+      "area": "",
+      "action": "武器交易领取弓和技能点",
+      "details": []
+    },
+    {
+      "sourceRow": 147,
+      "area": "",
+      "action": "技能NPC购买愤怒",
+      "details": []
+    },
+    {
+      "sourceRow": 148,
+      "area": "",
+      "action": "愤怒换灰烬之捷",
+      "details": []
+    },
+    {
+      "sourceRow": 149,
+      "area": "",
+      "action": "回第一章",
+      "details": []
+    },
+    {
+      "sourceRow": 150,
+      "area": "城镇",
+      "action": "领天赋",
+      "details": []
+    },
+    {
+      "sourceRow": 151,
+      "area": "",
+      "action": "购买闪电箭",
+      "details": []
+    },
+    {
+      "sourceRow": 152,
+      "area": "",
+      "action": "购买幻影射手",
+      "details": []
+    },
+    {
+      "sourceRow": 153,
+      "area": "",
+      "action": "电光换闪电连幻影射手",
+      "details": []
+    },
+    {
+      "sourceRow": 154,
+      "area": "",
+      "action": "进卫兵营",
+      "details": []
+    },
+    {
+      "sourceRow": 155,
+      "area": "卫兵营",
+      "action": "进皇家花园",
+      "details": []
+    },
+    {
+      "sourceRow": 156,
+      "area": "",
+      "action": "做试炼",
+      "details": []
+    },
+    {
+      "sourceRow": 157,
+      "area": "",
+      "action": "进神权之塔",
+      "details": []
+    },
+    {
+      "sourceRow": 158,
+      "area": "神权之塔",
+      "action": "散射换火力弩炮",
+      "details": []
+    },
+    {
+      "sourceRow": 159,
+      "area": "",
+      "action": "换武器",
+      "details": []
+    },
+    {
+      "sourceRow": 160,
+      "area": "",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 161,
+      "area": "",
+      "action": "进水道遗迹",
+      "details": []
+    },
+    {
+      "sourceRow": 162,
+      "area": "水道遗迹",
+      "action": "进程",
+      "details": []
+    },
+    {
+      "sourceRow": 163,
+      "area": "",
+      "action": "进干枯河岸",
+      "details": []
+    },
+    {
+      "sourceRow": 164,
+      "area": "干枯河岸",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 165,
+      "area": "",
+      "action": "小退回城",
+      "details": []
+    },
+    {
+      "sourceRow": 166,
+      "area": "",
+      "action": "进漆黑矿坑",
+      "details": []
+    },
+    {
+      "sourceRow": 167,
+      "area": "漆黑矿坑",
+      "action": "进第二层 解救灵魂",
+      "details": []
+    },
+    {
+      "sourceRow": 168,
+      "area": "",
+      "action": "进水晶矿脉",
+      "details": []
+    },
+    {
+      "sourceRow": 169,
+      "area": "水晶矿脉",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 170,
+      "area": "",
+      "action": "进德瑞索",
+      "details": []
+    },
+    {
+      "sourceRow": 171,
+      "area": "德瑞索",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 172,
+      "area": "",
+      "action": "进纲目",
+      "details": []
+    },
+    {
+      "sourceRow": 173,
+      "area": "纲目",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 174,
+      "area": "",
+      "action": "进水晶矿脉",
+      "details": []
+    },
+    {
+      "sourceRow": 175,
+      "area": "水晶矿脉",
+      "action": "进巨兽沼泽",
+      "details": []
+    },
+    {
+      "sourceRow": 176,
+      "area": "巨兽沼泽",
+      "action": "进育灵之室",
+      "details": []
+    },
+    {
+      "sourceRow": 177,
+      "area": "育灵之室",
+      "action": "杀3个小boss",
+      "details": []
+    },
+    {
+      "sourceRow": 178,
+      "area": "",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 179,
+      "area": "",
+      "action": "小退回城",
+      "details": []
+    },
+    {
+      "sourceRow": 180,
+      "area": "城镇",
+      "action": "交任务",
+      "details": []
+    },
+    {
+      "sourceRow": 181,
+      "area": "",
+      "action": "领高阶投射和弓",
+      "details": []
+    },
+    {
+      "sourceRow": 182,
+      "area": "",
+      "action": "领4连衣服",
+      "details": []
+    },
+    {
+      "sourceRow": 183,
+      "area": "",
+      "action": "用幻色石头洗衣服",
+      "details": []
+    },
+    {
+      "sourceRow": 184,
+      "area": "",
+      "action": "法铸",
+      "details": [
+        "闪电箭",
+        "冰霜射击",
+        "闪电",
+        "幻影射手",
+        "火力弩炮",
+        "冲刺"
+      ]
+    },
+    {
+      "sourceRow": 185,
+      "area": "",
+      "action": "进第五章",
+      "details": []
+    },
+    {
+      "sourceRow": 186,
+      "area": "奴隶深坑",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 187,
+      "area": "",
+      "action": "进城",
+      "details": []
+    },
+    {
+      "sourceRow": 188,
+      "area": "",
+      "action": "进控制区",
+      "details": []
+    },
+    {
+      "sourceRow": 189,
+      "area": "控制区",
+      "action": "拿任务物品",
+      "details": []
+    },
+    {
+      "sourceRow": 190,
+      "area": "",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 191,
+      "area": "",
+      "action": "进奥瑞亚广场",
+      "details": []
+    },
+    {
+      "sourceRow": 192,
+      "area": "奥瑞亚广场",
+      "action": "进圣堂高挺",
+      "details": []
+    },
+    {
+      "sourceRow": 193,
+      "area": "",
+      "action": "进纯净圣殿",
+      "details": []
+    },
+    {
+      "sourceRow": 194,
+      "area": "纯净圣殿",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 195,
+      "area": "",
+      "action": "击杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 196,
+      "area": "",
+      "action": "进广场遗迹",
+      "details": []
+    },
+    {
+      "sourceRow": 197,
+      "area": "广场遗迹",
+      "action": "进藏骨堂",
+      "details": []
+    },
+    {
+      "sourceRow": 198,
+      "area": "",
+      "action": "做任务",
+      "details": []
+    },
+    {
+      "sourceRow": 199,
+      "area": "",
+      "action": "进遗物圣所",
+      "details": []
+    },
+    {
+      "sourceRow": 200,
+      "area": "遗物圣所",
+      "action": "做任务",
+      "details": []
+    },
+    {
+      "sourceRow": 201,
+      "area": "",
+      "action": "走出门进广场遗迹",
+      "details": []
+    },
+    {
+      "sourceRow": 202,
+      "area": "广场遗迹",
+      "action": "左边上楼梯",
+      "details": []
+    },
+    {
+      "sourceRow": 203,
+      "area": "",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 204,
+      "area": "",
+      "action": "回第一章",
+      "details": []
+    },
+    {
+      "sourceRow": 205,
+      "area": "",
+      "action": "进绝望岩滩",
+      "details": []
+    },
+    {
+      "sourceRow": 206,
+      "area": "绝望岩滩",
+      "action": "做任务",
+      "details": []
+    },
+    {
+      "sourceRow": 207,
+      "area": "",
+      "action": "小退回城",
+      "details": []
+    },
+    {
+      "sourceRow": 208,
+      "area": "城镇",
+      "action": "进曙光海滩",
+      "details": []
+    },
+    {
+      "sourceRow": 209,
+      "area": "",
+      "action": "进炙热盐沼",
+      "details": []
+    },
+    {
+      "sourceRow": 210,
+      "area": "",
+      "action": "击杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 211,
+      "area": "",
+      "action": "进卡鲁要塞",
+      "details": []
+    },
+    {
+      "sourceRow": 212,
+      "area": "卡鲁要塞",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 213,
+      "area": "",
+      "action": "进寂寞山领",
+      "details": []
+    },
+    {
+      "sourceRow": 214,
+      "area": "寂寞山领",
+      "action": "进禁灵",
+      "details": []
+    },
+    {
+      "sourceRow": 215,
+      "area": "禁灵",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 216,
+      "area": "",
+      "action": "回第五章",
+      "details": []
+    },
+    {
+      "sourceRow": 217,
+      "area": "",
+      "action": "领天赋和装备 双玉戒指 紫晶药剂",
+      "details": []
+    },
+    {
+      "sourceRow": 218,
+      "area": "",
+      "action": "回第六章",
+      "details": []
+    },
+    {
+      "sourceRow": 219,
+      "area": "",
+      "action": "领火炕戒指",
+      "details": []
+    },
+    {
+      "sourceRow": 220,
+      "area": "",
+      "action": "购买爆裂箭雨",
+      "details": []
+    },
+    {
+      "sourceRow": 221,
+      "area": "",
+      "action": "烈焰冲刺",
+      "details": []
+    },
+    {
+      "sourceRow": 222,
+      "area": "",
+      "action": " ",
+      "details": []
+    },
+    {
+      "sourceRow": 223,
+      "area": "",
+      "action": "击中施加印记",
+      "details": []
+    },
+    {
+      "sourceRow": 224,
+      "area": "",
+      "action": "启迪",
+      "details": []
+    },
+    {
+      "sourceRow": 225,
+      "area": "",
+      "action": "附加闪电",
+      "details": []
+    },
+    {
+      "sourceRow": 226,
+      "area": "",
+      "action": "法铸",
+      "details": [
+        "闪电箭",
+        "冰霜射击",
+        "爆裂箭雨",
+        "启迪",
+        "附加闪电",
+        "闪电箭",
+        "火力弩炮",
+        "狙击印记",
+        "击中施加印记",
+        "烈焰冲刺",
+        "元素净化",
+        "闪现射击",
+        "冲刺"
+      ]
+    },
+    {
+      "sourceRow": 227,
+      "area": "",
+      "action": "G",
+      "details": [
+        "G",
+        "G",
+        "G",
+        "R",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "B",
+        "B",
+        "G",
+        "G"
+      ]
+    },
+    {
+      "sourceRow": 228,
+      "area": "",
+      "action": "回禁灵",
+      "details": []
+    },
+    {
+      "sourceRow": 229,
+      "area": "禁灵",
+      "action": "做升华",
+      "details": []
+    },
+    {
+      "sourceRow": 230,
+      "area": "",
+      "action": "进薛朗",
+      "details": []
+    },
+    {
+      "sourceRow": 231,
+      "area": "薛朗",
+      "action": "击杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 232,
+      "area": "",
+      "action": "进监狱大门",
+      "details": []
+    },
+    {
+      "sourceRow": 233,
+      "area": "监狱大门",
+      "action": "岔路击杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 234,
+      "area": "",
+      "action": "原路返回",
+      "details": []
+    },
+    {
+      "sourceRow": 235,
+      "area": "",
+      "action": "进西部密林",
+      "details": []
+    },
+    {
+      "sourceRow": 236,
+      "area": "",
+      "action": "进河道",
+      "details": []
+    },
+    {
+      "sourceRow": 237,
+      "area": "河道",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 238,
+      "area": "",
+      "action": "进湿地",
+      "details": []
+    },
+    {
+      "sourceRow": 239,
+      "area": "湿地",
+      "action": "击杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 240,
+      "area": "",
+      "action": "小退回城",
+      "details": []
+    },
+    {
+      "sourceRow": 241,
+      "area": "",
+      "action": "领天赋和4连头",
+      "details": []
+    },
+    {
+      "sourceRow": 242,
+      "area": "",
+      "action": "购买",
+      "details": []
+    },
+    {
+      "sourceRow": 243,
+      "area": "",
+      "action": "法铸",
+      "details": []
+    },
+    {
+      "sourceRow": 244,
+      "area": "",
+      "action": "箭雨",
+      "details": []
+    },
+    {
+      "sourceRow": 245,
+      "area": "",
+      "action": "终结",
+      "details": []
+    },
+    {
+      "sourceRow": 246,
+      "area": "",
+      "action": "法铸",
+      "details": [
+        "闪电箭",
+        "冰霜射击",
+        "爆裂箭雨",
+        "启迪",
+        "附加闪电",
+        "闪电箭",
+        "火力弩炮",
+        "法铸",
+        "箭雨",
+        "终结",
+        "狙击印记",
+        "击中施加印记",
+        "烈焰冲刺",
+        "元素净化",
+        "闪现射击",
+        "愤怒"
+      ]
+    },
+    {
+      "sourceRow": 247,
+      "area": "",
+      "action": "G",
+      "details": [
+        "G",
+        "G",
+        "G",
+        "R",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "B",
+        "B",
+        "G",
+        "R"
+      ]
+    },
+    {
+      "sourceRow": 248,
+      "area": "",
+      "action": "回河道",
+      "details": []
+    },
+    {
+      "sourceRow": 249,
+      "area": "河道",
+      "action": "进南部密林",
+      "details": []
+    },
+    {
+      "sourceRow": 250,
+      "area": "南部密林",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 251,
+      "area": "",
+      "action": "进洞穴",
+      "details": []
+    },
+    {
+      "sourceRow": 252,
+      "area": "",
+      "action": "进灯塔",
+      "details": []
+    },
+    {
+      "sourceRow": 253,
+      "area": "",
+      "action": "坐船",
+      "details": []
+    },
+    {
+      "sourceRow": 254,
+      "area": "",
+      "action": "击杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 255,
+      "area": "",
+      "action": "进第7章",
+      "details": []
+    },
+    {
+      "sourceRow": 256,
+      "area": "城镇",
+      "action": "万神殿 惊海之王 傀儡女王",
+      "details": []
+    },
+    {
+      "sourceRow": 257,
+      "area": "",
+      "action": "进断桥",
+      "details": []
+    },
+    {
+      "sourceRow": 258,
+      "area": "",
+      "action": "进危机岔路",
+      "details": []
+    },
+    {
+      "sourceRow": 259,
+      "area": "",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 260,
+      "area": "",
+      "action": "进下面坠道遗迹",
+      "details": []
+    },
+    {
+      "sourceRow": 261,
+      "area": "坠道遗迹",
+      "action": "进 寂静陵墓",
+      "details": []
+    },
+    {
+      "sourceRow": 262,
+      "area": "寂静陵墓",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 263,
+      "area": "",
+      "action": "做升华",
+      "details": []
+    },
+    {
+      "sourceRow": 264,
+      "area": "",
+      "action": "二楼拿任务物品",
+      "details": []
+    },
+    {
+      "sourceRow": 265,
+      "area": "",
+      "action": "回城",
+      "details": []
+    },
+    {
+      "sourceRow": 266,
+      "area": "",
+      "action": "进危机岔路",
+      "details": []
+    },
+    {
+      "sourceRow": 267,
+      "area": "",
+      "action": "进上面罪孽之殿",
+      "details": []
+    },
+    {
+      "sourceRow": 268,
+      "area": "罪孽之殿",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 269,
+      "area": "",
+      "action": "开图杀蜘蛛",
+      "details": []
+    },
+    {
+      "sourceRow": 270,
+      "area": "",
+      "action": "进二楼",
+      "details": []
+    },
+    {
+      "sourceRow": 271,
+      "area": "",
+      "action": "做升华",
+      "details": []
+    },
+    {
+      "sourceRow": 272,
+      "area": "",
+      "action": "进灰原",
+      "details": []
+    },
+    {
+      "sourceRow": 273,
+      "area": "灰原",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 274,
+      "area": "",
+      "action": "杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 275,
+      "area": "",
+      "action": "进北部密林",
+      "details": []
+    },
+    {
+      "sourceRow": 276,
+      "area": "北部密林",
+      "action": "进洞",
+      "details": []
+    },
+    {
+      "sourceRow": 277,
+      "area": "",
+      "action": "做任务",
+      "details": []
+    },
+    {
+      "sourceRow": 278,
+      "area": "",
+      "action": "杀BOSS",
+      "details": []
+    },
+    {
+      "sourceRow": 279,
+      "area": "",
+      "action": "出洞",
+      "details": []
+    },
+    {
+      "sourceRow": 280,
+      "area": "北部密林",
+      "action": "进提到",
+      "details": []
+    },
+    {
+      "sourceRow": 281,
+      "area": "",
+      "action": "进瓦尔古城",
+      "details": []
+    },
+    {
+      "sourceRow": 282,
+      "area": "",
+      "action": "进洞",
+      "details": []
+    },
+    {
+      "sourceRow": 283,
+      "area": "",
+      "action": "杀蜘蛛",
+      "details": []
+    },
+    {
+      "sourceRow": 284,
+      "area": "",
+      "action": "进第8章",
+      "details": []
+    },
+    {
+      "sourceRow": 285,
+      "area": "城镇",
+      "action": "进剧毒管道",
+      "details": []
+    },
+    {
+      "sourceRow": 286,
+      "area": "剧毒管道",
+      "action": "杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 287,
+      "area": "",
+      "action": "进中转码头",
+      "details": []
+    },
+    {
+      "sourceRow": 288,
+      "area": "中转码头",
+      "action": "三个任务",
+      "details": []
+    },
+    {
+      "sourceRow": 289,
+      "area": "",
+      "action": "进稻穗之门",
+      "details": []
+    },
+    {
+      "sourceRow": 290,
+      "area": "稻穗之门",
+      "action": "做任务",
+      "details": []
+    },
+    {
+      "sourceRow": 291,
+      "area": "",
+      "action": "进帝国平原",
+      "details": []
+    },
+    {
+      "sourceRow": 292,
+      "area": "帝国平原",
+      "action": "进日耀神殿",
+      "details": []
+    },
+    {
+      "sourceRow": 293,
+      "area": "日耀神殿",
+      "action": "杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 294,
+      "area": "",
+      "action": "进下水道",
+      "details": []
+    },
+    {
+      "sourceRow": 295,
+      "area": "",
+      "action": "走左边进月色回廊",
+      "details": []
+    },
+    {
+      "sourceRow": 296,
+      "area": "月色回廊",
+      "action": "进古兵工厂",
+      "details": []
+    },
+    {
+      "sourceRow": 297,
+      "area": "",
+      "action": "进皇家花园",
+      "details": []
+    },
+    {
+      "sourceRow": 298,
+      "area": "皇家花园",
+      "action": "击杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 299,
+      "area": "",
+      "action": "回城",
+      "details": []
+    },
+    {
+      "sourceRow": 300,
+      "area": "",
+      "action": "进古兵工厂",
+      "details": []
+    },
+    {
+      "sourceRow": 301,
+      "area": "古兵工厂",
+      "action": "做升华",
+      "details": []
+    },
+    {
+      "sourceRow": 302,
+      "area": "",
+      "action": "右下进月影广场",
+      "details": []
+    },
+    {
+      "sourceRow": 303,
+      "area": "",
+      "action": "进月影神殿",
+      "details": []
+    },
+    {
+      "sourceRow": 304,
+      "area": "月影神殿",
+      "action": "进二层，完成任务",
+      "details": []
+    },
+    {
+      "sourceRow": 305,
+      "area": "",
+      "action": "击杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 306,
+      "area": "",
+      "action": "跑2个升华",
+      "details": []
+    },
+    {
+      "sourceRow": 307,
+      "area": "",
+      "action": "提速尾流\\连锁",
+      "details": []
+    },
+    {
+      "sourceRow": 308,
+      "area": "",
+      "action": "交任务进月影广场",
+      "details": []
+    },
+    {
+      "sourceRow": 309,
+      "area": "",
+      "action": "进港湾大桥",
+      "details": []
+    },
+    {
+      "sourceRow": 310,
+      "area": "港湾大桥",
+      "action": "击杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 311,
+      "area": "",
+      "action": "进城",
+      "details": []
+    },
+    {
+      "sourceRow": 312,
+      "area": "城镇",
+      "action": "进斜坡",
+      "details": []
+    },
+    {
+      "sourceRow": 313,
+      "area": "",
+      "action": "进贫瘠之地",
+      "details": []
+    },
+    {
+      "sourceRow": 314,
+      "area": "贫瘠之地",
+      "action": "做任务",
+      "details": []
+    },
+    {
+      "sourceRow": 315,
+      "area": "",
+      "action": "找沙暴",
+      "details": []
+    },
+    {
+      "sourceRow": 316,
+      "area": "",
+      "action": "回城拿道具",
+      "details": []
+    },
+    {
+      "sourceRow": 317,
+      "area": "",
+      "action": "回贫瘠之地",
+      "details": []
+    },
+    {
+      "sourceRow": 318,
+      "area": "",
+      "action": "进绿洲",
+      "details": []
+    },
+    {
+      "sourceRow": 319,
+      "area": "绿洲",
+      "action": "杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 320,
+      "area": "",
+      "action": "回城",
+      "details": []
+    },
+    {
+      "sourceRow": 321,
+      "area": "",
+      "action": "回贫瘠之地",
+      "details": []
+    },
+    {
+      "sourceRow": 322,
+      "area": "",
+      "action": "进巨石丘陵",
+      "details": []
+    },
+    {
+      "sourceRow": 323,
+      "area": "巨石丘陵",
+      "action": "进沸水湖泊",
+      "details": []
+    },
+    {
+      "sourceRow": 324,
+      "area": "沸水湖泊",
+      "action": "杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 325,
+      "area": "",
+      "action": "进隧道",
+      "details": []
+    },
+    {
+      "sourceRow": 326,
+      "area": "隧道",
+      "action": "做升华",
+      "details": []
+    },
+    {
+      "sourceRow": 327,
+      "area": "",
+      "action": "进采石场",
+      "details": []
+    },
+    {
+      "sourceRow": 328,
+      "area": "采石场",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 329,
+      "area": "",
+      "action": "进风暴神殿",
+      "details": []
+    },
+    {
+      "sourceRow": 330,
+      "area": "",
+      "action": "杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 331,
+      "area": "",
+      "action": "进 精炼厂",
+      "details": []
+    },
+    {
+      "sourceRow": 332,
+      "area": "",
+      "action": "杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 333,
+      "area": "",
+      "action": "回城",
+      "details": []
+    },
+    {
+      "sourceRow": 334,
+      "area": "城镇",
+      "action": "进采石场",
+      "details": []
+    },
+    {
+      "sourceRow": 335,
+      "area": "",
+      "action": "进巨兽沼泽",
+      "details": []
+    },
+    {
+      "sourceRow": 336,
+      "area": "巨兽沼泽",
+      "action": "进育灵之室",
+      "details": []
+    },
+    {
+      "sourceRow": 337,
+      "area": "",
+      "action": "击杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 338,
+      "area": "",
+      "action": "进第10章",
+      "details": []
+    },
+    {
+      "sourceRow": 339,
+      "area": "城镇",
+      "action": "进顶楼",
+      "details": []
+    },
+    {
+      "sourceRow": 340,
+      "area": "",
+      "action": "左边做任务",
+      "details": []
+    },
+    {
+      "sourceRow": 341,
+      "area": "",
+      "action": "右边进广场遗迹",
+      "details": []
+    },
+    {
+      "sourceRow": 342,
+      "area": "",
+      "action": "进控制区",
+      "details": []
+    },
+    {
+      "sourceRow": 343,
+      "area": "",
+      "action": "杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 344,
+      "area": "",
+      "action": "回城",
+      "details": []
+    },
+    {
+      "sourceRow": 345,
+      "area": "",
+      "action": "领取猛攻药剂",
+      "details": []
+    },
+    {
+      "sourceRow": 346,
+      "area": "",
+      "action": "去控制区",
+      "details": []
+    },
+    {
+      "sourceRow": 347,
+      "area": "",
+      "action": "进广场遗迹",
+      "details": []
+    },
+    {
+      "sourceRow": 348,
+      "area": "广场遗迹",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 349,
+      "area": "",
+      "action": "进藏古堂",
+      "details": []
+    },
+    {
+      "sourceRow": 350,
+      "area": "藏古堂",
+      "action": "做升华",
+      "details": []
+    },
+    {
+      "sourceRow": 351,
+      "area": "",
+      "action": "回城",
+      "details": []
+    },
+    {
+      "sourceRow": 352,
+      "area": "",
+      "action": "进广场遗迹",
+      "details": []
+    },
+    {
+      "sourceRow": 353,
+      "area": "广场遗迹",
+      "action": "进化作火海的高汤",
+      "details": []
+    },
+    {
+      "sourceRow": 354,
+      "area": "化作火海的高汤",
+      "action": "点传送",
+      "details": []
+    },
+    {
+      "sourceRow": 355,
+      "area": "",
+      "action": "进亵渎之间",
+      "details": []
+    },
+    {
+      "sourceRow": 356,
+      "area": "",
+      "action": "击杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 357,
+      "area": "",
+      "action": "回城",
+      "details": []
+    },
+    {
+      "sourceRow": 358,
+      "area": "",
+      "action": "领五连衣服",
+      "details": []
+    },
+    {
+      "sourceRow": 359,
+      "area": "",
+      "action": "连高阶多重在火力弩炮上",
+      "details": []
+    },
+    {
+      "sourceRow": 360,
+      "area": "",
+      "action": "杀boss",
+      "details": []
+    },
+    {
+      "sourceRow": 361,
+      "area": "",
+      "action": "检查天赋点",
+      "details": []
+    },
+    {
+      "sourceRow": 362,
+      "area": "",
+      "action": "回藏身处 补抗性",
+      "details": []
+    },
+    {
+      "sourceRow": 363,
+      "area": "",
+      "action": "其他全部附魔闪电点伤",
+      "details": []
+    },
+    {
+      "sourceRow": 364,
+      "area": "",
+      "action": "武器用精华点",
+      "details": []
+    },
+    {
+      "sourceRow": 365,
+      "area": "",
+      "action": "箭袋",
+      "details": [
+        "平衡棱镜"
+      ]
+    },
+    {
+      "sourceRow": 366,
+      "area": "",
+      "action": "项链",
+      "details": [
+        "卡鲁的战回"
+      ]
+    },
+    {
+      "sourceRow": 367,
+      "area": "",
+      "action": "腰带",
+      "details": [
+        "幻彩"
+      ]
+    },
+    {
+      "sourceRow": 368,
+      "area": "",
+      "action": "手套",
+      "details": [
+        "恩德的迅影"
+      ]
+    },
+    {
+      "sourceRow": 369,
+      "area": "",
+      "action": "万神殿 月影 恐惧",
+      "details": []
+    }
+  ]
+}

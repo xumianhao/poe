@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+<Build level="98" className="Witch" ascendClassName="Necromancer" targetVersion="3_0" mainSocketGroup="1" viewMode="ITEMS">
+</Build>
+<Skills activeSkillSet="1">
+<SkillSet id="1">
+<Skill enabled="true" slot="Weapon 1" mainActiveSkill="nil">
+<Gem level="1" qualityId="Default" quality="0" nameSpec="Desecrate" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Bone Offering" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Despair" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+</Skill>
+<Skill enabled="true" slot="Helmet" mainActiveSkill="nil">
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Arctic Armour" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="4" qualityId="Default" quality="0" nameSpec="Flame Dash" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="20" qualityId="Default" quality="0" nameSpec="Malevolence" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="21" qualityId="Default" quality="20" nameSpec="Purity of Fire" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+</Skill>
+<Skill enabled="true" slot="Body Armour" mainActiveSkill="nil">
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Minion Damage" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="21" qualityId="Default" quality="23" nameSpec="Summon Holy Relic of Conviction" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Void Manipulation" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="4" qualityId="Default" quality="0" nameSpec="Empower" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Predator" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Unbound Ailments" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+</Skill>
+<Skill enabled="true" slot="Weapon 1 Swap" mainActiveSkill="nil">
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Summon Holy Relic of Conviction" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+</Skill>
+<Skill enabled="true" slot="Weapon 2" mainActiveSkill="nil">
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Molten Shell" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Automation" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="1" qualityId="Default" quality="8" nameSpec="Shield Charge" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+</Skill>
+<Skill enabled="true" slot="Gloves" mainActiveSkill="nil">
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Raise Spectre" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Animate Guardian" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Minion Life" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="19" qualityId="Default" quality="20" nameSpec="Meat Shield" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+</Skill>
+<Skill enabled="true" slot="Boots" mainActiveSkill="nil">
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Lancing Steel of Spraying" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="19" qualityId="Default" quality="20" nameSpec="Life Gain on Hit" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Withering Touch" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+<Gem level="20" qualityId="Default" quality="20" nameSpec="Returning Projectiles" enabled="true" enableGlobal1="true" enableGlobal2="false"/>
+</Skill>
+</SkillSet>
+</Skills>
+<Tree activeSpec="1">
+<Spec treeVersion="3_29" ascendClassId="3" secondaryAscendClassId="0" classId="3" masteryEffects="{47197,61097},{48290,61283},{54849,11723},{4139,38454},{13862,64875},{22480,4500},{34552,57179},{43647,41544}" nodes="1203,2491,3644,4139,4397,5233,5743,5935,6289,6712,6764,6967,7285,7388,7444,7688,7960,9386,9392,9402,10904,11420,11730,13009,13862,14057,14603,14930,15046,15081,17527,17735,17821,18174,18309,18901,19635,19919,20987,21330,22062,22480,23027,24824,25332,26196,26270,26298,26712,26725,27611,29106,29353,30380,31875,32932,34098,34171,34400,34552,34880,35288,36542,36634,36678,36915,36949,37569,39648,39818,41472,42668,43647,43689,44191,44202,47197,48287,48290,48719,49254,50826,52502,53118,53279,54159,54849,55190,55646,55743,56359,57264,58218,59928,60398,60472,60554,61419,62319,62429,63282,63723,64210,65153,65705,65706,65696,65698,49080,65701,65702,65703,44169,65760,65762,10532,65765,65766,65767,46519,65770,65575,9408,65573,65574,65578,65568,65570,29712">
+<Sockets>
+<Socket nodeId="61419" itemId="20"/>
+<Socket nodeId="26196" itemId="21"/>
+<Socket nodeId="2491" itemId="22"/>
+<Socket nodeId="44169" itemId="23"/>
+<Socket nodeId="26725" itemId="24"/>
+<Socket nodeId="55190" itemId="25"/>
+<Socket nodeId="46519" itemId="26"/>
+<Socket nodeId="7960" itemId="27"/>
+<Socket nodeId="36634" itemId="28"/>
+<Socket nodeId="49080" itemId="29"/>
+<Socket nodeId="10532" itemId="30"/>
+<Socket nodeId="9408" itemId="31"/>
+<Socket nodeId="29712" itemId="32"/>
+</Sockets>
+<Overrides>
+<Override dn="Tattoo of the Rongokurai Warrior" nodeId="63723">
+</Override>
+<Override dn="Tattoo of the Rongokurai Warrior" nodeId="23027">
+</Override>
+<Override dn="Tattoo of the Rongokurai Warrior" nodeId="29353">
+</Override>
+<Override dn="Tattoo of the Rongokurai Warrior" nodeId="34171">
+</Override>
+<Override dn="Tattoo of the Rongokurai Warrior" nodeId="44202">
+</Override>
+<Override dn="Tattoo of the Rongokurai Warrior" nodeId="59928">
+</Override>
+<Override dn="Tattoo of the Rongokurai Warrior" nodeId="60472">
+</Override>
+<Override dn="Tattoo of the Rongokurai Warrior" nodeId="63282">
+</Override>
+</Overrides>
+</Spec>
+</Tree>
+<Items>
+<Item id="1">
+Rarity: RARE
+Item
+Anarchic Spiritblade
+Unique ID: 5bedb137bca793ba7eb4eb9cb5ac189e3519e290a7d14dc085d1a0afc7df499a
+Item Level: 86
+Quality: 20
+Sockets: G-G-B
+Implicits: 3
+{enchant}{crafted}Quality does not increase Physical Damage
+{enchant}{crafted}1% increased Attack Speed per 8% Quality
+100% of Physical Damage from Hits with this Weapon is Converted to a random Element
+Adds 4 to 8 Physical Damage
+27% increased Attack Speed
+Minions deal 83% increased Damage
+{crafted}Can have up to 3 Crafted Modifiers
+{crafted}Trigger a Socketed Spell when you Use a Skill, with a 8 second Cooldown
+{crafted}Spells Triggered this way have 150% more Cost
+{crafted}Hits can't be Evaded
+</Item>
+<Item id="2">
+Rarity: UNIQUE
+Geofri's Crest
+Great Crown
+Energy Shield: 85
+Armour: 420
+Unique ID: 696722142997336e04d0d5d58283a099723ec2fc3dcad128fb3bcfc6d8f73e0e
+Item Level: 83
+Quality: 17
+Sockets: W-W-B-R
+Implicits: 1
++2 to Level of Socketed AoE Gems
+127% increased Armour and Energy Shield
++25% to Fire Resistance
++20% to Cold Resistance
++24% to Lightning Resistance
++27% to Chaos Resistance
++1 to maximum number of Summoned Holy Relics
+Corrupted
+</Item>
+<Item id="3">
+Rarity: MAGIC
+Granite Flask
+Unique ID: 657825ed884b46d141f8a6c48232e3fe0552cd9abea0b1da6fa4ccb73d6a63b3
+Item Level: 83
+Quality: 20
+Implicits: 1
+{enchant}{crafted}Used when Charges reach full
+Gain 3 Charges when you are Hit by an Enemy
+53% increased Armour during Effect
+</Item>
+<Item id="4">
+Rarity: UNIQUE
+The Fourth Vow
+Devout Chainmail
+Energy Shield: 277
+Armour: 1352
+Unique ID: 65da968ae7e9826884b5f1c8c00f39ddd9317d1200f88e12ffd4959952d44b20
+Item Level: 83
+Quality: 17
+Sockets: W-B-G-R-R-W
+Implicits: 2
++2 to Level of Socketed Minion Gems
+5% reduced Lightning Damage taken
+220% increased Armour and Energy Shield
++26% to Chaos Resistance
+Regenerate 3% of Life per second
+Armour also applies to Chaos Damage taken from Hits
+Physical Damage taken bypasses Energy Shield
+Corrupted
+</Item>
+<Item id="5">
+Rarity: MAGIC
+Driftwood Sceptre
+Unique ID: 5771bf1b450c0b946a3cfc5c39d3460bc80dae5b73d101b70f2059ab1630ddbf
+Item Level: 1
+Sockets: B-B-R
+Implicits: 1
+10% increased Elemental Damage
++1 to Level of Socketed Fire Gems
+</Item>
+<Item id="6">
+Rarity: UNIQUE
+Ashes of the Stars
+Onyx Amulet
+Unique ID: c54b726515bad89bda3176f1be33da2706e0fcef477502856d9d2eb265cb57a8
+Item Level: 87
+Implicits: 2
+{enchant}{crafted}Allocates Nomadic Teachings
++14 to all Attributes
+9% increased Experience Gain of Gems
++1 to Level of all Skill Gems
++30% to Quality of all Skill Gems
+</Item>
+<Item id="7">
+Rarity: MAGIC
+Divine Life Flask
+Unique ID: 2f0728062f4563b70867048e9d6bd475d975100bf4aea2a753ab0f7cc323db52
+Item Level: 83
+Quality: 20
+Implicits: 0
+66% reduced Amount Recovered
+Instant Recovery
+Grants Immunity to Bleeding for 16 seconds if used while Bleeding
+Grants Immunity to Corrupted Blood for 16 seconds if used while affected by Corrupted Blood
+</Item>
+<Item id="8">
+Rarity: UNIQUE
+Victario's Charity
+Laminated Kite Shield
+Energy Shield: 32
+Armour: 160
+Unique ID: fdf9641f42ccad1c2b9ddac91730cb04c3e39e1c7ffd5a75d22c7cdaa20af7f5
+Item Level: 83
+Quality: 20
+Sockets: R-B-R
+Implicits: 1
+Divine Flesh
++69 to maximum Life
++24% to Lightning Resistance
++11% to Chaos Resistance
+20% increased Area of Effect of Aura Skills
+10% chance to grant a Power Charge to nearby Allies on Kill
+5% chance to grant a Frenzy Charge to nearby Allies on Hit
+</Item>
+<Item id="9">
+Rarity: UNIQUE
+Darkness Enthroned
+Stygian Vise
+Unique ID: 9f632c230feab8de36cce220f92b56b227271b03a81bbc8408aae0ff5f8196c0
+Item Level: 85
+Sockets: A A
+Implicits: 1
+Has 1 Abyssal Socket
+Has 1 Abyssal Socket
+100% increased Effect of Socketed Abyss Jewels
+</Item>
+<Item id="10">
+Rarity: RARE
+Item
+Ghastly Eye Jewel
+Unique ID: f97549630a452e1d83e20fc5586c983678d3b87ecdd9d7ba84ad86dd3626a61c
+Item Level: 85
+Implicits: 0
++40 to maximum Life
+Minions have 5% increased Attack Speed
+Minions have 4% increased Cast Speed
+Minions have +7% to all Elemental Resistances
+Minions have 15% chance to Poison Enemies on Hit
+Minions deal 20 to 26 additional Physical Damage
+Corrupted
+</Item>
+<Item id="11">
+Rarity: RARE
+Item
+Ghastly Eye Jewel
+Unique ID: 1c9d6e7fd4a01097ff6bcb977af1d21b5a53de97089c30ab807c9f6ae961fc04
+Item Level: 83
+Implicits: 0
++26 to maximum Life
+Minions have 4% increased Attack Speed
+Minions have 5% increased Cast Speed
+Minions have +11% to Chaos Resistance
+Minions have 15% chance to Poison Enemies on Hit
+Minions deal 14 to 23 additional Chaos Damage
+Corrupted
+</Item>
+<Item id="12">
+Rarity: MAGIC
+Quicksilver Flask
+Unique ID: 7012cb173b1f6721d9100240248a608670351f46dda0f200bbd3fb0f5ed04e0a
+Item Level: 100
+Quality: 20
+Implicits: 1
+{enchant}{crafted}Used when Charges reach full
+Gain 3 Charges when you are Hit by an Enemy
+12% increased Movement Speed during Effect
+</Item>
+<Item id="13">
+Rarity: RARE
+Item
+Leviathan Gauntlets
+Armour: 908
+Unique ID: b4e474053225c0ec4fec987e7b8a5cc9f25697c2f5f28221211c2c75a9282f40
+Searing Exarch Item
+Eater of Worlds Item
+Item Level: 85
+Quality: 20
+Sockets: W-W-W-W
+Implicits: 2
+Withered you Inflict expires 14% slower
+9% increased Attack Speed
+18% increased Attack Speed
+109% increased Armour
+Regenerate 8.8 Life per second
+8% increased Stun and Block Recovery
+{crafted}+57 to maximum Life
+{fractured}+34% to Chaos Resistance
+</Item>
+<Item id="14">
+Rarity: RARE
+Item
+Ivory Spirit Shield
+Energy Shield: 59
+Unique ID: 6300d547512b203099524c3fd339fdc7987799a71837cd6e40d896606594ee82
+Item Level: 44
+Quality: 20
+Sockets: W-W-W
+Implicits: 1
+Minions deal 10% increased Damage
+30% increased Energy Shield
++1 to Level of all Fire Spell Skill Gems
+12% increased Stun and Block Recovery
+Minions have +20% to all Elemental Resistances
+Minions have 35% increased Critical Strike Chance
+</Item>
+<Item id="15">
+Rarity: RARE
+Item
+Bone Ring
+Unique ID: f2bc56c0bfaca37961e1c5bae7411f01c9bfcff07374a2e6198e9438df44347b
+Item Level: 83
+Implicits: 1
+Minions have +11% to all Elemental Resistances
++54 to Dexterity
++41 to maximum Energy Shield
++134 to maximum Life
+Minions have 14% increased Attack and Cast Speed
+{crafted}Non-Channelling Skills have -8 to Total Mana Cost
+{fractured}+33% to Chaos Resistance
+</Item>
+<Item id="16">
+Rarity: RARE
+Item
+Vaal Greaves
+Armour: 503
+Unique ID: d8216ecdb4f7bc3be9cf07b8981576946d9f3234d1c1469f84c713defa54a0f9
+Searing Exarch Item
+Eater of Worlds Item
+Item Level: 85
+Quality: 20
+Sockets: R-G-R-W
+Implicits: 2
+20% chance to Avoid Elemental Ailments
++1% to maximum Fire Resistance
++123 to maximum Life
++47% to Fire Resistance
+28% increased Movement Speed
+100% chance to Avoid being Chilled
+60% chance to Avoid being Shocked
+{crafted}74% increased Armour
+{fractured}+32% to Chaos Resistance
+</Item>
+<Item id="17">
+Rarity: RARE
+Item
+Bone Ring
+Unique ID: 454eea61932430a2b58c846cc9aede565cefe6037be97657f9410e802747e628
+Item Level: 85
+Implicits: 1
+Minions have +11% to all Elemental Resistances
++54 to Dexterity
++130 to maximum Life
+25% increased Rarity of Items found
+Minions have 11% increased Attack and Cast Speed
+{crafted}Non-Channelling Skills have -8 to Total Mana Cost
+{fractured}+48% to Fire Resistance
+</Item>
+<Item id="18">
+Rarity: MAGIC
+Silver Flask
+Unique ID: 4678d41d095ced767564cebb9019989f04c973915141425721725037c2f91aa0
+Item Level: 85
+Quality: 20
+Implicits: 1
+{enchant}{crafted}Used when Charges reach full
+Gain 3 Charges when you are Hit by an Enemy
+62% reduced Effect of Curses on you during Effect
+</Item>
+<Item id="19">
+Rarity: RELIC
+Progenesis
+Amethyst Flask
+Unique ID: 7b70e9258b495f68d3db81ccd04841e1512c485f81ae6d505590c33b5e650d52
+Item Level: 84
+Quality: 20
+Implicits: 1
+{enchant}{crafted}Used when Charges reach full
+12% reduced Charges per use
+19% increased Duration
+When Hit during effect, 25% of Life loss from Damage taken occurs over 4 seconds instead
+</Item>
+<Item id="20">
+Rarity: UNIQUE
+Stormshroud
+Viridian Jewel
+Unique ID: dc9942ca452b485020ad209784c7591102027d2376ddb7fad158188b66ddfef6
+Item Level: 83
+Implicits: 0
++12% to Lightning Resistance
+Modifiers to Chance to Avoid being Shocked apply to all Elemental Ailments
+</Item>
+<Item id="21">
+Rarity: UNIQUE
+Amanamu's Gaze
+Ghastly Eye Jewel
+Unique ID: 2c509398f02884afff460084af36ea90fc98159ee2b6d951da6e55ebc3fbf901
+Item Level: 85
+Implicits: 0
++7 to all Attributes
+Minions have +6% to Damage over Time Multiplier per
+Ghastly Eye Jewel affecting you, up to a maximum of +30%
+</Item>
+<Item id="22">
+Rarity: RARE
+Item
+Large Cluster Jewel
+Unique ID: c548c2a50eab6f875022bc3052baf5fcc3a6376a804f407e1acdf5a3a24b9fd4
+Item Level: 84
+Implicits: 3
+{enchant}{crafted}Adds 8 Passive Skills
+{enchant}{crafted}2 Added Passive Skills are Jewel Sockets
+{enchant}{crafted}Added Small Passive Skills grant: Minions deal 10% increased Damage
+Added Small Passive Skills also grant: +10 to Maximum Life
+Added Small Passive Skills also grant: Minions have 3% increased Attack and Cast Speed
+Added Small Passive Skills also grant: +2 to Strength
+Added Small Passive Skills have 35% increased Effect
+</Item>
+<Item id="23">
+Rarity: RARE
+Item
+Ghastly Eye Jewel
+Unique ID: 8272d4ced3aa769e672c63742b566f353123a9d2b55a0382c302e9705e219d43
+Item Level: 83
+Implicits: 0
++36 to maximum Life
+Minions have +7% to all Elemental Resistances
+Minions have 14% chance to Poison Enemies on Hit
+Minions deal 9 to 15 additional Chaos Damage
+Minions deal 12 to 18 additional Physical Damage
+Corrupted
+</Item>
+<Item id="24">
+Rarity: RARE
+Item
+Ghastly Eye Jewel
+Unique ID: 144f2f12426270aa16d75bb2ece435dcecca33bc907d77498798c660d2663b34
+Item Level: 83
+Implicits: 0
++9 to Strength and Intelligence
+2% increased Cast Speed
++25 to maximum Life
+Minions have 15% chance to Poison Enemies on Hit
+Minions deal 15 to 20 additional Chaos Damage
+Regenerate 20 Energy Shield per second
+Corrupted
+</Item>
+<Item id="25">
+Rarity: RARE
+Item
+Large Cluster Jewel
+Unique ID: e70eda8615a4b7d030d0b6c228c3b059def22aade10b57d6d657f528166b9dc3
+Item Level: 84
+Implicits: 3
+{enchant}{crafted}Adds 9 Passive Skills
+{enchant}{crafted}2 Added Passive Skills are Jewel Sockets
+{enchant}{crafted}Added Small Passive Skills grant: Minions deal 10% increased Damage
+Added Small Passive Skills also grant: +3% to Fire Resistance
+Added Small Passive Skills also grant: +10 to Maximum Life
+Added Small Passive Skills also grant: Minions have 3% increased Attack and Cast Speed
+Added Small Passive Skills have 35% increased Effect
+</Item>
+<Item id="26">
+Rarity: UNIQUE
+Forbidden Flesh
+Cobalt Jewel
+Unique ID: c24f6cc8d0649ee22282fd2d36c3f3f2be81b3ecf660a23475ccf0eb4cdfda6d
+Item Level: 86
+Limited to: 1
+Requires Class Witch
+Implicits: 0
+Allocates Void Beacon if you have the matching modifier on Forbidden Flame
+Corrupted
+</Item>
+<Item id="27">
+Rarity: RARE
+Item
+Large Cluster Jewel
+Unique ID: 87bc189896a46caa000ac0bcb5d7f2056bdecbee1a2733c0c2330565b95c3336
+Item Level: 84
+Implicits: 3
+{enchant}{crafted}Adds 8 Passive Skills
+{enchant}{crafted}2 Added Passive Skills are Jewel Sockets
+{enchant}{crafted}Added Small Passive Skills grant: Minions deal 10% increased Damage
+Added Small Passive Skills also grant: +3 to Intelligence
+Added Small Passive Skills also grant: +9 to Maximum Life
+Added Small Passive Skills also grant: Minions have 3% increased Attack and Cast Speed
+Added Small Passive Skills have 35% increased Effect
+</Item>
+<Item id="28">
+Rarity: UNIQUE
+Lethal Pride
+Timeless Jewel
+Unique ID: a1d210320b7ad31e6e3f10245d86d039bedb06107df11fccb960fc6910fc5d09
+Item Level: 84
+Radius: Large
+Limited to: 1 Historic
+Implicits: 0
+Commanded leadership over 11371 warriors under Rakiata
+Passives in radius are Conquered by the Karui
+Historic
+</Item>
+<Item id="29">
+Rarity: RARE
+Item
+Ghastly Eye Jewel
+Unique ID: 09873421b67c53e979c024363af41a6b18f3a2b222084096407915305d9c2987
+Item Level: 83
+Implicits: 0
++24 to maximum Life
+Minions have +6% to all Elemental Resistances
+Minions have 14% chance to Poison Enemies on Hit
+Minions deal 7 to 11 additional Chaos Damage
+Minions deal 15 to 23 additional Physical Damage
+Corrupted
+</Item>
+<Item id="30">
+Rarity: UNIQUE
+Forbidden Flame
+Crimson Jewel
+Unique ID: a7a3772758bcfc838c7ec29d4c3106a0c989d721d7fab545f9ba9faf11537bf1
+Item Level: 86
+Limited to: 1
+Requires Class Witch
+Implicits: 0
+Allocates Void Beacon if you have the matching modifier on Forbidden Flesh
+Corrupted
+</Item>
+<Item id="31">
+Rarity: RARE
+Item
+Ghastly Eye Jewel
+Unique ID: fa8d588b9c981e821dca44b27fb078ab26d935c659c2dc431afd035bff9ab981
+Item Level: 85
+Implicits: 0
++38 to maximum Life
+Regenerate 9.6 Life per second
+Minions have 6% increased Attack Speed
+Minions have 5% increased Cast Speed
+Minions have 5% chance to Taunt on Hit with Attacks
+Minions deal 26 to 39 additional Chaos Damage
+Corrupted
+</Item>
+<Item id="32">
+Rarity: RARE
+Item
+Ghastly Eye Jewel
+Unique ID: 16447a5c6acaad4dbf14afbe48d52b2eb1cd851baad6b5bb33fd02286ff0be68
+Item Level: 84
+Implicits: 0
++221 to Armour
++28 to maximum Life
+45% chance to Avoid being Shocked
+Minions have 15% chance to cause Bleeding with Attacks
+Minions have 5% increased Attack Speed
+Minions have 5% increased Cast Speed
+Corrupted
+</Item>
+<ItemSet useSecondWeaponSet="false" id="1">
+<Slot itemPbURL="" name="Weapon 1" itemId="1"/>
+<Slot itemPbURL="" name="Helmet" itemId="2"/>
+<Slot itemPbURL="" active="true" name="Flask 3" itemId="3"/>
+<Slot itemPbURL="" name="Body Armour" itemId="4"/>
+<Slot itemPbURL="" name="Weapon 1 Swap" itemId="5"/>
+<Slot itemPbURL="" name="Amulet" itemId="6"/>
+<Slot itemPbURL="" active="true" name="Flask 1" itemId="7"/>
+<Slot itemPbURL="" name="Weapon 2" itemId="8"/>
+<Slot itemPbURL="" name="Belt" itemId="9"/>
+<Slot itemPbURL="" name="Belt Abyssal Socket 1" itemId="10"/>
+<Slot itemPbURL="" name="Belt Abyssal Socket 2" itemId="11"/>
+<Slot itemPbURL="" active="true" name="Flask 2" itemId="12"/>
+<Slot itemPbURL="" name="Gloves" itemId="13"/>
+<Slot itemPbURL="" name="Weapon 2 Swap" itemId="14"/>
+<Slot itemPbURL="" name="Ring 2" itemId="15"/>
+<Slot itemPbURL="" name="Boots" itemId="16"/>
+<Slot itemPbURL="" name="Ring 1" itemId="17"/>
+<Slot itemPbURL="" active="true" name="Flask 4" itemId="18"/>
+<Slot itemPbURL="" active="true" name="Flask 5" itemId="19"/>
+</ItemSet>
+</Items>
+<Config>
+<Input name="enemyIsBoss" string="Pinnacle"/>
+</Config>
+</PathOfBuilding>
