@@ -1,0 +1,1035 @@
+{
+  "version": "3.29（官网最新补丁3.29.3c，2026-11-06核验）",
+  "checked_at": "2026-11-06",
+  "guide_path": "开荒攻略/3.29-女巫中毒定罪圣物-交易服.md",
+  "gems": [
+    {
+      "id": "Freezing_Pulse",
+      "name_cn": "冰霜脉冲",
+      "name_en": "Freezing Pulse",
+      "required_level": 1,
+      "acquisition_stage": 10,
+      "first_use_stage": 10,
+      "act": 1,
+      "quest": "大门口的敌人（Enemy at the Gate）",
+      "npc": "塔格拉（Tarkleigh）",
+      "source_mode": "reward",
+      "witch_access": "女巫可领取；本路线选它，魔卫复苏另购。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Freezing_Pulse",
+      "poedb_url": "https://poedb.tw/cn/Freezing_Pulse",
+      "notes": ""
+    },
+    {
+      "id": "Raise_Zombie",
+      "name_cn": "魔卫复苏",
+      "name_en": "Raise Zombie",
+      "required_level": 1,
+      "acquisition_stage": 10,
+      "first_use_stage": 10,
+      "act": 1,
+      "quest": "大门口的敌人（Enemy at the Gate）",
+      "npc": "奈莎（Nessa）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买；不与冰霜脉冲同时算免费奖励。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Raise_Zombie",
+      "poedb_url": "https://poedb.tw/cn/Raise_Zombie",
+      "notes": ""
+    },
+    {
+      "id": "Summon_Raging_Spirit",
+      "name_cn": "召唤愤怒狂灵",
+      "name_en": "Summon Raging Spirit",
+      "required_level": 4,
+      "acquisition_stage": 11,
+      "first_use_stage": 11,
+      "act": 1,
+      "quest": "打破鸟蛋（Breaking Some Eggs）",
+      "npc": "塔格拉（Tarkleigh）",
+      "source_mode": "reward",
+      "witch_access": "女巫可领取；冰霜闪现另购。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Summon_Raging_Spirit",
+      "poedb_url": "https://poedb.tw/cn/Summon_Raging_Spirit",
+      "notes": ""
+    },
+    {
+      "id": "Frostblink",
+      "name_cn": "冰霜闪现",
+      "name_en": "Frostblink",
+      "required_level": 4,
+      "acquisition_stage": 11,
+      "first_use_stage": 11,
+      "act": 1,
+      "quest": "打破鸟蛋（Breaking Some Eggs）",
+      "npc": "奈莎（Nessa）",
+      "source_mode": "vendor",
+      "witch_access": "全职业可购买。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Frostblink",
+      "poedb_url": "https://poedb.tw/cn/Frostblink",
+      "notes": ""
+    },
+    {
+      "id": "Minion_Damage_Support",
+      "name_cn": "召唤生物伤害（辅）",
+      "name_en": "Minion Damage Support",
+      "required_level": 8,
+      "acquisition_stage": 12,
+      "first_use_stage": 12,
+      "act": 1,
+      "quest": "冲出监牢（The Caged Brute）",
+      "npc": "奈莎（Nessa）",
+      "source_mode": "reward",
+      "witch_access": "女巫可领取；附加闪电伤害另购。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Minion_Damage_Support",
+      "poedb_url": "https://poedb.tw/cn/Minion_Damage_Support",
+      "notes": ""
+    },
+    {
+      "id": "Added_Lightning_Damage_Support",
+      "name_cn": "附加闪电伤害（辅）",
+      "name_en": "Added Lightning Damage Support",
+      "required_level": 8,
+      "acquisition_stage": 12,
+      "first_use_stage": 12,
+      "act": 1,
+      "quest": "冲出监牢（The Caged Brute）",
+      "npc": "奈莎（Nessa）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Added_Lightning_Damage_Support",
+      "poedb_url": "https://poedb.tw/cn/Added_Lightning_Damage_Support",
+      "notes": ""
+    },
+    {
+      "id": "Clarity",
+      "name_cn": "清晰",
+      "name_en": "Clarity",
+      "required_level": 10,
+      "acquisition_stage": 13,
+      "first_use_stage": 13,
+      "act": 1,
+      "quest": "冲出监牢（The Caged Brute）",
+      "npc": "奈莎（Nessa）",
+      "source_mode": "vendor",
+      "witch_access": "全职业可购买；10级才启用，保持低级。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Clarity",
+      "poedb_url": "https://poedb.tw/cn/Clarity",
+      "notes": ""
+    },
+    {
+      "id": "Absolution",
+      "name_cn": "赦罪",
+      "name_en": "Absolution",
+      "required_level": 12,
+      "acquisition_stage": 14,
+      "first_use_stage": 14,
+      "act": 1,
+      "quest": "海妖之歌（The Siren's Cadence）",
+      "npc": "奈莎（Nessa）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买；女巫没有这颗免费任务奖励。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Absolution",
+      "poedb_url": "https://poedb.tw/cn/Absolution",
+      "notes": ""
+    },
+    {
+      "id": "Flesh_Offering",
+      "name_cn": "血肉奉献",
+      "name_en": "Flesh Offering",
+      "required_level": 12,
+      "acquisition_stage": 14,
+      "first_use_stage": 14,
+      "act": 1,
+      "quest": "海妖之歌（The Siren's Cadence）",
+      "npc": "奈莎（Nessa）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买；本路线统一购买，不重复计算免费奖励。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Flesh_Offering",
+      "poedb_url": "https://poedb.tw/cn/Flesh_Offering",
+      "notes": ""
+    },
+    {
+      "id": "Bone_Offering",
+      "name_cn": "装甲奉献",
+      "name_en": "Bone Offering",
+      "required_level": 12,
+      "acquisition_stage": 14,
+      "first_use_stage": 31,
+      "act": 1,
+      "quest": "海妖之歌（The Siren's Cadence）",
+      "npc": "奈莎（Nessa）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买，首次升华取得奉献女魔后替换血肉奉献。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Bone_Offering",
+      "poedb_url": "https://poedb.tw/cn/Bone_Offering",
+      "notes": ""
+    },
+    {
+      "id": "Desecrate",
+      "name_cn": "亵渎",
+      "name_en": "Desecrate",
+      "required_level": 16,
+      "acquisition_stage": 20,
+      "first_use_stage": 20,
+      "act": 2,
+      "quest": "盘根错节（The Root of the Problem）",
+      "npc": "伊娜（Yeena）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买；完成黑色入侵者后继续完成盘根错节，再集中采购。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Desecrate",
+      "poedb_url": "https://poedb.tw/cn/Desecrate",
+      "notes": ""
+    },
+    {
+      "id": "Summon_Skitterbots",
+      "name_cn": "召唤飞掠者",
+      "name_en": "Summon Skitterbots",
+      "required_level": 16,
+      "acquisition_stage": 20,
+      "first_use_stage": 20,
+      "act": 2,
+      "quest": "盘根错节（The Root of the Problem）",
+      "npc": "伊娜（Yeena）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买；Wiki列黑色入侵者，采用两任务均完成的保守时点。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Summon_Skitterbots",
+      "poedb_url": "https://poedb.tw/cn/Summon_Skitterbots",
+      "notes": ""
+    },
+    {
+      "id": "Faster_Casting_Support",
+      "name_cn": "快速施法（辅）",
+      "name_en": "Faster Casting Support",
+      "required_level": 18,
+      "acquisition_stage": 21,
+      "first_use_stage": 21,
+      "act": 2,
+      "quest": "清理蜘蛛（Sharp and Cruel）",
+      "npc": "伊娜（Yeena）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Faster_Casting_Support",
+      "poedb_url": "https://poedb.tw/cn/Faster_Casting_Support",
+      "notes": ""
+    },
+    {
+      "id": "Minion_Life_Support",
+      "name_cn": "召唤生物生命（辅）",
+      "name_en": "Minion Life Support",
+      "required_level": 18,
+      "acquisition_stage": 21,
+      "first_use_stage": 21,
+      "act": 2,
+      "quest": "清理蜘蛛（Sharp and Cruel）",
+      "npc": "伊娜（Yeena）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Minion_Life_Support",
+      "poedb_url": "https://poedb.tw/cn/Minion_Life_Support",
+      "notes": ""
+    },
+    {
+      "id": "Physical_to_Lightning_Support",
+      "name_cn": "物理转闪电（辅）",
+      "name_en": "Physical to Lightning Support",
+      "required_level": 18,
+      "acquisition_stage": 31,
+      "first_use_stage": 31,
+      "act": 3,
+      "quest": "命运之语（A Fixture of Fate）",
+      "npc": "萨欧赛（Siosa）",
+      "source_mode": "global_vendor",
+      "witch_access": "女巫不能在第二章伊娜购买；图书馆解锁后跨职业购买。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Physical_to_Lightning_Support",
+      "poedb_url": "https://poedb.tw/cn/Physical_to_Lightning_Support",
+      "notes": ""
+    },
+    {
+      "id": "Conductivity",
+      "name_cn": "导电",
+      "name_en": "Conductivity",
+      "required_level": 24,
+      "acquisition_stage": 30,
+      "first_use_stage": 30,
+      "act": 3,
+      "quest": "迷失的爱情（Lost in Love）",
+      "npc": "卡尔莉萨（Clarissa）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买；不计多个互斥免费诅咒。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Conductivity",
+      "poedb_url": "https://poedb.tw/cn/Conductivity",
+      "notes": ""
+    },
+    {
+      "id": "Determination",
+      "name_cn": "坚定",
+      "name_en": "Determination",
+      "required_level": 24,
+      "acquisition_stage": 31,
+      "first_use_stage": 31,
+      "act": 3,
+      "quest": "命运之语（A Fixture of Fate）",
+      "npc": "萨欧赛（Siosa）",
+      "source_mode": "global_vendor",
+      "witch_access": "女巫不能在第三章卡尔莉萨直接购买；图书馆购买。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Determination",
+      "poedb_url": "https://poedb.tw/cn/Determination",
+      "notes": ""
+    },
+    {
+      "id": "Feeding_Frenzy_Support",
+      "name_cn": "狂噬（辅）",
+      "name_en": "Feeding Frenzy Support",
+      "required_level": 31,
+      "acquisition_stage": 31,
+      "first_use_stage": 31,
+      "act": 3,
+      "quest": "命运之语（A Fixture of Fate）",
+      "npc": "卡尔莉萨（Clarissa）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买；接辅助魔卫，不占主技能伤害位。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Feeding_Frenzy_Support",
+      "poedb_url": "https://poedb.tw/cn/Feeding_Frenzy_Support",
+      "notes": ""
+    },
+    {
+      "id": "Spell_Echo_Support",
+      "name_cn": "施法回响（辅）",
+      "name_en": "Spell Echo Support",
+      "required_level": 38,
+      "acquisition_stage": 40,
+      "first_use_stage": 40,
+      "act": 4,
+      "quest": "永恒梦魇（The Eternal Nightmare）",
+      "npc": "佩塔卢斯和芙安珈（Petarus and Vanja）",
+      "source_mode": "vendor",
+      "witch_access": "全职业可购买；完成该任务商店解锁后才加入。",
+      "siosa": "非前三章宝石；本路线不依赖萨欧赛",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Spell_Echo_Support",
+      "poedb_url": "https://poedb.tw/cn/Spell_Echo_Support",
+      "notes": ""
+    },
+    {
+      "id": "Convocation",
+      "name_cn": "号召",
+      "name_en": "Convocation",
+      "required_level": 31,
+      "acquisition_stage": 31,
+      "first_use_stage": 60,
+      "act": 3,
+      "quest": "命运之语（A Fixture of Fate）",
+      "npc": "萨欧赛（Siosa）",
+      "source_mode": "global_vendor",
+      "witch_access": "PoEDB同名页显示旧24级版本；Wiki新版本31级。本路线第六章购买新版本，避免提前使用。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Convocation",
+      "poedb_url": "https://poedb.tw/cn/Convocation",
+      "notes": "PoEDB为旧版24级记录，保守按Wiki新版31级使用。"
+    },
+    {
+      "id": "Molten_Shell",
+      "name_cn": "熔岩护盾",
+      "name_en": "Molten Shell",
+      "required_level": 16,
+      "acquisition_stage": 31,
+      "first_use_stage": 31,
+      "act": 3,
+      "quest": "命运之语（A Fixture of Fate）",
+      "npc": "萨欧赛（Siosa）",
+      "source_mode": "global_vendor",
+      "witch_access": "女巫无早期本职业商店来源；图书馆购买。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Molten_Shell",
+      "poedb_url": "https://poedb.tw/cn/Molten_Shell",
+      "notes": ""
+    },
+    {
+      "id": "Automation",
+      "name_cn": "自动化",
+      "name_en": "Automation",
+      "required_level": 24,
+      "acquisition_stage": 30,
+      "first_use_stage": 31,
+      "act": 3,
+      "quest": "迷失的爱情（Lost in Love）",
+      "npc": "卡尔莉萨（Clarissa）",
+      "source_mode": "vendor",
+      "witch_access": "全职业可购买；启用后触发已连接的瞬发护卫技能。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Automation",
+      "poedb_url": "https://poedb.tw/cn/Automation",
+      "notes": ""
+    },
+    {
+      "id": "Summon_Holy_Relic_of_Conviction",
+      "name_cn": "定罪之召唤圣物",
+      "name_en": "Summon Holy Relic of Conviction",
+      "required_level": 4,
+      "acquisition_stage": 100,
+      "first_use_stage": 100,
+      "act": 0,
+      "quest": "交易购买；非任务奖励",
+      "npc": "玩家交易／帝王试炼迷宫（The Lord's Labyrinth）",
+      "source_mode": "trade",
+      "witch_access": "改造宝石；两类NPC均不直接出售。PoEDB使命表继承普通版，不能作为改造版取得证据。",
+      "siosa": "不出售",
+      "lilly": "不出售",
+      "poewiki_url": "https://www.poewiki.net/wiki/Summon_Holy_Relic_of_Conviction",
+      "poedb_url": "https://poedb.tw/cn/Summon_Holy_Relic_of_Conviction",
+      "notes": ""
+    },
+    {
+      "id": "Lancing_Steel_of_Spraying",
+      "name_cn": "飞射之断金之刃",
+      "name_en": "Lancing Steel of Spraying",
+      "required_level": 28,
+      "acquisition_stage": 100,
+      "first_use_stage": 100,
+      "act": 0,
+      "quest": "交易购买；非任务奖励",
+      "npc": "玩家交易／帝王试炼迷宫（The Lord's Labyrinth）",
+      "source_mode": "trade",
+      "witch_access": "改造宝石；女巫不靠卡尔莉萨购买，萨欧赛和丽莉也不出售改造版。",
+      "siosa": "不出售",
+      "lilly": "不出售",
+      "poewiki_url": "https://www.poewiki.net/wiki/Lancing_Steel_of_Spraying",
+      "poedb_url": "https://poedb.tw/cn/Lancing_Steel_of_Spraying",
+      "notes": ""
+    },
+    {
+      "id": "Chance_to_Poison_Support",
+      "name_cn": "低阶毒化（辅）",
+      "name_en": "Chance to Poison Support",
+      "required_level": 1,
+      "acquisition_stage": 11,
+      "first_use_stage": 100,
+      "act": 1,
+      "quest": "医者之心（Mercy Mission）",
+      "npc": "奈莎（Nessa）",
+      "source_mode": "reward",
+      "witch_access": "女巫可领取但不能在奈莎补购；未留存则第三章萨欧赛或第六章丽莉购买。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Chance_to_Poison_Support",
+      "poedb_url": "https://poedb.tw/cn/Chance_to_Poison_Support",
+      "notes": ""
+    },
+    {
+      "id": "Void_Manipulation_Support",
+      "name_cn": "虚空操纵（辅）",
+      "name_en": "Void Manipulation Support",
+      "required_level": 8,
+      "acquisition_stage": 12,
+      "first_use_stage": 100,
+      "act": 1,
+      "quest": "冲出监牢（The Caged Brute）",
+      "npc": "奈莎（Nessa）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买；剧情只备用练级，不连接赦罪。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Void_Manipulation_Support",
+      "poedb_url": "https://poedb.tw/cn/Void_Manipulation_Support",
+      "notes": ""
+    },
+    {
+      "id": "Unbound_Ailments_Support",
+      "name_cn": "异常爆发（辅）",
+      "name_en": "Unbound Ailments Support",
+      "required_level": 8,
+      "acquisition_stage": 12,
+      "first_use_stage": 100,
+      "act": 1,
+      "quest": "冲出监牢（The Caged Brute）",
+      "npc": "奈莎（Nessa）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买；剧情只备用练级。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Unbound_Ailments_Support",
+      "poedb_url": "https://poedb.tw/cn/Unbound_Ailments_Support",
+      "notes": ""
+    },
+    {
+      "id": "Added_Chaos_Damage_Support",
+      "name_cn": "附加混沌伤害（辅）",
+      "name_en": "Added Chaos Damage Support",
+      "required_level": 31,
+      "acquisition_stage": 31,
+      "first_use_stage": 100,
+      "act": 3,
+      "quest": "命运之语（A Fixture of Fate）",
+      "npc": "萨欧赛（Siosa）",
+      "source_mode": "global_vendor",
+      "witch_access": "按Wiki跨职业图书馆规则取得；PoEDB此行仅列决斗者，记录为表格缺口。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Added_Chaos_Damage_Support",
+      "poedb_url": "https://poedb.tw/cn/Added_Chaos_Damage_Support",
+      "notes": ""
+    },
+    {
+      "id": "Life_Gain_on_Hit_Support",
+      "name_cn": "击中生命回复（辅）",
+      "name_en": "Life Gain on Hit Support",
+      "required_level": 8,
+      "acquisition_stage": 31,
+      "first_use_stage": 100,
+      "act": 3,
+      "quest": "命运之语（A Fixture of Fate）",
+      "npc": "萨欧赛（Siosa）",
+      "source_mode": "global_vendor",
+      "witch_access": "女巫不能在第一章奈莎购买；图书馆或第六章购买。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Life_Gain_on_Hit_Support",
+      "poedb_url": "https://poedb.tw/cn/Life_Gain_on_Hit_Support",
+      "notes": ""
+    },
+    {
+      "id": "Faster_Attacks_Support",
+      "name_cn": "快速攻击（辅）",
+      "name_en": "Faster Attacks Support",
+      "required_level": 8,
+      "acquisition_stage": 31,
+      "first_use_stage": 110,
+      "act": 3,
+      "quest": "命运之语（A Fixture of Fate）",
+      "npc": "萨欧赛（Siosa）",
+      "source_mode": "global_vendor",
+      "witch_access": "女巫无第一章奖励且不能在伊娜购买；图书馆或第六章购买。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Faster_Attacks_Support",
+      "poedb_url": "https://poedb.tw/cn/Faster_Attacks_Support",
+      "notes": ""
+    },
+    {
+      "id": "Withering_Touch_Support",
+      "name_cn": "凋零之触（辅）",
+      "name_en": "Withering Touch Support",
+      "required_level": 38,
+      "acquisition_stage": 60,
+      "first_use_stage": 100,
+      "act": 6,
+      "quest": "优雅不再（Fallen from Grace）",
+      "npc": "丽莉·罗斯（Lilly Roth）",
+      "source_mode": "global_vendor",
+      "witch_access": "第四章本职业商店不售；第六章丽莉跨职业购买。",
+      "siosa": "非前三章宝石；本路线不依赖萨欧赛",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Withering_Touch_Support",
+      "poedb_url": "https://poedb.tw/cn/Withering_Touch_Support",
+      "notes": ""
+    },
+    {
+      "id": "Returning_Projectiles_Support",
+      "name_cn": "投射物归返（辅）",
+      "name_en": "Returning Projectiles Support",
+      "required_level": 38,
+      "acquisition_stage": 40,
+      "first_use_stage": 110,
+      "act": 4,
+      "quest": "永恒梦魇（The Eternal Nightmare）",
+      "npc": "佩塔卢斯和芙安珈（Petarus and Vanja）",
+      "source_mode": "vendor",
+      "witch_access": "全职业可购买；魔力允许时再接入触发组。",
+      "siosa": "非前三章宝石；本路线不依赖萨欧赛",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Returning_Projectiles_Support",
+      "poedb_url": "https://poedb.tw/cn/Returning_Projectiles_Support",
+      "notes": ""
+    },
+    {
+      "id": "Despair",
+      "name_cn": "绝望",
+      "name_en": "Despair",
+      "required_level": 24,
+      "acquisition_stage": 30,
+      "first_use_stage": 100,
+      "act": 3,
+      "quest": "迷失的爱情（Lost in Love）",
+      "npc": "卡尔莉萨（Clarissa）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买；转毒后替换导电，不默认双诅咒。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Despair",
+      "poedb_url": "https://poedb.tw/cn/Despair",
+      "notes": ""
+    },
+    {
+      "id": "Tempest_Shield",
+      "name_cn": "暴风之盾",
+      "name_en": "Tempest Shield",
+      "required_level": 16,
+      "acquisition_stage": 20,
+      "first_use_stage": 100,
+      "act": 2,
+      "quest": "盘根错节（The Root of the Problem）",
+      "npc": "伊娜（Yeena）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买；剧情备用，转型后开启。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Tempest_Shield",
+      "poedb_url": "https://poedb.tw/cn/Tempest_Shield",
+      "notes": ""
+    },
+    {
+      "id": "Malevolence",
+      "name_cn": "怨毒光环",
+      "name_en": "Malevolence",
+      "required_level": 24,
+      "acquisition_stage": 30,
+      "first_use_stage": 110,
+      "act": 3,
+      "quest": "迷失的爱情（Lost in Love）",
+      "npc": "卡尔莉萨（Clarissa）",
+      "source_mode": "vendor",
+      "witch_access": "女巫可购买；第二套光环方案，保留效率足够才与坚定同开。",
+      "siosa": "第三章命运之语后可跨职业购买；普通版",
+      "lilly": "第六章优雅不再后跨职业购买；普通版",
+      "poewiki_url": "https://www.poewiki.net/wiki/Malevolence",
+      "poedb_url": "https://poedb.tw/cn/Malevolence",
+      "notes": ""
+    },
+    {
+      "id": "Empower_Support",
+      "name_cn": "赋予（辅）",
+      "name_en": "Empower Support",
+      "required_level": 1,
+      "acquisition_stage": 110,
+      "first_use_stage": 110,
+      "act": 0,
+      "quest": "交易购买已升级版本；非任务奖励",
+      "npc": "玩家交易／随机掉落",
+      "source_mode": "trade",
+      "witch_access": "掉落限定宝石；萨欧赛和丽莉均不售。1级不提高被辅助技能等级。",
+      "siosa": "不出售",
+      "lilly": "不出售",
+      "poewiki_url": "https://www.poewiki.net/wiki/Empower_Support",
+      "poedb_url": "https://poedb.tw/cn/Empower_Support",
+      "notes": ""
+    }
+  ],
+  "stages": [
+    {
+      "id": 10,
+      "name": "第一章进城",
+      "level": 2,
+      "groups": [
+        [
+          "Freezing_Pulse"
+        ],
+        [
+          "Raise_Zombie"
+        ]
+      ]
+    },
+    {
+      "id": 11,
+      "name": "第一章打破鸟蛋",
+      "level": 4,
+      "groups": [
+        [
+          "Summon_Raging_Spirit"
+        ],
+        [
+          "Raise_Zombie"
+        ],
+        [
+          "Frostblink"
+        ]
+      ]
+    },
+    {
+      "id": 12,
+      "name": "第一章进入监牢后向奈莎领取辅助",
+      "level": 8,
+      "groups": [
+        [
+          "Summon_Raging_Spirit",
+          "Minion_Damage_Support",
+          "Added_Lightning_Damage_Support"
+        ],
+        [
+          "Raise_Zombie"
+        ],
+        [
+          "Frostblink"
+        ]
+      ]
+    },
+    {
+      "id": 13,
+      "name": "第一章击败布鲁特斯后且达到10级",
+      "level": 10,
+      "groups": [
+        [
+          "Summon_Raging_Spirit",
+          "Minion_Damage_Support",
+          "Added_Lightning_Damage_Support"
+        ],
+        [
+          "Clarity"
+        ],
+        [
+          "Raise_Zombie"
+        ],
+        [
+          "Frostblink"
+        ]
+      ]
+    },
+    {
+      "id": 14,
+      "name": "第一章海妖之歌后",
+      "level": 12,
+      "groups": [
+        [
+          "Absolution",
+          "Minion_Damage_Support",
+          "Added_Lightning_Damage_Support"
+        ],
+        [
+          "Flesh_Offering"
+        ],
+        [
+          "Raise_Zombie"
+        ],
+        [
+          "Clarity"
+        ],
+        [
+          "Frostblink"
+        ]
+      ]
+    },
+    {
+      "id": 20,
+      "name": "第二章盘根错节后",
+      "level": 16,
+      "groups": [
+        [
+          "Absolution",
+          "Minion_Damage_Support",
+          "Added_Lightning_Damage_Support"
+        ],
+        [
+          "Desecrate",
+          "Flesh_Offering"
+        ],
+        [
+          "Summon_Skitterbots"
+        ],
+        [
+          "Clarity"
+        ],
+        [
+          "Raise_Zombie"
+        ],
+        [
+          "Frostblink"
+        ]
+      ]
+    },
+    {
+      "id": 21,
+      "name": "第二章清理蜘蛛后",
+      "level": 18,
+      "groups": [
+        [
+          "Absolution",
+          "Minion_Damage_Support",
+          "Added_Lightning_Damage_Support",
+          "Faster_Casting_Support"
+        ],
+        [
+          "Raise_Zombie",
+          "Minion_Life_Support"
+        ],
+        [
+          "Desecrate",
+          "Flesh_Offering"
+        ],
+        [
+          "Clarity"
+        ],
+        [
+          "Summon_Skitterbots"
+        ],
+        [
+          "Frostblink"
+        ]
+      ]
+    },
+    {
+      "id": 30,
+      "name": "第三章迷失的爱情后",
+      "level": 24,
+      "groups": [
+        [
+          "Absolution",
+          "Minion_Damage_Support",
+          "Added_Lightning_Damage_Support",
+          "Faster_Casting_Support"
+        ],
+        [
+          "Conductivity"
+        ],
+        [
+          "Raise_Zombie",
+          "Minion_Life_Support"
+        ],
+        [
+          "Desecrate",
+          "Flesh_Offering"
+        ],
+        [
+          "Clarity"
+        ],
+        [
+          "Summon_Skitterbots"
+        ],
+        [
+          "Frostblink"
+        ]
+      ]
+    },
+    {
+      "id": 31,
+      "name": "第三章图书馆及首次升华后",
+      "level": 33,
+      "groups": [
+        [
+          "Absolution",
+          "Minion_Damage_Support",
+          "Physical_to_Lightning_Support",
+          "Faster_Casting_Support"
+        ],
+        [
+          "Raise_Zombie",
+          "Minion_Life_Support",
+          "Feeding_Frenzy_Support"
+        ],
+        [
+          "Conductivity"
+        ],
+        [
+          "Desecrate",
+          "Bone_Offering"
+        ],
+        [
+          "Determination"
+        ],
+        [
+          "Clarity"
+        ],
+        [
+          "Molten_Shell",
+          "Automation"
+        ],
+        [
+          "Frostblink"
+        ]
+      ]
+    },
+    {
+      "id": 40,
+      "name": "第四章永恒梦魇后",
+      "level": 38,
+      "groups": [
+        [
+          "Absolution",
+          "Minion_Damage_Support",
+          "Physical_to_Lightning_Support",
+          "Spell_Echo_Support"
+        ],
+        [
+          "Raise_Zombie",
+          "Minion_Life_Support",
+          "Feeding_Frenzy_Support"
+        ],
+        [
+          "Conductivity"
+        ],
+        [
+          "Desecrate",
+          "Bone_Offering"
+        ],
+        [
+          "Determination"
+        ],
+        [
+          "Clarity"
+        ],
+        [
+          "Molten_Shell",
+          "Automation"
+        ],
+        [
+          "Frostblink"
+        ]
+      ]
+    },
+    {
+      "id": 60,
+      "name": "第六章优雅不再后至十章",
+      "level": 45,
+      "groups": [
+        [
+          "Absolution",
+          "Minion_Damage_Support",
+          "Physical_to_Lightning_Support",
+          "Spell_Echo_Support"
+        ],
+        [
+          "Raise_Zombie",
+          "Minion_Life_Support",
+          "Feeding_Frenzy_Support"
+        ],
+        [
+          "Conductivity"
+        ],
+        [
+          "Desecrate",
+          "Bone_Offering"
+        ],
+        [
+          "Determination"
+        ],
+        [
+          "Clarity"
+        ],
+        [
+          "Molten_Shell",
+          "Automation"
+        ],
+        [
+          "Frostblink"
+        ],
+        [
+          "Convocation"
+        ]
+      ]
+    },
+    {
+      "id": 100,
+      "name": "白图前后转毒圣物",
+      "level": 68,
+      "groups": [
+        [
+          "Summon_Holy_Relic_of_Conviction",
+          "Minion_Damage_Support",
+          "Chance_to_Poison_Support",
+          "Void_Manipulation_Support",
+          "Unbound_Ailments_Support",
+          "Added_Chaos_Damage_Support"
+        ],
+        [
+          "Lancing_Steel_of_Spraying",
+          "Life_Gain_on_Hit_Support",
+          "Withering_Touch_Support"
+        ],
+        [
+          "Desecrate",
+          "Bone_Offering"
+        ],
+        [
+          "Despair"
+        ],
+        [
+          "Determination"
+        ],
+        [
+          "Tempest_Shield"
+        ],
+        [
+          "Molten_Shell",
+          "Automation"
+        ],
+        [
+          "Frostblink"
+        ],
+        [
+          "Convocation"
+        ],
+        [
+          "Raise_Zombie",
+          "Minion_Life_Support",
+          "Feeding_Frenzy_Support"
+        ]
+      ]
+    },
+    {
+      "id": 110,
+      "name": "黄图后可选升级",
+      "level": 80,
+      "groups": [
+        [
+          "Summon_Holy_Relic_of_Conviction",
+          "Minion_Damage_Support",
+          "Chance_to_Poison_Support",
+          "Void_Manipulation_Support",
+          "Unbound_Ailments_Support",
+          "Empower_Support"
+        ],
+        [
+          "Lancing_Steel_of_Spraying",
+          "Life_Gain_on_Hit_Support",
+          "Withering_Touch_Support",
+          "Returning_Projectiles_Support"
+        ],
+        [
+          "Lancing_Steel_of_Spraying",
+          "Faster_Attacks_Support",
+          "Withering_Touch_Support",
+          "Returning_Projectiles_Support"
+        ],
+        [
+          "Malevolence"
+        ]
+      ]
+    }
+  ]
+}
